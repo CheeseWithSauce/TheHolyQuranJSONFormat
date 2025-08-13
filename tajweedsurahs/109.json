@@ -1,0 +1,93 @@
+{
+  "surah_number": 109,
+  "name_en": "Al-Kafirun",
+  "name_ar": "الكافرون",
+  "verses_count": 6,
+  "revelation_place": "makkah",
+  "verses": [
+    {
+      "global_id": 6208,
+      "surah": 109,
+      "ayah": 1,
+      "verse_key": "109:1",
+      "text_ar": " قُلْ يَـٰٓأَيُّهَا ٱلْكَـٰفِرُونَ",
+      "text_tajweed_html": "قُلْ يَ<tajweed class=madda_obligatory>ـٰٓ</tajweed>أَيُّهَا <tajweed class=ham_wasl>ٱ</tajweed>لْكَ<tajweed class=madda_normal>ـٰ</tajweed>فِر<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قُلْ يَ<tajweed class=madda_obligatory>ـٰٓ</tajweed>أَيُّهَا <tajweed class=ham_wasl>ٱ</tajweed>لْكَ<tajweed class=madda_normal>ـٰ</tajweed>فِر<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 6209,
+      "surah": 109,
+      "ayah": 2,
+      "verse_key": "109:2",
+      "text_ar": "لَآ أَعْبُدُ مَا تَعْبُدُونَ",
+      "text_tajweed_html": "ل<tajweed class=madda_obligatory>َآ</tajweed> أَعْبُدُ مَا تَعْبُد<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "ل<tajweed class=madda_obligatory>َآ</tajweed> أَعْبُدُ مَا تَعْبُد<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 6210,
+      "surah": 109,
+      "ayah": 3,
+      "verse_key": "109:3",
+      "text_ar": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+      "text_tajweed_html": "وَل<tajweed class=madda_obligatory>َآ</tajweed> أَ<tajweed class=ikhafa>نت</tajweed>ُمْ عَ<tajweed class=madda_normal>ـٰ</tajweed>بِدُونَ م<tajweed class=madda_obligatory>َآ</tajweed> أَعْبُ<tajweed class=qalaqah>د</tajweed>ُ <span class=end>٣</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَل<tajweed class=madda_obligatory>َآ</tajweed> أَ<tajweed class=ikhafa>نت</tajweed>ُمْ عَ<tajweed class=madda_normal>ـٰ</tajweed>بِدُونَ م<tajweed class=madda_obligatory>َآ</tajweed> أَعْبُ<tajweed class=qalaqah>د</tajweed>ُ <span class=end>٣</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 6211,
+      "surah": 109,
+      "ayah": 4,
+      "verse_key": "109:4",
+      "text_ar": "وَلَآ أَنَا۠ عَابِدٌ مَّا عَبَدتُّمْ",
+      "text_tajweed_html": "وَل<tajweed class=madda_obligatory>َآ</tajweed> أَنَا۟ عَابِ<tajweed class=idgham_ghunnah>دٌ م</tajweed>َّا عَبَ<tajweed class=idgham_mutajanisayn>د</tajweed>تُّمْ <span class=end>٤</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَل<tajweed class=madda_obligatory>َآ</tajweed> أَنَا۟ عَابِ<tajweed class=idgham_ghunnah>دٌ م</tajweed>َّا عَبَ<tajweed class=idgham_mutajanisayn>د</tajweed>تُّمْ <span class=end>٤</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 6212,
+      "surah": 109,
+      "ayah": 5,
+      "verse_key": "109:5",
+      "text_ar": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+      "text_tajweed_html": "وَل<tajweed class=madda_obligatory>َآ</tajweed> أَ<tajweed class=ikhafa>نت</tajweed>ُمْ عَ<tajweed class=madda_normal>ـٰ</tajweed>بِدُونَ م<tajweed class=madda_obligatory>َآ</tajweed> أَعْبُ<tajweed class=qalaqah>د</tajweed>ُ <span class=end>٥</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَل<tajweed class=madda_obligatory>َآ</tajweed> أَ<tajweed class=ikhafa>نت</tajweed>ُمْ عَ<tajweed class=madda_normal>ـٰ</tajweed>بِدُونَ م<tajweed class=madda_obligatory>َآ</tajweed> أَعْبُ<tajweed class=qalaqah>د</tajweed>ُ <span class=end>٥</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 6213,
+      "surah": 109,
+      "ayah": 6,
+      "verse_key": "109:6",
+      "text_ar": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
+      "text_tajweed_html": "لَكُمْ دِينُكُمْ وَلِىَ د<tajweed class=madda_permissible>ِي</tajweed>نِ <span class=end>٦</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "لَكُمْ دِينُكُمْ وَلِىَ د<tajweed class=madda_permissible>ِي</tajweed>نِ <span class=end>٦</span>"
+        }
+      ]
+    }
+  ]
+}

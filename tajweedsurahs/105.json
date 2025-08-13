@@ -1,0 +1,79 @@
+{
+  "surah_number": 105,
+  "name_en": "Al-Fil",
+  "name_ar": "الفيل",
+  "verses_count": 5,
+  "revelation_place": "makkah",
+  "verses": [
+    {
+      "global_id": 6189,
+      "surah": 105,
+      "ayah": 1,
+      "verse_key": "105:1",
+      "text_ar": " أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ",
+      "text_tajweed_html": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَ<tajweed class=madda_normal>ـٰ</tajweed>بِ <tajweed class=ham_wasl>ٱ</tajweed>لْف<tajweed class=madda_permissible>ِي</tajweed>لِ <span class=end>١</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَ<tajweed class=madda_normal>ـٰ</tajweed>بِ <tajweed class=ham_wasl>ٱ</tajweed>لْف<tajweed class=madda_permissible>ِي</tajweed>لِ <span class=end>١</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 6190,
+      "surah": 105,
+      "ayah": 2,
+      "verse_key": "105:2",
+      "text_ar": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍ",
+      "text_tajweed_html": "أَلَمْ يَ<tajweed class=qalaqah>جْ</tajweed>عَلْ كَيْدَهُمْ فِى تَضْل<tajweed class=madda_permissible>ِي</tajweed>لٍ <span class=end>٢</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "أَلَمْ يَ<tajweed class=qalaqah>جْ</tajweed>عَلْ كَيْدَهُمْ فِى تَضْل<tajweed class=madda_permissible>ِي</tajweed>لٍ <span class=end>٢</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 6191,
+      "surah": 105,
+      "ayah": 3,
+      "verse_key": "105:3",
+      "text_ar": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+      "text_tajweed_html": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَاب<tajweed class=madda_permissible>ِي</tajweed>لَ <span class=end>٣</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَاب<tajweed class=madda_permissible>ِي</tajweed>لَ <span class=end>٣</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 6192,
+      "surah": 105,
+      "ayah": 4,
+      "verse_key": "105:4",
+      "text_ar": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ",
+      "text_tajweed_html": "تَرْمِيه<tajweed class=ikhafa_shafawi>ِم ب</tajweed>ِحِجَارَ<tajweed class=idgham_ghunnah>ةٍ م</tajweed>ِّ<tajweed class=ikhafa>ن س</tajweed>ِجّ<tajweed class=madda_permissible>ِي</tajweed>لٍ <span class=end>٤</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "تَرْمِيه<tajweed class=ikhafa_shafawi>ِم ب</tajweed>ِحِجَارَ<tajweed class=idgham_ghunnah>ةٍ م</tajweed>ِّ<tajweed class=ikhafa>ن س</tajweed>ِجّ<tajweed class=madda_permissible>ِي</tajweed>لٍ <span class=end>٤</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 6193,
+      "surah": 105,
+      "ayah": 5,
+      "verse_key": "105:5",
+      "text_ar": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ",
+      "text_tajweed_html": "فَجَعَلَهُمْ كَعَصْ<tajweed class=idgham_ghunnah>فٍ م</tajweed>َّأْك<tajweed class=madda_permissible>ُو</tajweed>لِۭ <span class=end>٥</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَجَعَلَهُمْ كَعَصْ<tajweed class=idgham_ghunnah>فٍ م</tajweed>َّأْك<tajweed class=madda_permissible>ُو</tajweed>لِۭ <span class=end>٥</span>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3187 @@
+{
+  "surah_number": 26,
+  "name_en": "Ash-Shu'ara",
+  "name_ar": "الشعراء",
+  "verses_count": 227,
+  "revelation_place": "makkah",
+  "verses": [
+    {
+      "global_id": 2933,
+      "surah": 26,
+      "ayah": 1,
+      "verse_key": "26:1",
+      "text_ar": " طسٓمٓ",
+      "text_tajweed_html": "ط<tajweed class=madda_necessary>سٓ</tajweed><tajweed class=madda_necessary>مٓ</tajweed> <span class=end>١</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "ط<tajweed class=madda_necessary>سٓ</tajweed><tajweed class=madda_necessary>مٓ</tajweed> <span class=end>١</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2934,
+      "surah": 26,
+      "ayah": 2,
+      "verse_key": "26:2",
+      "text_ar": "تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ ٱلْمُبِينِ",
+      "text_tajweed_html": "تِلْكَ ءَايَ<tajweed class=madda_normal>ـٰ</tajweed>تُ <tajweed class=ham_wasl>ٱ</tajweed>لْكِتَ<tajweed class=madda_normal>ـٰ</tajweed>بِ <tajweed class=ham_wasl>ٱ</tajweed>لْمُب<tajweed class=madda_permissible>ِي</tajweed>نِ <span class=end>٢</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "تِلْكَ ءَايَ<tajweed class=madda_normal>ـٰ</tajweed>تُ <tajweed class=ham_wasl>ٱ</tajweed>لْكِتَ<tajweed class=madda_normal>ـٰ</tajweed>بِ <tajweed class=ham_wasl>ٱ</tajweed>لْمُب<tajweed class=madda_permissible>ِي</tajweed>نِ <span class=end>٢</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2935,
+      "surah": 26,
+      "ayah": 3,
+      "verse_key": "26:3",
+      "text_ar": "لَعَلَّكَ بَـٰخِعٌ نَّفْسَكَ أَلَّا يَكُونُوا۟ مُؤْمِنِينَ",
+      "text_tajweed_html": "لَعَلَّكَ بَ<tajweed class=madda_normal>ـٰ</tajweed>خِ<tajweed class=idgham_ghunnah>عٌ ن</tajweed>َّفْسَكَ أَلَّا يَكُونُو<tajweed class=slnt>اْ</tajweed> مُؤْمِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٣</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "لَعَلَّكَ بَ<tajweed class=madda_normal>ـٰ</tajweed>خِ<tajweed class=idgham_ghunnah>عٌ ن</tajweed>َّفْسَكَ أَلَّا يَكُونُو<tajweed class=slnt>اْ</tajweed> مُؤْمِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٣</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2936,
+      "surah": 26,
+      "ayah": 4,
+      "verse_key": "26:4",
+      "text_ar": "إِن نَّشَأْ نُنَزِّلْ عَلَيْهِم مِّنَ ٱلسَّمَآءِ ءَايَةً فَظَلَّتْ أَعْنَـٰقُهُمْ لَهَا خَـٰضِعِينَ",
+      "text_tajweed_html": "إ<tajweed class=idgham_ghunnah>ِن ن</tajweed>َّشَأْ نُنَزِّلْ عَلَيْه<tajweed class=idgham_shafawi>ِم م</tajweed>ِّنَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سَّم<tajweed class=madda_obligatory>َا</tajweed>ٓءِ ءَايَ<tajweed class=ikhafa>ةً ف</tajweed>َظَلَّتْ أَعْنَ<tajweed class=madda_normal>ـٰ</tajweed>قُهُمْ لَهَا خَ<tajweed class=madda_normal>ـٰ</tajweed>ضِع<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٤</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "إ<tajweed class=idgham_ghunnah>ِن ن</tajweed>َّشَأْ نُنَزِّلْ عَلَيْه<tajweed class=idgham_shafawi>ِم م</tajweed>ِّنَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سَّم<tajweed class=madda_obligatory>َا</tajweed>ٓءِ ءَايَ<tajweed class=ikhafa>ةً ف</tajweed>َظَلَّتْ أَعْنَ<tajweed class=madda_normal>ـٰ</tajweed>قُهُمْ لَهَا خَ<tajweed class=madda_normal>ـٰ</tajweed>ضِع<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٤</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2937,
+      "surah": 26,
+      "ayah": 5,
+      "verse_key": "26:5",
+      "text_ar": "وَمَا يَأْتِيهِم مِّن ذِكْرٍ مِّنَ ٱلرَّحْمَـٰنِ مُحْدَثٍ إِلَّا كَانُوا۟ عَنْهُ مُعْرِضِينَ",
+      "text_tajweed_html": "وَمَا يَأْتِيه<tajweed class=idgham_shafawi>ِم م</tajweed>ِّ<tajweed class=ikhafa>ن ذ</tajweed>ِكْ<tajweed class=idgham_ghunnah>رٍ م</tajweed>ِّنَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>رَّحْمَ<tajweed class=madda_normal>ـٰ</tajweed>نِ مُحْدَثٍ إِلَّا كَانُو<tajweed class=slnt>اْ</tajweed> عَنْهُ مُعْرِض<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٥</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَمَا يَأْتِيه<tajweed class=idgham_shafawi>ِم م</tajweed>ِّ<tajweed class=ikhafa>ن ذ</tajweed>ِكْ<tajweed class=idgham_ghunnah>رٍ م</tajweed>ِّنَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>رَّحْمَ<tajweed class=madda_normal>ـٰ</tajweed>نِ مُحْدَثٍ إِلَّا كَانُو<tajweed class=slnt>اْ</tajweed> عَنْهُ مُعْرِض<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٥</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2938,
+      "surah": 26,
+      "ayah": 6,
+      "verse_key": "26:6",
+      "text_ar": "فَقَدْ كَذَّبُوا۟ فَسَيَأْتِيهِمْ أَنۢبَـٰٓؤُا۟ مَا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+      "text_tajweed_html": "فَقَ<tajweed class=qalaqah>دْ</tajweed> كَذَّبُو<tajweed class=slnt>اْ</tajweed> فَسَيَأْتِيهِمْ أَ<tajweed class=iqlab>نۢب</tajweed>َ<tajweed class=madda_obligatory>ـٰٓ</tajweed>ؤُ<tajweed class=slnt>اْ</tajweed> مَا كَانُو<tajweed class=slnt>اْ</tajweed> بِه<tajweed class=madda_normal>ِۦ</tajweed> يَسْتَهْزِء<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٦</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَقَ<tajweed class=qalaqah>دْ</tajweed> كَذَّبُو<tajweed class=slnt>اْ</tajweed> فَسَيَأْتِيهِمْ أَ<tajweed class=iqlab>نۢب</tajweed>َ<tajweed class=madda_obligatory>ـٰٓ</tajweed>ؤُ<tajweed class=slnt>اْ</tajweed> مَا كَانُو<tajweed class=slnt>اْ</tajweed> بِه<tajweed class=madda_normal>ِۦ</tajweed> يَسْتَهْزِء<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٦</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2939,
+      "surah": 26,
+      "ayah": 7,
+      "verse_key": "26:7",
+      "text_ar": "أَوَلَمْ يَرَوْا۟ إِلَى ٱلْأَرْضِ كَمْ أَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍ كَرِيمٍ",
+      "text_tajweed_html": "أَوَلَمْ يَرَوْ<tajweed class=slnt>اْ</tajweed> إِلَى <tajweed class=ham_wasl>ٱ</tajweed>لْأَرْضِ كَمْ أَ<tajweed class=iqlab>نۢب</tajweed>َتْنَا فِيهَا مِ<tajweed class=ikhafa>ن ك</tajweed>ُلِّ زَوْ<tajweed class=ikhafa>جٍ ك</tajweed>َر<tajweed class=madda_permissible>ِي</tajweed>مٍ <span class=end>٧</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "أَوَلَمْ يَرَوْ<tajweed class=slnt>اْ</tajweed> إِلَى <tajweed class=ham_wasl>ٱ</tajweed>لْأَرْضِ كَمْ أَ<tajweed class=iqlab>نۢب</tajweed>َتْنَا فِيهَا مِ<tajweed class=ikhafa>ن ك</tajweed>ُلِّ زَوْ<tajweed class=ikhafa>جٍ ك</tajweed>َر<tajweed class=madda_permissible>ِي</tajweed>مٍ <span class=end>٧</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2940,
+      "surah": 26,
+      "ayah": 8,
+      "verse_key": "26:8",
+      "text_ar": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+      "text_tajweed_html": "إِ<tajweed class=ghunnah>نّ</tajweed>َ فِى ذ<tajweed class=madda_normal>َٲ</tajweed>لِكَ لَأَيَ<tajweed class=idgham_ghunnah>ةً‌ۖ و</tajweed>َمَا كَانَ أَكْثَرُه<tajweed class=idgham_shafawi>ُم م</tajweed>ُّؤْمِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٨</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "إِ<tajweed class=ghunnah>نّ</tajweed>َ فِى ذ<tajweed class=madda_normal>َٲ</tajweed>لِكَ لَأَيَ<tajweed class=idgham_ghunnah>ةً‌ۖ و</tajweed>َمَا كَانَ أَكْثَرُه<tajweed class=idgham_shafawi>ُم م</tajweed>ُّؤْمِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٨</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2941,
+      "surah": 26,
+      "ayah": 9,
+      "verse_key": "26:9",
+      "text_ar": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+      "text_tajweed_html": "وَإِ<tajweed class=ghunnah>نّ</tajweed>َ رَبَّكَ لَهُوَ <tajweed class=ham_wasl>ٱ</tajweed>لْعَزِيزُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>رَّح<tajweed class=madda_permissible>ِي</tajweed>مُ <span class=end>٩</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَإِ<tajweed class=ghunnah>نّ</tajweed>َ رَبَّكَ لَهُوَ <tajweed class=ham_wasl>ٱ</tajweed>لْعَزِيزُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>رَّح<tajweed class=madda_permissible>ِي</tajweed>مُ <span class=end>٩</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2942,
+      "surah": 26,
+      "ayah": 10,
+      "verse_key": "26:10",
+      "text_ar": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئْتِ ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+      "text_tajweed_html": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَ<tajweed class=madda_obligatory>ىٰٓ</tajweed> أَنِ <tajweed class=ham_wasl>ٱ</tajweed>ئْتِ <tajweed class=ham_wasl>ٱ</tajweed>لْقَوْمَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>ظَّ<tajweed class=madda_normal>ـٰ</tajweed>لِم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٠</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَإِذْ نَادَىٰ رَبُّكَ مُوسَ<tajweed class=madda_obligatory>ىٰٓ</tajweed> أَنِ <tajweed class=ham_wasl>ٱ</tajweed>ئْتِ <tajweed class=ham_wasl>ٱ</tajweed>لْقَوْمَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>ظَّ<tajweed class=madda_normal>ـٰ</tajweed>لِم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٠</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2943,
+      "surah": 26,
+      "ayah": 11,
+      "verse_key": "26:11",
+      "text_ar": "قَوْمَ فِرْعَوْنَ ۚ أَلَا يَتَّقُونَ",
+      "text_tajweed_html": "قَوْمَ فِرْعَوْنَ‌ۚ أَلَا يَتَّق<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١١</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَوْمَ فِرْعَوْنَ‌ۚ أَلَا يَتَّق<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١١</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2944,
+      "surah": 26,
+      "ayah": 12,
+      "verse_key": "26:12",
+      "text_ar": "قَالَ رَبِّ إِنِّىٓ أَخَافُ أَن يُكَذِّبُونِ",
+      "text_tajweed_html": "قَالَ رَبِّ إِ<tajweed class=ghunnah>نّ</tajweed><tajweed class=madda_obligatory>ِىٓ</tajweed> أَخَافُ أ<tajweed class=idgham_ghunnah>َن ي</tajweed>ُكَذِّب<tajweed class=madda_permissible>ُو</tajweed>نِ <span class=end>١٢</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَالَ رَبِّ إِ<tajweed class=ghunnah>نّ</tajweed><tajweed class=madda_obligatory>ِىٓ</tajweed> أَخَافُ أ<tajweed class=idgham_ghunnah>َن ي</tajweed>ُكَذِّب<tajweed class=madda_permissible>ُو</tajweed>نِ <span class=end>١٢</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2945,
+      "surah": 26,
+      "ayah": 13,
+      "verse_key": "26:13",
+      "text_ar": "وَيَضِيقُ صَدْرِى وَلَا يَنطَلِقُ لِسَانِى فَأَرْسِلْ إِلَىٰ هَـٰرُونَ",
+      "text_tajweed_html": "وَيَضِيقُ صَ<tajweed class=qalaqah>دْ</tajweed>رِى وَلَا يَ<tajweed class=ikhafa>نط</tajweed>َلِقُ لِسَانِى فَأَرْسِلْ إِلَىٰ هَ<tajweed class=madda_normal>ـٰ</tajweed>ر<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١٣</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَيَضِيقُ صَ<tajweed class=qalaqah>دْ</tajweed>رِى وَلَا يَ<tajweed class=ikhafa>نط</tajweed>َلِقُ لِسَانِى فَأَرْسِلْ إِلَىٰ هَ<tajweed class=madda_normal>ـٰ</tajweed>ر<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١٣</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2946,
+      "surah": 26,
+      "ayah": 14,
+      "verse_key": "26:14",
+      "text_ar": "وَلَهُمْ عَلَىَّ ذَنۢبٌ فَأَخَافُ أَن يَقْتُلُونِ",
+      "text_tajweed_html": "وَلَهُمْ عَلَىَّ ذَ<tajweed class=iqlab>نۢب</tajweed><tajweed class=ikhafa>ٌ ف</tajweed>َأَخَافُ أ<tajweed class=idgham_ghunnah>َن ي</tajweed>َ<tajweed class=qalaqah>قْ</tajweed>تُل<tajweed class=madda_permissible>ُو</tajweed>نِ <span class=end>١٤</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَلَهُمْ عَلَىَّ ذَ<tajweed class=iqlab>نۢب</tajweed><tajweed class=ikhafa>ٌ ف</tajweed>َأَخَافُ أ<tajweed class=idgham_ghunnah>َن ي</tajweed>َ<tajweed class=qalaqah>قْ</tajweed>تُل<tajweed class=madda_permissible>ُو</tajweed>نِ <span class=end>١٤</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2947,
+      "surah": 26,
+      "ayah": 15,
+      "verse_key": "26:15",
+      "text_ar": "قَالَ كَلَّا ۖ فَٱذْهَبَا بِـَٔايَـٰتِنَآ ۖ إِنَّا مَعَكُم مُّسْتَمِعُونَ",
+      "text_tajweed_html": "قَالَ كَلَّا‌ۖ فَ<tajweed class=ham_wasl>ٱ</tajweed>ذْهَبَا بِـَٔـايَ<tajweed class=madda_normal>ـٰ</tajweed>تِن<tajweed class=madda_obligatory>َآ‌ۖ</tajweed> إِ<tajweed class=ghunnah>نّ</tajweed>َا مَعَك<tajweed class=idgham_shafawi>ُم م</tajweed>ُّسْتَمِع<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١٥</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَالَ كَلَّا‌ۖ فَ<tajweed class=ham_wasl>ٱ</tajweed>ذْهَبَا بِـَٔـايَ<tajweed class=madda_normal>ـٰ</tajweed>تِن<tajweed class=madda_obligatory>َآ‌ۖ</tajweed> إِ<tajweed class=ghunnah>نّ</tajweed>َا مَعَك<tajweed class=idgham_shafawi>ُم م</tajweed>ُّسْتَمِع<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١٥</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2948,
+      "surah": 26,
+      "ayah": 16,
+      "verse_key": "26:16",
+      "text_ar": "فَأْتِيَا فِرْعَوْنَ فَقُولَآ إِنَّا رَسُولُ رَبِّ ٱلْعَـٰلَمِينَ",
+      "text_tajweed_html": "فَأْتِيَا فِرْعَوْنَ فَقُول<tajweed class=madda_obligatory>َآ</tajweed> إِ<tajweed class=ghunnah>نّ</tajweed>َا رَسُولُ رَبِّ <tajweed class=ham_wasl>ٱ</tajweed>لْعَ<tajweed class=madda_normal>ـٰ</tajweed>لَم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٦</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَأْتِيَا فِرْعَوْنَ فَقُول<tajweed class=madda_obligatory>َآ</tajweed> إِ<tajweed class=ghunnah>نّ</tajweed>َا رَسُولُ رَبِّ <tajweed class=ham_wasl>ٱ</tajweed>لْعَ<tajweed class=madda_normal>ـٰ</tajweed>لَم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٦</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2949,
+      "surah": 26,
+      "ayah": 17,
+      "verse_key": "26:17",
+      "text_ar": "أَنْ أَرْسِلْ مَعَنَا بَنِىٓ إِسْرَٰٓءِيلَ",
+      "text_tajweed_html": "أَنْ أَرْسِلْ مَعَنَا بَن<tajweed class=madda_obligatory>ِىٓ</tajweed> إِسْر<tajweed class=madda_obligatory>َٲ</tajweed>ٓء<tajweed class=madda_permissible>ِي</tajweed>لَ <span class=end>١٧</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "أَنْ أَرْسِلْ مَعَنَا بَن<tajweed class=madda_obligatory>ِىٓ</tajweed> إِسْر<tajweed class=madda_obligatory>َٲ</tajweed>ٓء<tajweed class=madda_permissible>ِي</tajweed>لَ <span class=end>١٧</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2950,
+      "surah": 26,
+      "ayah": 18,
+      "verse_key": "26:18",
+      "text_ar": "قَالَ أَلَمْ نُرَبِّكَ فِينَا وَلِيدًا وَلَبِثْتَ فِينَا مِنْ عُمُرِكَ سِنِينَ",
+      "text_tajweed_html": "قَالَ أَلَمْ نُرَبِّكَ فِينَا وَلِي<tajweed class=idgham_ghunnah>دًا و</tajweed>َلَبِثْتَ فِينَا مِنْ عُمُرِكَ سِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٨</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَالَ أَلَمْ نُرَبِّكَ فِينَا وَلِي<tajweed class=idgham_ghunnah>دًا و</tajweed>َلَبِثْتَ فِينَا مِنْ عُمُرِكَ سِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٨</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2951,
+      "surah": 26,
+      "ayah": 19,
+      "verse_key": "26:19",
+      "text_ar": "وَفَعَلْتَ فَعْلَتَكَ ٱلَّتِى فَعَلْتَ وَأَنتَ مِنَ ٱلْكَـٰفِرِينَ",
+      "text_tajweed_html": "وَفَعَلْتَ فَعْلَتَكَ <tajweed class=ham_wasl>ٱ</tajweed>لَّتِى فَعَلْتَ وَأَ<tajweed class=ikhafa>نت</tajweed>َ مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْكَ<tajweed class=madda_normal>ـٰ</tajweed>فِر<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٩</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَفَعَلْتَ فَعْلَتَكَ <tajweed class=ham_wasl>ٱ</tajweed>لَّتِى فَعَلْتَ وَأَ<tajweed class=ikhafa>نت</tajweed>َ مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْكَ<tajweed class=madda_normal>ـٰ</tajweed>فِر<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٩</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2952,
+      "surah": 26,
+      "ayah": 20,
+      "verse_key": "26:20",
+      "text_ar": "قَالَ فَعَلْتُهَآ إِذًا وَأَنَا۠ مِنَ ٱلضَّآلِّينَ",
+      "text_tajweed_html": "قَالَ فَعَلْتُه<tajweed class=madda_obligatory>َآ</tajweed> إِ<tajweed class=idgham_ghunnah>ذًا و</tajweed>َأَنَا۟ مِنَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>ضّ<tajweed class=madda_necessary>َا</tajweed>ٓلّ<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٢٠</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَالَ فَعَلْتُه<tajweed class=madda_obligatory>َآ</tajweed> إِ<tajweed class=idgham_ghunnah>ذًا و</tajweed>َأَنَا۟ مِنَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>ضّ<tajweed class=madda_necessary>َا</tajweed>ٓلّ<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٢٠</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2953,
+      "surah": 26,
+      "ayah": 21,
+      "verse_key": "26:21",
+      "text_ar": "فَفَرَرْتُ مِنكُمْ لَمَّا خِفْتُكُمْ فَوَهَبَ لِى رَبِّى حُكْمًا وَجَعَلَنِى مِنَ ٱلْمُرْسَلِينَ",
+      "text_tajweed_html": "فَفَرَرْتُ مِ<tajweed class=ikhafa>نك</tajweed>ُمْ لَ<tajweed class=ghunnah>مّ</tajweed>َا خِفْتُكُمْ فَوَهَبَ لِى رَبِّى حُكْ<tajweed class=idgham_ghunnah>مًا و</tajweed>َجَعَلَنِى مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْمُرْسَل<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٢١</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَفَرَرْتُ مِ<tajweed class=ikhafa>نك</tajweed>ُمْ لَ<tajweed class=ghunnah>مّ</tajweed>َا خِفْتُكُمْ فَوَهَبَ لِى رَبِّى حُكْ<tajweed class=idgham_ghunnah>مًا و</tajweed>َجَعَلَنِى مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْمُرْسَل<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٢١</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2954,
+      "surah": 26,
+      "ayah": 22,
+      "verse_key": "26:22",
+      "text_ar": "وَتِلْكَ نِعْمَةٌ تَمُنُّهَا عَلَىَّ أَنْ عَبَّدتَّ بَنِىٓ إِسْرَٰٓءِيلَ",
+      "text_tajweed_html": "وَتِلْكَ نِعْمَ<tajweed class=ikhafa>ةٌ ت</tajweed>َمُ<tajweed class=ghunnah>نّ</tajweed>ُهَا عَلَىَّ أَنْ عَبَّ<tajweed class=idgham_mutajanisayn>د</tajweed>تَّ بَن<tajweed class=madda_obligatory>ِىٓ</tajweed> إِسْر<tajweed class=madda_obligatory>َٲ</tajweed>ٓء<tajweed class=madda_permissible>ِي</tajweed>لَ <span class=end>٢٢</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَتِلْكَ نِعْمَ<tajweed class=ikhafa>ةٌ ت</tajweed>َمُ<tajweed class=ghunnah>نّ</tajweed>ُهَا عَلَىَّ أَنْ عَبَّ<tajweed class=idgham_mutajanisayn>د</tajweed>تَّ بَن<tajweed class=madda_obligatory>ِىٓ</tajweed> إِسْر<tajweed class=madda_obligatory>َٲ</tajweed>ٓء<tajweed class=madda_permissible>ِي</tajweed>لَ <span class=end>٢٢</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2955,
+      "surah": 26,
+      "ayah": 23,
+      "verse_key": "26:23",
+      "text_ar": "قَالَ فِرْعَوْنُ وَمَا رَبُّ ٱلْعَـٰلَمِينَ",
+      "text_tajweed_html": "قَالَ فِرْعَوْنُ وَمَا رَبُّ <tajweed class=ham_wasl>ٱ</tajweed>لْعَ<tajweed class=madda_normal>ـٰ</tajweed>لَم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٢٣</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَالَ فِرْعَوْنُ وَمَا رَبُّ <tajweed class=ham_wasl>ٱ</tajweed>لْعَ<tajweed class=madda_normal>ـٰ</tajweed>لَم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٢٣</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2956,
+      "surah": 26,
+      "ayah": 24,
+      "verse_key": "26:24",
+      "text_ar": "قَالَ رَبُّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَآ ۖ إِن كُنتُم مُّوقِنِينَ",
+      "text_tajweed_html": "قَالَ رَبُّ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سَّمَ<tajweed class=madda_normal>ـٰ</tajweed>و<tajweed class=madda_normal>َٲ</tajweed>تِ وَ<tajweed class=ham_wasl>ٱ</tajweed>لْأَرْضِ وَمَا بَيْنَهُم<tajweed class=madda_obligatory>َآ‌ۖ</tajweed> إِ<tajweed class=ikhafa>ن ك</tajweed>ُ<tajweed class=ikhafa>نت</tajweed><tajweed class=idgham_shafawi>ُم م</tajweed>ُّوقِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٢٤</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَالَ رَبُّ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سَّمَ<tajweed class=madda_normal>ـٰ</tajweed>و<tajweed class=madda_normal>َٲ</tajweed>تِ وَ<tajweed class=ham_wasl>ٱ</tajweed>لْأَرْضِ وَمَا بَيْنَهُم<tajweed class=madda_obligatory>َآ‌ۖ</tajweed> إِ<tajweed class=ikhafa>ن ك</tajweed>ُ<tajweed class=ikhafa>نت</tajweed><tajweed class=idgham_shafawi>ُم م</tajweed>ُّوقِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٢٤</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2957,
+      "surah": 26,
+      "ayah": 25,
+      "verse_key": "26:25",
+      "text_ar": "قَالَ لِمَنْ حَوْلَهُۥٓ أَلَا تَسْتَمِعُونَ",
+      "text_tajweed_html": "قَالَ لِمَنْ حَوْلَهُ<tajweed class=madda_obligatory>ۥٓ</tajweed> أَلَا تَسْتَمِع<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢٥</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَالَ لِمَنْ حَوْلَهُ<tajweed class=madda_obligatory>ۥٓ</tajweed> أَلَا تَسْتَمِع<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢٥</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2958,
+      "surah": 26,
+      "ayah": 26,
+      "verse_key": "26:26",
+      "text_ar": "قَالَ رَبُّكُمْ وَرَبُّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ",
+      "text_tajweed_html": "قَالَ رَبُّكُمْ وَرَبُّ ءَاب<tajweed class=madda_obligatory>َا</tajweed>ٓئِكُمُ <tajweed class=ham_wasl>ٱ</tajweed>لْأَوَّل<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٢٦</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَالَ رَبُّكُمْ وَرَبُّ ءَاب<tajweed class=madda_obligatory>َا</tajweed>ٓئِكُمُ <tajweed class=ham_wasl>ٱ</tajweed>لْأَوَّل<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٢٦</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2959,
+      "surah": 26,
+      "ayah": 27,
+      "verse_key": "26:27",
+      "text_ar": "قَالَ إِنَّ رَسُولَكُمُ ٱلَّذِىٓ أُرْسِلَ إِلَيْكُمْ لَمَجْنُونٌ",
+      "text_tajweed_html": "قَالَ إِ<tajweed class=ghunnah>نّ</tajweed>َ رَسُولَكُمُ <tajweed class=ham_wasl>ٱ</tajweed>لَّذ<tajweed class=madda_obligatory>ِىٓ</tajweed> أُرْسِلَ إِلَيْكُمْ لَمَ<tajweed class=qalaqah>جْ</tajweed>ن<tajweed class=madda_permissible>ُو</tajweed>نٌ <span class=end>٢٧</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَالَ إِ<tajweed class=ghunnah>نّ</tajweed>َ رَسُولَكُمُ <tajweed class=ham_wasl>ٱ</tajweed>لَّذ<tajweed class=madda_obligatory>ِىٓ</tajweed> أُرْسِلَ إِلَيْكُمْ لَمَ<tajweed class=qalaqah>جْ</tajweed>ن<tajweed class=madda_permissible>ُو</tajweed>نٌ <span class=end>٢٧</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2960,
+      "surah": 26,
+      "ayah": 28,
+      "verse_key": "26:28",
+      "text_ar": "قَالَ رَبُّ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَمَا بَيْنَهُمَآ ۖ إِن كُنتُمْ تَعْقِلُونَ",
+      "text_tajweed_html": "قَالَ رَبُّ <tajweed class=ham_wasl>ٱ</tajweed>لْمَشْرِقِ وَ<tajweed class=ham_wasl>ٱ</tajweed>لْمَغْرِبِ وَمَا بَيْنَهُم<tajweed class=madda_obligatory>َآ‌ۖ</tajweed> إِ<tajweed class=ikhafa>ن ك</tajweed>ُ<tajweed class=ikhafa>نت</tajweed>ُمْ تَعْقِل<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢٨</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَالَ رَبُّ <tajweed class=ham_wasl>ٱ</tajweed>لْمَشْرِقِ وَ<tajweed class=ham_wasl>ٱ</tajweed>لْمَغْرِبِ وَمَا بَيْنَهُم<tajweed class=madda_obligatory>َآ‌ۖ</tajweed> إِ<tajweed class=ikhafa>ن ك</tajweed>ُ<tajweed class=ikhafa>نت</tajweed>ُمْ تَعْقِل<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢٨</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2961,
+      "surah": 26,
+      "ayah": 29,
+      "verse_key": "26:29",
+      "text_ar": "قَالَ لَئِنِ ٱتَّخَذْتَ إِلَـٰهًا غَيْرِى لَأَجْعَلَنَّكَ مِنَ ٱلْمَسْجُونِينَ",
+      "text_tajweed_html": "قَالَ لَئِنِ <tajweed class=ham_wasl>ٱ</tajweed>تَّخَذْتَ إِلَ<tajweed class=madda_normal>ـٰ</tajweed>هًا غَيْرِى لَأَ<tajweed class=qalaqah>جْ</tajweed>عَلَ<tajweed class=ghunnah>نّ</tajweed>َكَ مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْمَسْجُون<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٢٩</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَالَ لَئِنِ <tajweed class=ham_wasl>ٱ</tajweed>تَّخَذْتَ إِلَ<tajweed class=madda_normal>ـٰ</tajweed>هًا غَيْرِى لَأَ<tajweed class=qalaqah>جْ</tajweed>عَلَ<tajweed class=ghunnah>نّ</tajweed>َكَ مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْمَسْجُون<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٢٩</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2962,
+      "surah": 26,
+      "ayah": 30,
+      "verse_key": "26:30",
+      "text_ar": "قَالَ أَوَلَوْ جِئْتُكَ بِشَىْءٍ مُّبِينٍ",
+      "text_tajweed_html": "قَالَ أَوَلَوْ جِئْتُكَ بِش<tajweed class=idgham_ghunnah>َىْءٍ م</tajweed>ُّب<tajweed class=madda_permissible>ِي</tajweed>نٍ <span class=end>٣٠</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَالَ أَوَلَوْ جِئْتُكَ بِش<tajweed class=idgham_ghunnah>َىْءٍ م</tajweed>ُّب<tajweed class=madda_permissible>ِي</tajweed>نٍ <span class=end>٣٠</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2963,
+      "surah": 26,
+      "ayah": 31,
+      "verse_key": "26:31",
+      "text_ar": "قَالَ فَأْتِ بِهِۦٓ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+      "text_tajweed_html": "قَالَ فَأْتِ بِه<tajweed class=madda_obligatory>ِۦٓ</tajweed> إِ<tajweed class=ikhafa>ن ك</tajweed>ُ<tajweed class=ikhafa>نت</tajweed>َ مِنَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>صَّ<tajweed class=madda_normal>ـٰ</tajweed>دِق<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٣١</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَالَ فَأْتِ بِه<tajweed class=madda_obligatory>ِۦٓ</tajweed> إِ<tajweed class=ikhafa>ن ك</tajweed>ُ<tajweed class=ikhafa>نت</tajweed>َ مِنَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>صَّ<tajweed class=madda_normal>ـٰ</tajweed>دِق<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٣١</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2964,
+      "surah": 26,
+      "ayah": 32,
+      "verse_key": "26:32",
+      "text_ar": "فَأَلْقَىٰ عَصَاهُ فَإِذَا هِىَ ثُعْبَانٌ مُّبِينٌ",
+      "text_tajweed_html": "فَأَلْقَىٰ عَصَاهُ فَإِذَا هِىَ ثُعْبَا<tajweed class=idgham_ghunnah>نٌ م</tajweed>ُّب<tajweed class=madda_permissible>ِي</tajweed>نٌ <span class=end>٣٢</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَأَلْقَىٰ عَصَاهُ فَإِذَا هِىَ ثُعْبَا<tajweed class=idgham_ghunnah>نٌ م</tajweed>ُّب<tajweed class=madda_permissible>ِي</tajweed>نٌ <span class=end>٣٢</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2965,
+      "surah": 26,
+      "ayah": 33,
+      "verse_key": "26:33",
+      "text_ar": "وَنَزَعَ يَدَهُۥ فَإِذَا هِىَ بَيْضَآءُ لِلنَّـٰظِرِينَ",
+      "text_tajweed_html": "وَنَزَعَ يَدَهُ<tajweed class=madda_normal>ۥ</tajweed> فَإِذَا هِىَ بَيْض<tajweed class=madda_obligatory>َا</tajweed>ٓءُ لِل<tajweed class=ghunnah>نّ</tajweed>َ<tajweed class=madda_normal>ـٰ</tajweed>ظِر<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٣٣</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَنَزَعَ يَدَهُ<tajweed class=madda_normal>ۥ</tajweed> فَإِذَا هِىَ بَيْض<tajweed class=madda_obligatory>َا</tajweed>ٓءُ لِل<tajweed class=ghunnah>نّ</tajweed>َ<tajweed class=madda_normal>ـٰ</tajweed>ظِر<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٣٣</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2966,
+      "surah": 26,
+      "ayah": 34,
+      "verse_key": "26:34",
+      "text_ar": "قَالَ لِلْمَلَإِ حَوْلَهُۥٓ إِنَّ هَـٰذَا لَسَـٰحِرٌ عَلِيمٌ",
+      "text_tajweed_html": "قَالَ لِلْمَلَإِ حَوْلَهُ<tajweed class=madda_obligatory>ۥٓ</tajweed> إِ<tajweed class=ghunnah>نّ</tajweed>َ هَ<tajweed class=madda_normal>ـٰ</tajweed>ذَا لَسَ<tajweed class=madda_normal>ـٰ</tajweed>حِرٌ عَل<tajweed class=madda_permissible>ِي</tajweed>مٌ <span class=end>٣٤</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَالَ لِلْمَلَإِ حَوْلَهُ<tajweed class=madda_obligatory>ۥٓ</tajweed> إِ<tajweed class=ghunnah>نّ</tajweed>َ هَ<tajweed class=madda_normal>ـٰ</tajweed>ذَا لَسَ<tajweed class=madda_normal>ـٰ</tajweed>حِرٌ عَل<tajweed class=madda_permissible>ِي</tajweed>مٌ <span class=end>٣٤</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2967,
+      "surah": 26,
+      "ayah": 35,
+      "verse_key": "26:35",
+      "text_ar": "يُرِيدُ أَن يُخْرِجَكُم مِّنْ أَرْضِكُم بِسِحْرِهِۦ فَمَاذَا تَأْمُرُونَ",
+      "text_tajweed_html": "يُرِيدُ أ<tajweed class=idgham_ghunnah>َن ي</tajweed>ُخْرِجَك<tajweed class=idgham_shafawi>ُم م</tajweed>ِّنْ أَرْضِك<tajweed class=ikhafa_shafawi>ُم ب</tajweed>ِسِحْرِه<tajweed class=madda_normal>ِۦ</tajweed> فَمَاذَا تَأْمُر<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٣٥</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "يُرِيدُ أ<tajweed class=idgham_ghunnah>َن ي</tajweed>ُخْرِجَك<tajweed class=idgham_shafawi>ُم م</tajweed>ِّنْ أَرْضِك<tajweed class=ikhafa_shafawi>ُم ب</tajweed>ِسِحْرِه<tajweed class=madda_normal>ِۦ</tajweed> فَمَاذَا تَأْمُر<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٣٥</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2968,
+      "surah": 26,
+      "ayah": 36,
+      "verse_key": "26:36",
+      "text_ar": "قَالُوٓا۟ أَرْجِهْ وَأَخَاهُ وَٱبْعَثْ فِى ٱلْمَدَآئِنِ حَـٰشِرِينَ",
+      "text_tajweed_html": "قَال<tajweed class=madda_obligatory>ُوٓ</tajweed><tajweed class=slnt>اْ</tajweed> أَرْجِهْ وَأَخَاهُ وَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=qalaqah>بْ</tajweed>عَثْ فِى <tajweed class=ham_wasl>ٱ</tajweed>لْمَد<tajweed class=madda_obligatory>َا</tajweed>ٓئِنِ حَ<tajweed class=madda_normal>ـٰ</tajweed>شِر<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٣٦</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَال<tajweed class=madda_obligatory>ُوٓ</tajweed><tajweed class=slnt>اْ</tajweed> أَرْجِهْ وَأَخَاهُ وَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=qalaqah>بْ</tajweed>عَثْ فِى <tajweed class=ham_wasl>ٱ</tajweed>لْمَد<tajweed class=madda_obligatory>َا</tajweed>ٓئِنِ حَ<tajweed class=madda_normal>ـٰ</tajweed>شِر<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٣٦</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2969,
+      "surah": 26,
+      "ayah": 37,
+      "verse_key": "26:37",
+      "text_ar": "يَأْتُوكَ بِكُلِّ سَحَّارٍ عَلِيمٍ",
+      "text_tajweed_html": "يَأْتُوكَ بِكُلِّ سَحَّارٍ عَل<tajweed class=madda_permissible>ِي</tajweed>مٍ <span class=end>٣٧</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "يَأْتُوكَ بِكُلِّ سَحَّارٍ عَل<tajweed class=madda_permissible>ِي</tajweed>مٍ <span class=end>٣٧</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2970,
+      "surah": 26,
+      "ayah": 38,
+      "verse_key": "26:38",
+      "text_ar": "فَجُمِعَ ٱلسَّحَرَةُ لِمِيقَـٰتِ يَوْمٍ مَّعْلُومٍ",
+      "text_tajweed_html": "فَجُمِعَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سَّحَرَةُ لِمِيقَ<tajweed class=madda_normal>ـٰ</tajweed>تِ يَوْ<tajweed class=idgham_ghunnah>مٍ م</tajweed>َّعْل<tajweed class=madda_permissible>ُو</tajweed>مٍ <span class=end>٣٨</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَجُمِعَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سَّحَرَةُ لِمِيقَ<tajweed class=madda_normal>ـٰ</tajweed>تِ يَوْ<tajweed class=idgham_ghunnah>مٍ م</tajweed>َّعْل<tajweed class=madda_permissible>ُو</tajweed>مٍ <span class=end>٣٨</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2971,
+      "surah": 26,
+      "ayah": 39,
+      "verse_key": "26:39",
+      "text_ar": "وَقِيلَ لِلنَّاسِ هَلْ أَنتُم مُّجْتَمِعُونَ",
+      "text_tajweed_html": "وَقِيلَ لِل<tajweed class=ghunnah>نّ</tajweed>َاسِ هَلْ أَ<tajweed class=ikhafa>نت</tajweed><tajweed class=idgham_shafawi>ُم م</tajweed>ُّ<tajweed class=qalaqah>جْ</tajweed>تَمِع<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٣٩</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَقِيلَ لِل<tajweed class=ghunnah>نّ</tajweed>َاسِ هَلْ أَ<tajweed class=ikhafa>نت</tajweed><tajweed class=idgham_shafawi>ُم م</tajweed>ُّ<tajweed class=qalaqah>جْ</tajweed>تَمِع<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٣٩</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2972,
+      "surah": 26,
+      "ayah": 40,
+      "verse_key": "26:40",
+      "text_ar": "لَعَلَّنَا نَتَّبِعُ ٱلسَّحَرَةَ إِن كَانُوا۟ هُمُ ٱلْغَـٰلِبِينَ",
+      "text_tajweed_html": "لَعَلَّنَا نَتَّبِعُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سَّحَرَةَ إِ<tajweed class=ikhafa>ن ك</tajweed>َانُو<tajweed class=slnt>اْ</tajweed> هُمُ <tajweed class=ham_wasl>ٱ</tajweed>لْغَ<tajweed class=madda_normal>ـٰ</tajweed>لِب<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٤٠</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "لَعَلَّنَا نَتَّبِعُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سَّحَرَةَ إِ<tajweed class=ikhafa>ن ك</tajweed>َانُو<tajweed class=slnt>اْ</tajweed> هُمُ <tajweed class=ham_wasl>ٱ</tajweed>لْغَ<tajweed class=madda_normal>ـٰ</tajweed>لِب<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٤٠</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2973,
+      "surah": 26,
+      "ayah": 41,
+      "verse_key": "26:41",
+      "text_ar": "فَلَمَّا جَآءَ ٱلسَّحَرَةُ قَالُوا۟ لِفِرْعَوْنَ أَئِنَّ لَنَا لَأَجْرًا إِن كُنَّا نَحْنُ ٱلْغَـٰلِبِينَ",
+      "text_tajweed_html": "فَلَ<tajweed class=ghunnah>مّ</tajweed>َا ج<tajweed class=madda_obligatory>َا</tajweed>ٓءَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سَّحَرَةُ قَالُو<tajweed class=slnt>اْ</tajweed> لِفِرْعَوْنَ أَئِ<tajweed class=ghunnah>نّ</tajweed>َ لَنَا لَأَ<tajweed class=qalaqah>جْ</tajweed>رًا إِ<tajweed class=ikhafa>ن ك</tajweed>ُ<tajweed class=ghunnah>نّ</tajweed>َا نَحْنُ <tajweed class=ham_wasl>ٱ</tajweed>لْغَ<tajweed class=madda_normal>ـٰ</tajweed>لِب<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٤١</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَلَ<tajweed class=ghunnah>مّ</tajweed>َا ج<tajweed class=madda_obligatory>َا</tajweed>ٓءَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سَّحَرَةُ قَالُو<tajweed class=slnt>اْ</tajweed> لِفِرْعَوْنَ أَئِ<tajweed class=ghunnah>نّ</tajweed>َ لَنَا لَأَ<tajweed class=qalaqah>جْ</tajweed>رًا إِ<tajweed class=ikhafa>ن ك</tajweed>ُ<tajweed class=ghunnah>نّ</tajweed>َا نَحْنُ <tajweed class=ham_wasl>ٱ</tajweed>لْغَ<tajweed class=madda_normal>ـٰ</tajweed>لِب<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٤١</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2974,
+      "surah": 26,
+      "ayah": 42,
+      "verse_key": "26:42",
+      "text_ar": "قَالَ نَعَمْ وَإِنَّكُمْ إِذًا لَّمِنَ ٱلْمُقَرَّبِينَ",
+      "text_tajweed_html": "قَالَ نَعَمْ وَإِ<tajweed class=ghunnah>نّ</tajweed>َكُمْ إِ<tajweed class=idgham_wo_ghunnah>ذًا ل</tajweed>َّمِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْمُقَرَّب<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٤٢</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَالَ نَعَمْ وَإِ<tajweed class=ghunnah>نّ</tajweed>َكُمْ إِ<tajweed class=idgham_wo_ghunnah>ذًا ل</tajweed>َّمِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْمُقَرَّب<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٤٢</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2975,
+      "surah": 26,
+      "ayah": 43,
+      "verse_key": "26:43",
+      "text_ar": "قَالَ لَهُم مُّوسَىٰٓ أَلْقُوا۟ مَآ أَنتُم مُّلْقُونَ",
+      "text_tajweed_html": "قَالَ لَه<tajweed class=idgham_shafawi>ُم م</tajweed>ُّوسَ<tajweed class=madda_obligatory>ىٰٓ</tajweed> أَلْقُو<tajweed class=slnt>اْ</tajweed> م<tajweed class=madda_obligatory>َآ</tajweed> أَ<tajweed class=ikhafa>نت</tajweed><tajweed class=idgham_shafawi>ُم م</tajweed>ُّلْق<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٤٣</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَالَ لَه<tajweed class=idgham_shafawi>ُم م</tajweed>ُّوسَ<tajweed class=madda_obligatory>ىٰٓ</tajweed> أَلْقُو<tajweed class=slnt>اْ</tajweed> م<tajweed class=madda_obligatory>َآ</tajweed> أَ<tajweed class=ikhafa>نت</tajweed><tajweed class=idgham_shafawi>ُم م</tajweed>ُّلْق<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٤٣</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2976,
+      "surah": 26,
+      "ayah": 44,
+      "verse_key": "26:44",
+      "text_ar": "فَأَلْقَوْا۟ حِبَالَهُمْ وَعِصِيَّهُمْ وَقَالُوا۟ بِعِزَّةِ فِرْعَوْنَ إِنَّا لَنَحْنُ ٱلْغَـٰلِبُونَ",
+      "text_tajweed_html": "فَأَلْقَوْ<tajweed class=slnt>اْ</tajweed> حِبَالَهُمْ وَعِصِيَّهُمْ وَقَالُو<tajweed class=slnt>اْ</tajweed> بِعِزَّةِ فِرْعَوْنَ إِ<tajweed class=ghunnah>نّ</tajweed>َا لَنَحْنُ <tajweed class=ham_wasl>ٱ</tajweed>لْغَ<tajweed class=madda_normal>ـٰ</tajweed>لِب<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٤٤</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَأَلْقَوْ<tajweed class=slnt>اْ</tajweed> حِبَالَهُمْ وَعِصِيَّهُمْ وَقَالُو<tajweed class=slnt>اْ</tajweed> بِعِزَّةِ فِرْعَوْنَ إِ<tajweed class=ghunnah>نّ</tajweed>َا لَنَحْنُ <tajweed class=ham_wasl>ٱ</tajweed>لْغَ<tajweed class=madda_normal>ـٰ</tajweed>لِب<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٤٤</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2977,
+      "surah": 26,
+      "ayah": 45,
+      "verse_key": "26:45",
+      "text_ar": "فَأَلْقَىٰ مُوسَىٰ عَصَاهُ فَإِذَا هِىَ تَلْقَفُ مَا يَأْفِكُونَ",
+      "text_tajweed_html": "فَأَلْقَىٰ مُوسَىٰ عَصَاهُ فَإِذَا هِىَ تَلْقَفُ مَا يَأْفِك<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٤٥</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَأَلْقَىٰ مُوسَىٰ عَصَاهُ فَإِذَا هِىَ تَلْقَفُ مَا يَأْفِك<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٤٥</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2978,
+      "surah": 26,
+      "ayah": 46,
+      "verse_key": "26:46",
+      "text_ar": "فَأُلْقِىَ ٱلسَّحَرَةُ سَـٰجِدِينَ",
+      "text_tajweed_html": "فَأُلْقِىَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سَّحَرَةُ سَ<tajweed class=madda_normal>ـٰ</tajweed>جِد<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٤٦</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَأُلْقِىَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سَّحَرَةُ سَ<tajweed class=madda_normal>ـٰ</tajweed>جِد<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٤٦</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2979,
+      "surah": 26,
+      "ayah": 47,
+      "verse_key": "26:47",
+      "text_ar": "قَالُوٓا۟ ءَامَنَّا بِرَبِّ ٱلْعَـٰلَمِينَ",
+      "text_tajweed_html": "قَال<tajweed class=madda_obligatory>ُوٓ</tajweed><tajweed class=slnt>اْ</tajweed> ءَامَ<tajweed class=ghunnah>نّ</tajweed>َا بِرَبِّ <tajweed class=ham_wasl>ٱ</tajweed>لْعَ<tajweed class=madda_normal>ـٰ</tajweed>لَم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٤٧</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَال<tajweed class=madda_obligatory>ُوٓ</tajweed><tajweed class=slnt>اْ</tajweed> ءَامَ<tajweed class=ghunnah>نّ</tajweed>َا بِرَبِّ <tajweed class=ham_wasl>ٱ</tajweed>لْعَ<tajweed class=madda_normal>ـٰ</tajweed>لَم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٤٧</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2980,
+      "surah": 26,
+      "ayah": 48,
+      "verse_key": "26:48",
+      "text_ar": "رَبِّ مُوسَىٰ وَهَـٰرُونَ",
+      "text_tajweed_html": "رَبِّ مُوسَىٰ وَهَ<tajweed class=madda_normal>ـٰ</tajweed>ر<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٤٨</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "رَبِّ مُوسَىٰ وَهَ<tajweed class=madda_normal>ـٰ</tajweed>ر<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٤٨</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2981,
+      "surah": 26,
+      "ayah": 49,
+      "verse_key": "26:49",
+      "text_ar": "قَالَ ءَامَنتُمْ لَهُۥ قَبْلَ أَنْ ءَاذَنَ لَكُمْ ۖ إِنَّهُۥ لَكَبِيرُكُمُ ٱلَّذِى عَلَّمَكُمُ ٱلسِّحْرَ فَلَسَوْفَ تَعْلَمُونَ ۚ لَأُقَطِّعَنَّ أَيْدِيَكُمْ وَأَرْجُلَكُم مِّنْ خِلَـٰفٍ وَلَأُصَلِّبَنَّكُمْ أَجْمَعِينَ",
+      "text_tajweed_html": "قَالَ ءَامَ<tajweed class=ikhafa>نت</tajweed>ُمْ لَهُ<tajweed class=madda_normal>ۥ</tajweed> قَ<tajweed class=qalaqah>بْ</tajweed>لَ أَنْ ءَاذَنَ لَكُمْ‌ۖ إِ<tajweed class=ghunnah>نّ</tajweed>َهُ<tajweed class=madda_normal>ۥ</tajweed> لَكَبِيرُكُمُ <tajweed class=ham_wasl>ٱ</tajweed>لَّذِى عَلَّمَكُمُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سِّحْرَ فَلَسَوْفَ تَعْلَمُونَ‌ۚ لَأُقَطِّعَ<tajweed class=ghunnah>نّ</tajweed>َ أَيْدِيَكُمْ وَأَرْجُلَك<tajweed class=idgham_shafawi>ُم م</tajweed>ِّنْ خِلَ<tajweed class=madda_normal>ـٰ</tajweed><tajweed class=idgham_ghunnah>فٍ و</tajweed>َلَأُصَلِّبَ<tajweed class=ghunnah>نّ</tajweed>َكُمْ أَ<tajweed class=qalaqah>جْ</tajweed>مَع<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٤٩</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَالَ ءَامَ<tajweed class=ikhafa>نت</tajweed>ُمْ لَهُ<tajweed class=madda_normal>ۥ</tajweed> قَ<tajweed class=qalaqah>بْ</tajweed>لَ أَنْ ءَاذَنَ لَكُمْ‌ۖ إِ<tajweed class=ghunnah>نّ</tajweed>َهُ<tajweed class=madda_normal>ۥ</tajweed> لَكَبِيرُكُمُ <tajweed class=ham_wasl>ٱ</tajweed>لَّذِى عَلَّمَكُمُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سِّحْرَ فَلَسَوْفَ تَعْلَمُونَ‌ۚ لَأُقَطِّعَ<tajweed class=ghunnah>نّ</tajweed>َ أَيْدِيَكُمْ وَأَرْجُلَك<tajweed class=idgham_shafawi>ُم م</tajweed>ِّنْ خِلَ<tajweed class=madda_normal>ـٰ</tajweed><tajweed class=idgham_ghunnah>فٍ و</tajweed>َلَأُصَلِّبَ<tajweed class=ghunnah>نّ</tajweed>َكُمْ أَ<tajweed class=qalaqah>جْ</tajweed>مَع<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٤٩</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2982,
+      "surah": 26,
+      "ayah": 50,
+      "verse_key": "26:50",
+      "text_ar": "قَالُوا۟ لَا ضَيْرَ ۖ إِنَّآ إِلَىٰ رَبِّنَا مُنقَلِبُونَ",
+      "text_tajweed_html": "قَالُو<tajweed class=slnt>اْ</tajweed> لَا ضَيْرَ‌ۖ إِ<tajweed class=ghunnah>نّ</tajweed><tajweed class=madda_obligatory>َآ</tajweed> إِلَىٰ رَبِّنَا مُ<tajweed class=ikhafa>نق</tajweed>َلِب<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٥٠</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَالُو<tajweed class=slnt>اْ</tajweed> لَا ضَيْرَ‌ۖ إِ<tajweed class=ghunnah>نّ</tajweed><tajweed class=madda_obligatory>َآ</tajweed> إِلَىٰ رَبِّنَا مُ<tajweed class=ikhafa>نق</tajweed>َلِب<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٥٠</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2983,
+      "surah": 26,
+      "ayah": 51,
+      "verse_key": "26:51",
+      "text_ar": "إِنَّا نَطْمَعُ أَن يَغْفِرَ لَنَا رَبُّنَا خَطَـٰيَـٰنَآ أَن كُنَّآ أَوَّلَ ٱلْمُؤْمِنِينَ",
+      "text_tajweed_html": "إِ<tajweed class=ghunnah>نّ</tajweed>َا نَ<tajweed class=qalaqah>طْ</tajweed>مَعُ أ<tajweed class=idgham_ghunnah>َن ي</tajweed>َغْفِرَ لَنَا رَبُّنَا خَطَ<tajweed class=madda_normal>ـٰ</tajweed>يَ<tajweed class=madda_normal>ـٰ</tajweed>ن<tajweed class=madda_obligatory>َآ</tajweed> أَ<tajweed class=ikhafa>ن ك</tajweed>ُ<tajweed class=ghunnah>نّ</tajweed><tajweed class=madda_obligatory>َآ</tajweed> أَوَّلَ <tajweed class=ham_wasl>ٱ</tajweed>لْمُؤْمِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٥١</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "إِ<tajweed class=ghunnah>نّ</tajweed>َا نَ<tajweed class=qalaqah>طْ</tajweed>مَعُ أ<tajweed class=idgham_ghunnah>َن ي</tajweed>َغْفِرَ لَنَا رَبُّنَا خَطَ<tajweed class=madda_normal>ـٰ</tajweed>يَ<tajweed class=madda_normal>ـٰ</tajweed>ن<tajweed class=madda_obligatory>َآ</tajweed> أَ<tajweed class=ikhafa>ن ك</tajweed>ُ<tajweed class=ghunnah>نّ</tajweed><tajweed class=madda_obligatory>َآ</tajweed> أَوَّلَ <tajweed class=ham_wasl>ٱ</tajweed>لْمُؤْمِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٥١</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2984,
+      "surah": 26,
+      "ayah": 52,
+      "verse_key": "26:52",
+      "text_ar": "۞ وَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنْ أَسْرِ بِعِبَادِىٓ إِنَّكُم مُّتَّبَعُونَ",
+      "text_tajweed_html": "۞ وَأَوْحَيْن<tajweed class=madda_obligatory>َآ</tajweed> إِلَىٰ مُوسَ<tajweed class=madda_obligatory>ىٰٓ</tajweed> أَنْ أَسْرِ بِعِبَاد<tajweed class=madda_obligatory>ِىٓ</tajweed> إِ<tajweed class=ghunnah>نّ</tajweed>َك<tajweed class=idgham_shafawi>ُم م</tajweed>ُّتَّبَع<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٥٢</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "۞ وَأَوْحَيْن<tajweed class=madda_obligatory>َآ</tajweed> إِلَىٰ مُوسَ<tajweed class=madda_obligatory>ىٰٓ</tajweed> أَنْ أَسْرِ بِعِبَاد<tajweed class=madda_obligatory>ِىٓ</tajweed> إِ<tajweed class=ghunnah>نّ</tajweed>َك<tajweed class=idgham_shafawi>ُم م</tajweed>ُّتَّبَع<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٥٢</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2985,
+      "surah": 26,
+      "ayah": 53,
+      "verse_key": "26:53",
+      "text_ar": "فَأَرْسَلَ فِرْعَوْنُ فِى ٱلْمَدَآئِنِ حَـٰشِرِينَ",
+      "text_tajweed_html": "فَأَرْسَلَ فِرْعَوْنُ فِى <tajweed class=ham_wasl>ٱ</tajweed>لْمَد<tajweed class=madda_obligatory>َا</tajweed>ٓئِنِ حَ<tajweed class=madda_normal>ـٰ</tajweed>شِر<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٥٣</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَأَرْسَلَ فِرْعَوْنُ فِى <tajweed class=ham_wasl>ٱ</tajweed>لْمَد<tajweed class=madda_obligatory>َا</tajweed>ٓئِنِ حَ<tajweed class=madda_normal>ـٰ</tajweed>شِر<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٥٣</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2986,
+      "surah": 26,
+      "ayah": 54,
+      "verse_key": "26:54",
+      "text_ar": "إِنَّ هَـٰٓؤُلَآءِ لَشِرْذِمَةٌ قَلِيلُونَ",
+      "text_tajweed_html": "إِ<tajweed class=ghunnah>نّ</tajweed>َ هَ<tajweed class=madda_obligatory>ـٰٓ</tajweed>ؤُل<tajweed class=madda_obligatory>َا</tajweed>ٓءِ لَشِرْذِمَ<tajweed class=ikhafa>ةٌ ق</tajweed>َلِيل<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٥٤</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "إِ<tajweed class=ghunnah>نّ</tajweed>َ هَ<tajweed class=madda_obligatory>ـٰٓ</tajweed>ؤُل<tajweed class=madda_obligatory>َا</tajweed>ٓءِ لَشِرْذِمَ<tajweed class=ikhafa>ةٌ ق</tajweed>َلِيل<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٥٤</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2987,
+      "surah": 26,
+      "ayah": 55,
+      "verse_key": "26:55",
+      "text_ar": "وَإِنَّهُمْ لَنَا لَغَآئِظُونَ",
+      "text_tajweed_html": "وَإِ<tajweed class=ghunnah>نّ</tajweed>َهُمْ لَنَا لَغ<tajweed class=madda_obligatory>َا</tajweed>ٓئِظ<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٥٥</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَإِ<tajweed class=ghunnah>نّ</tajweed>َهُمْ لَنَا لَغ<tajweed class=madda_obligatory>َا</tajweed>ٓئِظ<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٥٥</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2988,
+      "surah": 26,
+      "ayah": 56,
+      "verse_key": "26:56",
+      "text_ar": "وَإِنَّا لَجَمِيعٌ حَـٰذِرُونَ",
+      "text_tajweed_html": "وَإِ<tajweed class=ghunnah>نّ</tajweed>َا لَجَمِيعٌ حَ<tajweed class=madda_normal>ـٰ</tajweed>ذِر<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٥٦</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَإِ<tajweed class=ghunnah>نّ</tajweed>َا لَجَمِيعٌ حَ<tajweed class=madda_normal>ـٰ</tajweed>ذِر<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٥٦</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2989,
+      "surah": 26,
+      "ayah": 57,
+      "verse_key": "26:57",
+      "text_ar": "فَأَخْرَجْنَـٰهُم مِّن جَنَّـٰتٍ وَعُيُونٍ",
+      "text_tajweed_html": "فَأَخْرَ<tajweed class=qalaqah>جْ</tajweed>نَ<tajweed class=madda_normal>ـٰ</tajweed>ه<tajweed class=idgham_shafawi>ُم م</tajweed>ِّ<tajweed class=ikhafa>ن ج</tajweed>َ<tajweed class=ghunnah>نّ</tajweed>َ<tajweed class=madda_normal>ـٰ</tajweed><tajweed class=idgham_ghunnah>تٍ و</tajweed>َعُي<tajweed class=madda_permissible>ُو</tajweed>نٍ <span class=end>٥٧</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَأَخْرَ<tajweed class=qalaqah>جْ</tajweed>نَ<tajweed class=madda_normal>ـٰ</tajweed>ه<tajweed class=idgham_shafawi>ُم م</tajweed>ِّ<tajweed class=ikhafa>ن ج</tajweed>َ<tajweed class=ghunnah>نّ</tajweed>َ<tajweed class=madda_normal>ـٰ</tajweed><tajweed class=idgham_ghunnah>تٍ و</tajweed>َعُي<tajweed class=madda_permissible>ُو</tajweed>نٍ <span class=end>٥٧</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2990,
+      "surah": 26,
+      "ayah": 58,
+      "verse_key": "26:58",
+      "text_ar": "وَكُنُوزٍ وَمَقَامٍ كَرِيمٍ",
+      "text_tajweed_html": "وَكُنُو<tajweed class=idgham_ghunnah>زٍ و</tajweed>َمَقَا<tajweed class=ikhafa>مٍ ك</tajweed>َر<tajweed class=madda_permissible>ِي</tajweed>مٍ <span class=end>٥٨</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَكُنُو<tajweed class=idgham_ghunnah>زٍ و</tajweed>َمَقَا<tajweed class=ikhafa>مٍ ك</tajweed>َر<tajweed class=madda_permissible>ِي</tajweed>مٍ <span class=end>٥٨</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2991,
+      "surah": 26,
+      "ayah": 59,
+      "verse_key": "26:59",
+      "text_ar": "كَذَٰلِكَ وَأَوْرَثْنَـٰهَا بَنِىٓ إِسْرَٰٓءِيلَ",
+      "text_tajweed_html": "كَذ<tajweed class=madda_normal>َٲ</tajweed>لِكَ وَأَوْرَثْنَ<tajweed class=madda_normal>ـٰ</tajweed>هَا بَن<tajweed class=madda_obligatory>ِىٓ</tajweed> إِسْر<tajweed class=madda_obligatory>َٲ</tajweed>ٓء<tajweed class=madda_permissible>ِي</tajweed>لَ <span class=end>٥٩</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "كَذ<tajweed class=madda_normal>َٲ</tajweed>لِكَ وَأَوْرَثْنَ<tajweed class=madda_normal>ـٰ</tajweed>هَا بَن<tajweed class=madda_obligatory>ِىٓ</tajweed> إِسْر<tajweed class=madda_obligatory>َٲ</tajweed>ٓء<tajweed class=madda_permissible>ِي</tajweed>لَ <span class=end>٥٩</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2992,
+      "surah": 26,
+      "ayah": 60,
+      "verse_key": "26:60",
+      "text_ar": "فَأَتْبَعُوهُم مُّشْرِقِينَ",
+      "text_tajweed_html": "فَأَتْبَعُوه<tajweed class=idgham_shafawi>ُم م</tajweed>ُّشْرِق<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٦٠</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَأَتْبَعُوه<tajweed class=idgham_shafawi>ُم م</tajweed>ُّشْرِق<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٦٠</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2993,
+      "surah": 26,
+      "ayah": 61,
+      "verse_key": "26:61",
+      "text_ar": "فَلَمَّا تَرَٰٓءَا ٱلْجَمْعَانِ قَالَ أَصْحَـٰبُ مُوسَىٰٓ إِنَّا لَمُدْرَكُونَ",
+      "text_tajweed_html": "فَلَ<tajweed class=ghunnah>مّ</tajweed>َا تَر<tajweed class=madda_obligatory>َٲ</tajweed>ٓءَا <tajweed class=ham_wasl>ٱ</tajweed>لْجَمْعَانِ قَالَ أَصْحَ<tajweed class=madda_normal>ـٰ</tajweed>بُ مُوسَ<tajweed class=madda_obligatory>ىٰٓ</tajweed> إِ<tajweed class=ghunnah>نّ</tajweed>َا لَمُ<tajweed class=qalaqah>دْ</tajweed>رَك<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٦١</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَلَ<tajweed class=ghunnah>مّ</tajweed>َا تَر<tajweed class=madda_obligatory>َٲ</tajweed>ٓءَا <tajweed class=ham_wasl>ٱ</tajweed>لْجَمْعَانِ قَالَ أَصْحَ<tajweed class=madda_normal>ـٰ</tajweed>بُ مُوسَ<tajweed class=madda_obligatory>ىٰٓ</tajweed> إِ<tajweed class=ghunnah>نّ</tajweed>َا لَمُ<tajweed class=qalaqah>دْ</tajweed>رَك<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٦١</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2994,
+      "surah": 26,
+      "ayah": 62,
+      "verse_key": "26:62",
+      "text_ar": "قَالَ كَلَّآ ۖ إِنَّ مَعِىَ رَبِّى سَيَهْدِينِ",
+      "text_tajweed_html": "قَالَ كَلّ<tajweed class=madda_obligatory>َآ‌ۖ</tajweed> إِ<tajweed class=ghunnah>نّ</tajweed>َ مَعِىَ رَبِّى سَيَهْد<tajweed class=madda_permissible>ِي</tajweed>نِ <span class=end>٦٢</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَالَ كَلّ<tajweed class=madda_obligatory>َآ‌ۖ</tajweed> إِ<tajweed class=ghunnah>نّ</tajweed>َ مَعِىَ رَبِّى سَيَهْد<tajweed class=madda_permissible>ِي</tajweed>نِ <span class=end>٦٢</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2995,
+      "surah": 26,
+      "ayah": 63,
+      "verse_key": "26:63",
+      "text_ar": "فَأَوْحَيْنَآ إِلَىٰ مُوسَىٰٓ أَنِ ٱضْرِب بِّعَصَاكَ ٱلْبَحْرَ ۖ فَٱنفَلَقَ فَكَانَ كُلُّ فِرْقٍ كَٱلطَّوْدِ ٱلْعَظِيمِ",
+      "text_tajweed_html": "فَأَوْحَيْن<tajweed class=madda_obligatory>َآ</tajweed> إِلَىٰ مُوسَ<tajweed class=madda_obligatory>ىٰٓ</tajweed> أَنِ <tajweed class=ham_wasl>ٱ</tajweed>ضْرِب بِّعَصَاكَ <tajweed class=ham_wasl>ٱ</tajweed>لْبَحْرَ‌ۖ فَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=ikhafa>نف</tajweed>َلَقَ فَكَانَ كُلُّ فِرْ<tajweed class=ikhafa>قٍ ك</tajweed>َ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>طَّوْدِ <tajweed class=ham_wasl>ٱ</tajweed>لْعَظ<tajweed class=madda_permissible>ِي</tajweed>مِ <span class=end>٦٣</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَأَوْحَيْن<tajweed class=madda_obligatory>َآ</tajweed> إِلَىٰ مُوسَ<tajweed class=madda_obligatory>ىٰٓ</tajweed> أَنِ <tajweed class=ham_wasl>ٱ</tajweed>ضْرِب بِّعَصَاكَ <tajweed class=ham_wasl>ٱ</tajweed>لْبَحْرَ‌ۖ فَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=ikhafa>نف</tajweed>َلَقَ فَكَانَ كُلُّ فِرْ<tajweed class=ikhafa>قٍ ك</tajweed>َ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>طَّوْدِ <tajweed class=ham_wasl>ٱ</tajweed>لْعَظ<tajweed class=madda_permissible>ِي</tajweed>مِ <span class=end>٦٣</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2996,
+      "surah": 26,
+      "ayah": 64,
+      "verse_key": "26:64",
+      "text_ar": "وَأَزْلَفْنَا ثَمَّ ٱلْـَٔاخَرِينَ",
+      "text_tajweed_html": "وَأَزْلَفْنَا ثَ<tajweed class=ghunnah>مّ</tajweed>َ <tajweed class=ham_wasl>ٱ</tajweed>لْأَخَر<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٦٤</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَأَزْلَفْنَا ثَ<tajweed class=ghunnah>مّ</tajweed>َ <tajweed class=ham_wasl>ٱ</tajweed>لْأَخَر<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٦٤</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2997,
+      "surah": 26,
+      "ayah": 65,
+      "verse_key": "26:65",
+      "text_ar": "وَأَنجَيْنَا مُوسَىٰ وَمَن مَّعَهُۥٓ أَجْمَعِينَ",
+      "text_tajweed_html": "وَأَ<tajweed class=ikhafa>نج</tajweed>َيْنَا مُوسَىٰ وَم<tajweed class=idgham_ghunnah>َن م</tajweed>َّعَهُ<tajweed class=madda_obligatory>ۥٓ</tajweed> أَ<tajweed class=qalaqah>جْ</tajweed>مَع<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٦٥</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَأَ<tajweed class=ikhafa>نج</tajweed>َيْنَا مُوسَىٰ وَم<tajweed class=idgham_ghunnah>َن م</tajweed>َّعَهُ<tajweed class=madda_obligatory>ۥٓ</tajweed> أَ<tajweed class=qalaqah>جْ</tajweed>مَع<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٦٥</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2998,
+      "surah": 26,
+      "ayah": 66,
+      "verse_key": "26:66",
+      "text_ar": "ثُمَّ أَغْرَقْنَا ٱلْـَٔاخَرِينَ",
+      "text_tajweed_html": "ثُ<tajweed class=ghunnah>مّ</tajweed>َ أَغْرَ<tajweed class=qalaqah>قْ</tajweed>نَا <tajweed class=ham_wasl>ٱ</tajweed>لْأَخَر<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٦٦</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "ثُ<tajweed class=ghunnah>مّ</tajweed>َ أَغْرَ<tajweed class=qalaqah>قْ</tajweed>نَا <tajweed class=ham_wasl>ٱ</tajweed>لْأَخَر<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٦٦</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 2999,
+      "surah": 26,
+      "ayah": 67,
+      "verse_key": "26:67",
+      "text_ar": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+      "text_tajweed_html": "إِ<tajweed class=ghunnah>نّ</tajweed>َ فِى ذ<tajweed class=madda_normal>َٲ</tajweed>لِكَ لَأَيَ<tajweed class=idgham_ghunnah>ةً‌ۖ و</tajweed>َمَا كَانَ أَكْثَرُه<tajweed class=idgham_shafawi>ُم م</tajweed>ُّؤْمِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٦٧</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "إِ<tajweed class=ghunnah>نّ</tajweed>َ فِى ذ<tajweed class=madda_normal>َٲ</tajweed>لِكَ لَأَيَ<tajweed class=idgham_ghunnah>ةً‌ۖ و</tajweed>َمَا كَانَ أَكْثَرُه<tajweed class=idgham_shafawi>ُم م</tajweed>ُّؤْمِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٦٧</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3000,
+      "surah": 26,
+      "ayah": 68,
+      "verse_key": "26:68",
+      "text_ar": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+      "text_tajweed_html": "وَإِ<tajweed class=ghunnah>نّ</tajweed>َ رَبَّكَ لَهُوَ <tajweed class=ham_wasl>ٱ</tajweed>لْعَزِيزُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>رَّح<tajweed class=madda_permissible>ِي</tajweed>مُ <span class=end>٦٨</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَإِ<tajweed class=ghunnah>نّ</tajweed>َ رَبَّكَ لَهُوَ <tajweed class=ham_wasl>ٱ</tajweed>لْعَزِيزُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>رَّح<tajweed class=madda_permissible>ِي</tajweed>مُ <span class=end>٦٨</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3001,
+      "surah": 26,
+      "ayah": 69,
+      "verse_key": "26:69",
+      "text_ar": "وَٱتْلُ عَلَيْهِمْ نَبَأَ إِبْرَٰهِيمَ",
+      "text_tajweed_html": "وَ<tajweed class=ham_wasl>ٱ</tajweed>تْلُ عَلَيْهِمْ نَبَأَ إِ<tajweed class=qalaqah>بْ</tajweed>ر<tajweed class=madda_normal>َٲ</tajweed>ه<tajweed class=madda_permissible>ِي</tajweed>مَ <span class=end>٦٩</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَ<tajweed class=ham_wasl>ٱ</tajweed>تْلُ عَلَيْهِمْ نَبَأَ إِ<tajweed class=qalaqah>بْ</tajweed>ر<tajweed class=madda_normal>َٲ</tajweed>ه<tajweed class=madda_permissible>ِي</tajweed>مَ <span class=end>٦٩</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3002,
+      "surah": 26,
+      "ayah": 70,
+      "verse_key": "26:70",
+      "text_ar": "إِذْ قَالَ لِأَبِيهِ وَقَوْمِهِۦ مَا تَعْبُدُونَ",
+      "text_tajweed_html": "إِذْ قَالَ لِأَبِيهِ وَقَوْمِه<tajweed class=madda_normal>ِۦ</tajweed> مَا تَعْبُد<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٧٠</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "إِذْ قَالَ لِأَبِيهِ وَقَوْمِه<tajweed class=madda_normal>ِۦ</tajweed> مَا تَعْبُد<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٧٠</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3003,
+      "surah": 26,
+      "ayah": 71,
+      "verse_key": "26:71",
+      "text_ar": "قَالُوا۟ نَعْبُدُ أَصْنَامًا فَنَظَلُّ لَهَا عَـٰكِفِينَ",
+      "text_tajweed_html": "قَالُو<tajweed class=slnt>اْ</tajweed> نَعْبُدُ أَصْنَا<tajweed class=ikhafa>مًا ف</tajweed>َنَظَلُّ لَهَا عَ<tajweed class=madda_normal>ـٰ</tajweed>كِف<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٧١</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَالُو<tajweed class=slnt>اْ</tajweed> نَعْبُدُ أَصْنَا<tajweed class=ikhafa>مًا ف</tajweed>َنَظَلُّ لَهَا عَ<tajweed class=madda_normal>ـٰ</tajweed>كِف<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٧١</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3004,
+      "surah": 26,
+      "ayah": 72,
+      "verse_key": "26:72",
+      "text_ar": "قَالَ هَلْ يَسْمَعُونَكُمْ إِذْ تَدْعُونَ",
+      "text_tajweed_html": "قَالَ هَلْ يَسْمَعُونَكُمْ إِذْ تَ<tajweed class=qalaqah>دْ</tajweed>ع<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٧٢</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَالَ هَلْ يَسْمَعُونَكُمْ إِذْ تَ<tajweed class=qalaqah>دْ</tajweed>ع<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٧٢</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3005,
+      "surah": 26,
+      "ayah": 73,
+      "verse_key": "26:73",
+      "text_ar": "أَوْ يَنفَعُونَكُمْ أَوْ يَضُرُّونَ",
+      "text_tajweed_html": "أَوْ يَ<tajweed class=ikhafa>نف</tajweed>َعُونَكُمْ أَوْ يَضُرّ<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٧٣</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "أَوْ يَ<tajweed class=ikhafa>نف</tajweed>َعُونَكُمْ أَوْ يَضُرّ<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٧٣</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3006,
+      "surah": 26,
+      "ayah": 74,
+      "verse_key": "26:74",
+      "text_ar": "قَالُوا۟ بَلْ وَجَدْنَآ ءَابَآءَنَا كَذَٰلِكَ يَفْعَلُونَ",
+      "text_tajweed_html": "قَالُو<tajweed class=slnt>اْ</tajweed> بَلْ وَجَ<tajweed class=qalaqah>دْ</tajweed>ن<tajweed class=madda_obligatory>َآ</tajweed> ءَاب<tajweed class=madda_obligatory>َا</tajweed>ٓءَنَا كَذ<tajweed class=madda_normal>َٲ</tajweed>لِكَ يَفْعَل<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٧٤</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَالُو<tajweed class=slnt>اْ</tajweed> بَلْ وَجَ<tajweed class=qalaqah>دْ</tajweed>ن<tajweed class=madda_obligatory>َآ</tajweed> ءَاب<tajweed class=madda_obligatory>َا</tajweed>ٓءَنَا كَذ<tajweed class=madda_normal>َٲ</tajweed>لِكَ يَفْعَل<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٧٤</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3007,
+      "surah": 26,
+      "ayah": 75,
+      "verse_key": "26:75",
+      "text_ar": "قَالَ أَفَرَءَيْتُم مَّا كُنتُمْ تَعْبُدُونَ",
+      "text_tajweed_html": "قَالَ أَفَرَءَيْت<tajweed class=idgham_shafawi>ُم م</tajweed>َّا كُ<tajweed class=ikhafa>نت</tajweed>ُمْ تَعْبُد<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٧٥</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَالَ أَفَرَءَيْت<tajweed class=idgham_shafawi>ُم م</tajweed>َّا كُ<tajweed class=ikhafa>نت</tajweed>ُمْ تَعْبُد<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٧٥</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3008,
+      "surah": 26,
+      "ayah": 76,
+      "verse_key": "26:76",
+      "text_ar": "أَنتُمْ وَءَابَآؤُكُمُ ٱلْأَقْدَمُونَ",
+      "text_tajweed_html": "أَ<tajweed class=ikhafa>نت</tajweed>ُمْ وَءَاب<tajweed class=madda_obligatory>َا</tajweed>ٓؤُكُمُ <tajweed class=ham_wasl>ٱ</tajweed>لْأَ<tajweed class=qalaqah>قْ</tajweed>دَم<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٧٦</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "أَ<tajweed class=ikhafa>نت</tajweed>ُمْ وَءَاب<tajweed class=madda_obligatory>َا</tajweed>ٓؤُكُمُ <tajweed class=ham_wasl>ٱ</tajweed>لْأَ<tajweed class=qalaqah>قْ</tajweed>دَم<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٧٦</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3009,
+      "surah": 26,
+      "ayah": 77,
+      "verse_key": "26:77",
+      "text_ar": "فَإِنَّهُمْ عَدُوٌّ لِّىٓ إِلَّا رَبَّ ٱلْعَـٰلَمِينَ",
+      "text_tajweed_html": "فَإِ<tajweed class=ghunnah>نّ</tajweed>َهُمْ عَدُ<tajweed class=idgham_wo_ghunnah>وٌّ ل</tajweed>ّ<tajweed class=madda_obligatory>ِىٓ</tajweed> إِلَّا رَبَّ <tajweed class=ham_wasl>ٱ</tajweed>لْعَ<tajweed class=madda_normal>ـٰ</tajweed>لَم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٧٧</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَإِ<tajweed class=ghunnah>نّ</tajweed>َهُمْ عَدُ<tajweed class=idgham_wo_ghunnah>وٌّ ل</tajweed>ّ<tajweed class=madda_obligatory>ِىٓ</tajweed> إِلَّا رَبَّ <tajweed class=ham_wasl>ٱ</tajweed>لْعَ<tajweed class=madda_normal>ـٰ</tajweed>لَم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٧٧</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3010,
+      "surah": 26,
+      "ayah": 78,
+      "verse_key": "26:78",
+      "text_ar": "ٱلَّذِى خَلَقَنِى فَهُوَ يَهْدِينِ",
+      "text_tajweed_html": "ٱلَّذِى خَلَقَنِى فَهُوَ يَهْد<tajweed class=madda_permissible>ِي</tajweed>نِ <span class=end>٧٨</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "ٱلَّذِى خَلَقَنِى فَهُوَ يَهْد<tajweed class=madda_permissible>ِي</tajweed>نِ <span class=end>٧٨</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3011,
+      "surah": 26,
+      "ayah": 79,
+      "verse_key": "26:79",
+      "text_ar": "وَٱلَّذِى هُوَ يُطْعِمُنِى وَيَسْقِينِ",
+      "text_tajweed_html": "وَ<tajweed class=ham_wasl>ٱ</tajweed>لَّذِى هُوَ يُ<tajweed class=qalaqah>طْ</tajweed>عِمُنِى وَيَسْق<tajweed class=madda_permissible>ِي</tajweed>نِ <span class=end>٧٩</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَ<tajweed class=ham_wasl>ٱ</tajweed>لَّذِى هُوَ يُ<tajweed class=qalaqah>طْ</tajweed>عِمُنِى وَيَسْق<tajweed class=madda_permissible>ِي</tajweed>نِ <span class=end>٧٩</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3012,
+      "surah": 26,
+      "ayah": 80,
+      "verse_key": "26:80",
+      "text_ar": "وَإِذَا مَرِضْتُ فَهُوَ يَشْفِينِ",
+      "text_tajweed_html": "وَإِذَا مَرِضْتُ فَهُوَ يَشْف<tajweed class=madda_permissible>ِي</tajweed>نِ <span class=end>٨٠</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَإِذَا مَرِضْتُ فَهُوَ يَشْف<tajweed class=madda_permissible>ِي</tajweed>نِ <span class=end>٨٠</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3013,
+      "surah": 26,
+      "ayah": 81,
+      "verse_key": "26:81",
+      "text_ar": "وَٱلَّذِى يُمِيتُنِى ثُمَّ يُحْيِينِ",
+      "text_tajweed_html": "وَ<tajweed class=ham_wasl>ٱ</tajweed>لَّذِى يُمِيتُنِى ثُ<tajweed class=ghunnah>مّ</tajweed>َ يُحْي<tajweed class=madda_permissible>ِي</tajweed>نِ <span class=end>٨١</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَ<tajweed class=ham_wasl>ٱ</tajweed>لَّذِى يُمِيتُنِى ثُ<tajweed class=ghunnah>مّ</tajweed>َ يُحْي<tajweed class=madda_permissible>ِي</tajweed>نِ <span class=end>٨١</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3014,
+      "surah": 26,
+      "ayah": 82,
+      "verse_key": "26:82",
+      "text_ar": "وَٱلَّذِىٓ أَطْمَعُ أَن يَغْفِرَ لِى خَطِيٓـَٔتِى يَوْمَ ٱلدِّينِ",
+      "text_tajweed_html": "وَ<tajweed class=ham_wasl>ٱ</tajweed>لَّذ<tajweed class=madda_obligatory>ِىٓ</tajweed> أَ<tajweed class=qalaqah>طْ</tajweed>مَعُ أ<tajweed class=idgham_ghunnah>َن ي</tajweed>َغْفِرَ لِى خَطِ<tajweed class=madda_obligatory>يٓ</tajweed>ــَٔتِى يَوْمَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>دّ<tajweed class=madda_permissible>ِي</tajweed>نِ <span class=end>٨٢</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَ<tajweed class=ham_wasl>ٱ</tajweed>لَّذ<tajweed class=madda_obligatory>ِىٓ</tajweed> أَ<tajweed class=qalaqah>طْ</tajweed>مَعُ أ<tajweed class=idgham_ghunnah>َن ي</tajweed>َغْفِرَ لِى خَطِ<tajweed class=madda_obligatory>يٓ</tajweed>ــَٔتِى يَوْمَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>دّ<tajweed class=madda_permissible>ِي</tajweed>نِ <span class=end>٨٢</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3015,
+      "surah": 26,
+      "ayah": 83,
+      "verse_key": "26:83",
+      "text_ar": "رَبِّ هَبْ لِى حُكْمًا وَأَلْحِقْنِى بِٱلصَّـٰلِحِينَ",
+      "text_tajweed_html": "رَبِّ هَ<tajweed class=qalaqah>بْ</tajweed> لِى حُكْ<tajweed class=idgham_ghunnah>مًا و</tajweed>َأَلْحِ<tajweed class=qalaqah>قْ</tajweed>نِى بِ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>صَّ<tajweed class=madda_normal>ـٰ</tajweed>لِح<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٨٣</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "رَبِّ هَ<tajweed class=qalaqah>بْ</tajweed> لِى حُكْ<tajweed class=idgham_ghunnah>مًا و</tajweed>َأَلْحِ<tajweed class=qalaqah>قْ</tajweed>نِى بِ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>صَّ<tajweed class=madda_normal>ـٰ</tajweed>لِح<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٨٣</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3016,
+      "surah": 26,
+      "ayah": 84,
+      "verse_key": "26:84",
+      "text_ar": "وَٱجْعَل لِّى لِسَانَ صِدْقٍ فِى ٱلْـَٔاخِرِينَ",
+      "text_tajweed_html": "وَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=qalaqah>جْ</tajweed>عَل لِّى لِسَانَ صِ<tajweed class=qalaqah>دْ</tajweed><tajweed class=ikhafa>قٍ ف</tajweed>ِى <tajweed class=ham_wasl>ٱ</tajweed>لْأَخِر<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٨٤</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=qalaqah>جْ</tajweed>عَل لِّى لِسَانَ صِ<tajweed class=qalaqah>دْ</tajweed><tajweed class=ikhafa>قٍ ف</tajweed>ِى <tajweed class=ham_wasl>ٱ</tajweed>لْأَخِر<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٨٤</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3017,
+      "surah": 26,
+      "ayah": 85,
+      "verse_key": "26:85",
+      "text_ar": "وَٱجْعَلْنِى مِن وَرَثَةِ جَنَّةِ ٱلنَّعِيمِ",
+      "text_tajweed_html": "وَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=qalaqah>جْ</tajweed>عَلْنِى م<tajweed class=idgham_ghunnah>ِن و</tajweed>َرَثَةِ جَ<tajweed class=ghunnah>نّ</tajweed>َةِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed>َع<tajweed class=madda_permissible>ِي</tajweed>مِ <span class=end>٨٥</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=qalaqah>جْ</tajweed>عَلْنِى م<tajweed class=idgham_ghunnah>ِن و</tajweed>َرَثَةِ جَ<tajweed class=ghunnah>نّ</tajweed>َةِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed>َع<tajweed class=madda_permissible>ِي</tajweed>مِ <span class=end>٨٥</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3018,
+      "surah": 26,
+      "ayah": 86,
+      "verse_key": "26:86",
+      "text_ar": "وَٱغْفِرْ لِأَبِىٓ إِنَّهُۥ كَانَ مِنَ ٱلضَّآلِّينَ",
+      "text_tajweed_html": "وَ<tajweed class=ham_wasl>ٱ</tajweed>غْفِرْ لِأَب<tajweed class=madda_obligatory>ِىٓ</tajweed> إِ<tajweed class=ghunnah>نّ</tajweed>َهُ<tajweed class=madda_normal>ۥ</tajweed> كَانَ مِنَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>ضّ<tajweed class=madda_necessary>َا</tajweed>ٓلّ<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٨٦</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَ<tajweed class=ham_wasl>ٱ</tajweed>غْفِرْ لِأَب<tajweed class=madda_obligatory>ِىٓ</tajweed> إِ<tajweed class=ghunnah>نّ</tajweed>َهُ<tajweed class=madda_normal>ۥ</tajweed> كَانَ مِنَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>ضّ<tajweed class=madda_necessary>َا</tajweed>ٓلّ<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٨٦</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3019,
+      "surah": 26,
+      "ayah": 87,
+      "verse_key": "26:87",
+      "text_ar": "وَلَا تُخْزِنِى يَوْمَ يُبْعَثُونَ",
+      "text_tajweed_html": "وَلَا تُخْزِنِى يَوْمَ يُ<tajweed class=qalaqah>بْ</tajweed>عَث<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٨٧</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَلَا تُخْزِنِى يَوْمَ يُ<tajweed class=qalaqah>بْ</tajweed>عَث<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٨٧</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3020,
+      "surah": 26,
+      "ayah": 88,
+      "verse_key": "26:88",
+      "text_ar": "يَوْمَ لَا يَنفَعُ مَالٌ وَلَا بَنُونَ",
+      "text_tajweed_html": "يَوْمَ لَا يَ<tajweed class=ikhafa>نف</tajweed>َعُ مَا<tajweed class=idgham_ghunnah>لٌ و</tajweed>َلَا بَن<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٨٨</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "يَوْمَ لَا يَ<tajweed class=ikhafa>نف</tajweed>َعُ مَا<tajweed class=idgham_ghunnah>لٌ و</tajweed>َلَا بَن<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٨٨</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3021,
+      "surah": 26,
+      "ayah": 89,
+      "verse_key": "26:89",
+      "text_ar": "إِلَّا مَنْ أَتَى ٱللَّهَ بِقَلْبٍ سَلِيمٍ",
+      "text_tajweed_html": "إِلَّا مَنْ أَتَى <tajweed class=ham_wasl>ٱ</tajweed>للَّهَ بِقَلْ<tajweed class=ikhafa>بٍ س</tajweed>َل<tajweed class=madda_permissible>ِي</tajweed>مٍ <span class=end>٨٩</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "إِلَّا مَنْ أَتَى <tajweed class=ham_wasl>ٱ</tajweed>للَّهَ بِقَلْ<tajweed class=ikhafa>بٍ س</tajweed>َل<tajweed class=madda_permissible>ِي</tajweed>مٍ <span class=end>٨٩</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3022,
+      "surah": 26,
+      "ayah": 90,
+      "verse_key": "26:90",
+      "text_ar": "وَأُزْلِفَتِ ٱلْجَنَّةُ لِلْمُتَّقِينَ",
+      "text_tajweed_html": "وَأُزْلِفَتِ <tajweed class=ham_wasl>ٱ</tajweed>لْجَ<tajweed class=ghunnah>نّ</tajweed>َةُ لِلْمُتَّق<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٩٠</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَأُزْلِفَتِ <tajweed class=ham_wasl>ٱ</tajweed>لْجَ<tajweed class=ghunnah>نّ</tajweed>َةُ لِلْمُتَّق<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٩٠</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3023,
+      "surah": 26,
+      "ayah": 91,
+      "verse_key": "26:91",
+      "text_ar": "وَبُرِّزَتِ ٱلْجَحِيمُ لِلْغَاوِينَ",
+      "text_tajweed_html": "وَبُرِّزَتِ <tajweed class=ham_wasl>ٱ</tajweed>لْجَحِيمُ لِلْغَاو<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٩١</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَبُرِّزَتِ <tajweed class=ham_wasl>ٱ</tajweed>لْجَحِيمُ لِلْغَاو<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٩١</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3024,
+      "surah": 26,
+      "ayah": 92,
+      "verse_key": "26:92",
+      "text_ar": "وَقِيلَ لَهُمْ أَيْنَ مَا كُنتُمْ تَعْبُدُونَ",
+      "text_tajweed_html": "وَقِيلَ لَهُمْ أَيْنَ مَا كُ<tajweed class=ikhafa>نت</tajweed>ُمْ تَعْبُد<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٩٢</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَقِيلَ لَهُمْ أَيْنَ مَا كُ<tajweed class=ikhafa>نت</tajweed>ُمْ تَعْبُد<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٩٢</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3025,
+      "surah": 26,
+      "ayah": 93,
+      "verse_key": "26:93",
+      "text_ar": "مِن دُونِ ٱللَّهِ هَلْ يَنصُرُونَكُمْ أَوْ يَنتَصِرُونَ",
+      "text_tajweed_html": "مِ<tajweed class=ikhafa>ن د</tajweed>ُونِ <tajweed class=ham_wasl>ٱ</tajweed>للَّهِ هَلْ يَ<tajweed class=ikhafa>نص</tajweed>ُرُونَكُمْ أَوْ يَ<tajweed class=ikhafa>نت</tajweed>َصِر<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٩٣</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "مِ<tajweed class=ikhafa>ن د</tajweed>ُونِ <tajweed class=ham_wasl>ٱ</tajweed>للَّهِ هَلْ يَ<tajweed class=ikhafa>نص</tajweed>ُرُونَكُمْ أَوْ يَ<tajweed class=ikhafa>نت</tajweed>َصِر<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٩٣</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3026,
+      "surah": 26,
+      "ayah": 94,
+      "verse_key": "26:94",
+      "text_ar": "فَكُبْكِبُوا۟ فِيهَا هُمْ وَٱلْغَاوُۥنَ",
+      "text_tajweed_html": "فَكُ<tajweed class=qalaqah>بْ</tajweed>كِبُو<tajweed class=slnt>اْ</tajweed> فِيهَا هُمْ وَ<tajweed class=ham_wasl>ٱ</tajweed>لْغَاوُ<tajweed class=madda_permissible>ۥ</tajweed>نَ <span class=end>٩٤</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَكُ<tajweed class=qalaqah>بْ</tajweed>كِبُو<tajweed class=slnt>اْ</tajweed> فِيهَا هُمْ وَ<tajweed class=ham_wasl>ٱ</tajweed>لْغَاوُ<tajweed class=madda_permissible>ۥ</tajweed>نَ <span class=end>٩٤</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3027,
+      "surah": 26,
+      "ayah": 95,
+      "verse_key": "26:95",
+      "text_ar": "وَجُنُودُ إِبْلِيسَ أَجْمَعُونَ",
+      "text_tajweed_html": "وَجُنُودُ إِ<tajweed class=qalaqah>بْ</tajweed>لِيسَ أَ<tajweed class=qalaqah>جْ</tajweed>مَع<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٩٥</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَجُنُودُ إِ<tajweed class=qalaqah>بْ</tajweed>لِيسَ أَ<tajweed class=qalaqah>جْ</tajweed>مَع<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٩٥</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3028,
+      "surah": 26,
+      "ayah": 96,
+      "verse_key": "26:96",
+      "text_ar": "قَالُوا۟ وَهُمْ فِيهَا يَخْتَصِمُونَ",
+      "text_tajweed_html": "قَالُو<tajweed class=slnt>اْ</tajweed> وَهُمْ فِيهَا يَخْتَصِم<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٩٦</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَالُو<tajweed class=slnt>اْ</tajweed> وَهُمْ فِيهَا يَخْتَصِم<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٩٦</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3029,
+      "surah": 26,
+      "ayah": 97,
+      "verse_key": "26:97",
+      "text_ar": "تَٱللَّهِ إِن كُنَّا لَفِى ضَلَـٰلٍ مُّبِينٍ",
+      "text_tajweed_html": "تَ<tajweed class=ham_wasl>ٱ</tajweed>للَّهِ إِ<tajweed class=ikhafa>ن ك</tajweed>ُ<tajweed class=ghunnah>نّ</tajweed>َا لَفِى ضَلَ<tajweed class=madda_normal>ـٰ</tajweed><tajweed class=idgham_ghunnah>لٍ م</tajweed>ُّب<tajweed class=madda_permissible>ِي</tajweed>نٍ <span class=end>٩٧</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "تَ<tajweed class=ham_wasl>ٱ</tajweed>للَّهِ إِ<tajweed class=ikhafa>ن ك</tajweed>ُ<tajweed class=ghunnah>نّ</tajweed>َا لَفِى ضَلَ<tajweed class=madda_normal>ـٰ</tajweed><tajweed class=idgham_ghunnah>لٍ م</tajweed>ُّب<tajweed class=madda_permissible>ِي</tajweed>نٍ <span class=end>٩٧</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3030,
+      "surah": 26,
+      "ayah": 98,
+      "verse_key": "26:98",
+      "text_ar": "إِذْ نُسَوِّيكُم بِرَبِّ ٱلْعَـٰلَمِينَ",
+      "text_tajweed_html": "إِذْ نُسَوِّيك<tajweed class=ikhafa_shafawi>ُم ب</tajweed>ِرَبِّ <tajweed class=ham_wasl>ٱ</tajweed>لْعَ<tajweed class=madda_normal>ـٰ</tajweed>لَم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٩٨</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "إِذْ نُسَوِّيك<tajweed class=ikhafa_shafawi>ُم ب</tajweed>ِرَبِّ <tajweed class=ham_wasl>ٱ</tajweed>لْعَ<tajweed class=madda_normal>ـٰ</tajweed>لَم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٩٨</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3031,
+      "surah": 26,
+      "ayah": 99,
+      "verse_key": "26:99",
+      "text_ar": "وَمَآ أَضَلَّنَآ إِلَّا ٱلْمُجْرِمُونَ",
+      "text_tajweed_html": "وَم<tajweed class=madda_obligatory>َآ</tajweed> أَضَلَّن<tajweed class=madda_obligatory>َآ</tajweed> إِلَّا <tajweed class=ham_wasl>ٱ</tajweed>لْمُ<tajweed class=qalaqah>جْ</tajweed>رِم<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٩٩</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَم<tajweed class=madda_obligatory>َآ</tajweed> أَضَلَّن<tajweed class=madda_obligatory>َآ</tajweed> إِلَّا <tajweed class=ham_wasl>ٱ</tajweed>لْمُ<tajweed class=qalaqah>جْ</tajweed>رِم<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٩٩</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3032,
+      "surah": 26,
+      "ayah": 100,
+      "verse_key": "26:100",
+      "text_ar": "فَمَا لَنَا مِن شَـٰفِعِينَ",
+      "text_tajweed_html": "فَمَا لَنَا مِ<tajweed class=ikhafa>ن ش</tajweed>َ<tajweed class=madda_normal>ـٰ</tajweed>فِع<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٠٠</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَمَا لَنَا مِ<tajweed class=ikhafa>ن ش</tajweed>َ<tajweed class=madda_normal>ـٰ</tajweed>فِع<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٠٠</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3033,
+      "surah": 26,
+      "ayah": 101,
+      "verse_key": "26:101",
+      "text_ar": "وَلَا صَدِيقٍ حَمِيمٍ",
+      "text_tajweed_html": "وَلَا صَدِيقٍ حَم<tajweed class=madda_permissible>ِي</tajweed>مٍ <span class=end>١٠١</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَلَا صَدِيقٍ حَم<tajweed class=madda_permissible>ِي</tajweed>مٍ <span class=end>١٠١</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3034,
+      "surah": 26,
+      "ayah": 102,
+      "verse_key": "26:102",
+      "text_ar": "فَلَوْ أَنَّ لَنَا كَرَّةً فَنَكُونَ مِنَ ٱلْمُؤْمِنِينَ",
+      "text_tajweed_html": "فَلَوْ أَ<tajweed class=ghunnah>نّ</tajweed>َ لَنَا كَرَّ<tajweed class=ikhafa>ةً ف</tajweed>َنَكُونَ مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْمُؤْمِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٠٢</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَلَوْ أَ<tajweed class=ghunnah>نّ</tajweed>َ لَنَا كَرَّ<tajweed class=ikhafa>ةً ف</tajweed>َنَكُونَ مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْمُؤْمِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٠٢</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3035,
+      "surah": 26,
+      "ayah": 103,
+      "verse_key": "26:103",
+      "text_ar": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+      "text_tajweed_html": "إِ<tajweed class=ghunnah>نّ</tajweed>َ فِى ذ<tajweed class=madda_normal>َٲ</tajweed>لِكَ لَأَيَ<tajweed class=idgham_ghunnah>ةً‌ۖ و</tajweed>َمَا كَانَ أَكْثَرُه<tajweed class=idgham_shafawi>ُم م</tajweed>ُّؤْمِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٠٣</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "إِ<tajweed class=ghunnah>نّ</tajweed>َ فِى ذ<tajweed class=madda_normal>َٲ</tajweed>لِكَ لَأَيَ<tajweed class=idgham_ghunnah>ةً‌ۖ و</tajweed>َمَا كَانَ أَكْثَرُه<tajweed class=idgham_shafawi>ُم م</tajweed>ُّؤْمِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٠٣</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3036,
+      "surah": 26,
+      "ayah": 104,
+      "verse_key": "26:104",
+      "text_ar": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+      "text_tajweed_html": "وَإِ<tajweed class=ghunnah>نّ</tajweed>َ رَبَّكَ لَهُوَ <tajweed class=ham_wasl>ٱ</tajweed>لْعَزِيزُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>رَّح<tajweed class=madda_permissible>ِي</tajweed>مُ <span class=end>١٠٤</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَإِ<tajweed class=ghunnah>نّ</tajweed>َ رَبَّكَ لَهُوَ <tajweed class=ham_wasl>ٱ</tajweed>لْعَزِيزُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>رَّح<tajweed class=madda_permissible>ِي</tajweed>مُ <span class=end>١٠٤</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3037,
+      "surah": 26,
+      "ayah": 105,
+      "verse_key": "26:105",
+      "text_ar": "كَذَّبَتْ قَوْمُ نُوحٍ ٱلْمُرْسَلِينَ",
+      "text_tajweed_html": "كَذَّبَتْ قَوْمُ نُوحٍ <tajweed class=ham_wasl>ٱ</tajweed>لْمُرْسَل<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٠٥</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "كَذَّبَتْ قَوْمُ نُوحٍ <tajweed class=ham_wasl>ٱ</tajweed>لْمُرْسَل<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٠٥</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3038,
+      "surah": 26,
+      "ayah": 106,
+      "verse_key": "26:106",
+      "text_ar": "إِذْ قَالَ لَهُمْ أَخُوهُمْ نُوحٌ أَلَا تَتَّقُونَ",
+      "text_tajweed_html": "إِذْ قَالَ لَهُمْ أَخُوهُمْ نُوحٌ أَلَا تَتَّق<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١٠٦</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "إِذْ قَالَ لَهُمْ أَخُوهُمْ نُوحٌ أَلَا تَتَّق<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١٠٦</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3039,
+      "surah": 26,
+      "ayah": 107,
+      "verse_key": "26:107",
+      "text_ar": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌ",
+      "text_tajweed_html": "إِ<tajweed class=ghunnah>نّ</tajweed>ِى لَكُمْ رَسُولٌ أَم<tajweed class=madda_permissible>ِي</tajweed>نٌ <span class=end>١٠٧</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "إِ<tajweed class=ghunnah>نّ</tajweed>ِى لَكُمْ رَسُولٌ أَم<tajweed class=madda_permissible>ِي</tajweed>نٌ <span class=end>١٠٧</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3040,
+      "surah": 26,
+      "ayah": 108,
+      "verse_key": "26:108",
+      "text_ar": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "text_tajweed_html": "فَ<tajweed class=ham_wasl>ٱ</tajweed>تَّقُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed>للَّهَ وَأَطِيع<tajweed class=madda_permissible>ُو</tajweed>نِ <span class=end>١٠٨</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَ<tajweed class=ham_wasl>ٱ</tajweed>تَّقُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed>للَّهَ وَأَطِيع<tajweed class=madda_permissible>ُو</tajweed>نِ <span class=end>١٠٨</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3041,
+      "surah": 26,
+      "ayah": 109,
+      "verse_key": "26:109",
+      "text_ar": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِىَ إِلَّا عَلَىٰ رَبِّ ٱلْعَـٰلَمِينَ",
+      "text_tajweed_html": "وَم<tajweed class=madda_obligatory>َآ</tajweed> أَسْــَٔلُكُمْ عَلَيْهِ مِنْ أَ<tajweed class=qalaqah>جْ</tajweed>رٍ‌ۖ إِنْ أَ<tajweed class=qalaqah>جْ</tajweed>رِىَ إِلَّا عَلَىٰ رَبِّ <tajweed class=ham_wasl>ٱ</tajweed>لْعَ<tajweed class=madda_normal>ـٰ</tajweed>لَم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٠٩</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَم<tajweed class=madda_obligatory>َآ</tajweed> أَسْــَٔلُكُمْ عَلَيْهِ مِنْ أَ<tajweed class=qalaqah>جْ</tajweed>رٍ‌ۖ إِنْ أَ<tajweed class=qalaqah>جْ</tajweed>رِىَ إِلَّا عَلَىٰ رَبِّ <tajweed class=ham_wasl>ٱ</tajweed>لْعَ<tajweed class=madda_normal>ـٰ</tajweed>لَم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٠٩</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3042,
+      "surah": 26,
+      "ayah": 110,
+      "verse_key": "26:110",
+      "text_ar": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "text_tajweed_html": "فَ<tajweed class=ham_wasl>ٱ</tajweed>تَّقُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed>للَّهَ وَأَطِيع<tajweed class=madda_permissible>ُو</tajweed>نِ <span class=end>١١٠</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَ<tajweed class=ham_wasl>ٱ</tajweed>تَّقُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed>للَّهَ وَأَطِيع<tajweed class=madda_permissible>ُو</tajweed>نِ <span class=end>١١٠</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3043,
+      "surah": 26,
+      "ayah": 111,
+      "verse_key": "26:111",
+      "text_ar": "۞ قَالُوٓا۟ أَنُؤْمِنُ لَكَ وَٱتَّبَعَكَ ٱلْأَرْذَلُونَ",
+      "text_tajweed_html": "۞ قَال<tajweed class=madda_obligatory>ُوٓ</tajweed><tajweed class=slnt>اْ</tajweed> أَنُؤْمِنُ لَكَ وَ<tajweed class=ham_wasl>ٱ</tajweed>تَّبَعَكَ <tajweed class=ham_wasl>ٱ</tajweed>لْأَرْذَل<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١١١</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "۞ قَال<tajweed class=madda_obligatory>ُوٓ</tajweed><tajweed class=slnt>اْ</tajweed> أَنُؤْمِنُ لَكَ وَ<tajweed class=ham_wasl>ٱ</tajweed>تَّبَعَكَ <tajweed class=ham_wasl>ٱ</tajweed>لْأَرْذَل<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١١١</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3044,
+      "surah": 26,
+      "ayah": 112,
+      "verse_key": "26:112",
+      "text_ar": "قَالَ وَمَا عِلْمِى بِمَا كَانُوا۟ يَعْمَلُونَ",
+      "text_tajweed_html": "قَالَ وَمَا عِلْمِى بِمَا كَانُو<tajweed class=slnt>اْ</tajweed> يَعْمَل<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١١٢</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَالَ وَمَا عِلْمِى بِمَا كَانُو<tajweed class=slnt>اْ</tajweed> يَعْمَل<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١١٢</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3045,
+      "surah": 26,
+      "ayah": 113,
+      "verse_key": "26:113",
+      "text_ar": "إِنْ حِسَابُهُمْ إِلَّا عَلَىٰ رَبِّى ۖ لَوْ تَشْعُرُونَ",
+      "text_tajweed_html": "إِنْ حِسَابُهُمْ إِلَّا عَلَىٰ رَبِّى‌ۖ لَوْ تَشْعُر<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١١٣</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "إِنْ حِسَابُهُمْ إِلَّا عَلَىٰ رَبِّى‌ۖ لَوْ تَشْعُر<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١١٣</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3046,
+      "surah": 26,
+      "ayah": 114,
+      "verse_key": "26:114",
+      "text_ar": "وَمَآ أَنَا۠ بِطَارِدِ ٱلْمُؤْمِنِينَ",
+      "text_tajweed_html": "وَم<tajweed class=madda_obligatory>َآ</tajweed> أَنَا۟ بِطَارِدِ <tajweed class=ham_wasl>ٱ</tajweed>لْمُؤْمِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١١٤</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَم<tajweed class=madda_obligatory>َآ</tajweed> أَنَا۟ بِطَارِدِ <tajweed class=ham_wasl>ٱ</tajweed>لْمُؤْمِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١١٤</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3047,
+      "surah": 26,
+      "ayah": 115,
+      "verse_key": "26:115",
+      "text_ar": "إِنْ أَنَا۠ إِلَّا نَذِيرٌ مُّبِينٌ",
+      "text_tajweed_html": "إِنْ أَنَا۟ إِلَّا نَذِي<tajweed class=idgham_ghunnah>رٌ م</tajweed>ُّب<tajweed class=madda_permissible>ِي</tajweed>نٌ <span class=end>١١٥</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "إِنْ أَنَا۟ إِلَّا نَذِي<tajweed class=idgham_ghunnah>رٌ م</tajweed>ُّب<tajweed class=madda_permissible>ِي</tajweed>نٌ <span class=end>١١٥</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3048,
+      "surah": 26,
+      "ayah": 116,
+      "verse_key": "26:116",
+      "text_ar": "قَالُوا۟ لَئِن لَّمْ تَنتَهِ يَـٰنُوحُ لَتَكُونَنَّ مِنَ ٱلْمَرْجُومِينَ",
+      "text_tajweed_html": "قَالُو<tajweed class=slnt>اْ</tajweed> لَئ<tajweed class=idgham_wo_ghunnah>ِن ل</tajweed>َّمْ تَ<tajweed class=ikhafa>نت</tajweed>َهِ يَ<tajweed class=madda_normal>ـٰ</tajweed>نُوحُ لَتَكُونَ<tajweed class=ghunnah>نّ</tajweed>َ مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْمَرْجُوم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١١٦</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَالُو<tajweed class=slnt>اْ</tajweed> لَئ<tajweed class=idgham_wo_ghunnah>ِن ل</tajweed>َّمْ تَ<tajweed class=ikhafa>نت</tajweed>َهِ يَ<tajweed class=madda_normal>ـٰ</tajweed>نُوحُ لَتَكُونَ<tajweed class=ghunnah>نّ</tajweed>َ مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْمَرْجُوم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١١٦</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3049,
+      "surah": 26,
+      "ayah": 117,
+      "verse_key": "26:117",
+      "text_ar": "قَالَ رَبِّ إِنَّ قَوْمِى كَذَّبُونِ",
+      "text_tajweed_html": "قَالَ رَبِّ إِ<tajweed class=ghunnah>نّ</tajweed>َ قَوْمِى كَذَّب<tajweed class=madda_permissible>ُو</tajweed>نِ <span class=end>١١٧</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَالَ رَبِّ إِ<tajweed class=ghunnah>نّ</tajweed>َ قَوْمِى كَذَّب<tajweed class=madda_permissible>ُو</tajweed>نِ <span class=end>١١٧</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3050,
+      "surah": 26,
+      "ayah": 118,
+      "verse_key": "26:118",
+      "text_ar": "فَٱفْتَحْ بَيْنِى وَبَيْنَهُمْ فَتْحًا وَنَجِّنِى وَمَن مَّعِىَ مِنَ ٱلْمُؤْمِنِينَ",
+      "text_tajweed_html": "فَ<tajweed class=ham_wasl>ٱ</tajweed>فْتَحْ بَيْنِى وَبَيْنَهُمْ فَتْ<tajweed class=idgham_ghunnah>حًا و</tajweed>َنَجِّنِى وَم<tajweed class=idgham_ghunnah>َن م</tajweed>َّعِىَ مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْمُؤْمِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١١٨</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَ<tajweed class=ham_wasl>ٱ</tajweed>فْتَحْ بَيْنِى وَبَيْنَهُمْ فَتْ<tajweed class=idgham_ghunnah>حًا و</tajweed>َنَجِّنِى وَم<tajweed class=idgham_ghunnah>َن م</tajweed>َّعِىَ مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْمُؤْمِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١١٨</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3051,
+      "surah": 26,
+      "ayah": 119,
+      "verse_key": "26:119",
+      "text_ar": "فَأَنجَيْنَـٰهُ وَمَن مَّعَهُۥ فِى ٱلْفُلْكِ ٱلْمَشْحُونِ",
+      "text_tajweed_html": "فَأَ<tajweed class=ikhafa>نج</tajweed>َيْنَ<tajweed class=madda_normal>ـٰ</tajweed>هُ وَم<tajweed class=idgham_ghunnah>َن م</tajweed>َّعَهُ<tajweed class=madda_normal>ۥ</tajweed> فِى <tajweed class=ham_wasl>ٱ</tajweed>لْفُلْكِ <tajweed class=ham_wasl>ٱ</tajweed>لْمَشْح<tajweed class=madda_permissible>ُو</tajweed>نِ <span class=end>١١٩</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَأَ<tajweed class=ikhafa>نج</tajweed>َيْنَ<tajweed class=madda_normal>ـٰ</tajweed>هُ وَم<tajweed class=idgham_ghunnah>َن م</tajweed>َّعَهُ<tajweed class=madda_normal>ۥ</tajweed> فِى <tajweed class=ham_wasl>ٱ</tajweed>لْفُلْكِ <tajweed class=ham_wasl>ٱ</tajweed>لْمَشْح<tajweed class=madda_permissible>ُو</tajweed>نِ <span class=end>١١٩</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3052,
+      "surah": 26,
+      "ayah": 120,
+      "verse_key": "26:120",
+      "text_ar": "ثُمَّ أَغْرَقْنَا بَعْدُ ٱلْبَاقِينَ",
+      "text_tajweed_html": "ثُ<tajweed class=ghunnah>مّ</tajweed>َ أَغْرَ<tajweed class=qalaqah>قْ</tajweed>نَا بَعْدُ <tajweed class=ham_wasl>ٱ</tajweed>لْبَاق<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٢٠</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "ثُ<tajweed class=ghunnah>مّ</tajweed>َ أَغْرَ<tajweed class=qalaqah>قْ</tajweed>نَا بَعْدُ <tajweed class=ham_wasl>ٱ</tajweed>لْبَاق<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٢٠</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3053,
+      "surah": 26,
+      "ayah": 121,
+      "verse_key": "26:121",
+      "text_ar": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+      "text_tajweed_html": "إِ<tajweed class=ghunnah>نّ</tajweed>َ فِى ذ<tajweed class=madda_normal>َٲ</tajweed>لِكَ لَأَيَ<tajweed class=idgham_ghunnah>ةً‌ۖ و</tajweed>َمَا كَانَ أَكْثَرُه<tajweed class=idgham_shafawi>ُم م</tajweed>ُّؤْمِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٢١</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "إِ<tajweed class=ghunnah>نّ</tajweed>َ فِى ذ<tajweed class=madda_normal>َٲ</tajweed>لِكَ لَأَيَ<tajweed class=idgham_ghunnah>ةً‌ۖ و</tajweed>َمَا كَانَ أَكْثَرُه<tajweed class=idgham_shafawi>ُم م</tajweed>ُّؤْمِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٢١</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3054,
+      "surah": 26,
+      "ayah": 122,
+      "verse_key": "26:122",
+      "text_ar": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+      "text_tajweed_html": "وَإِ<tajweed class=ghunnah>نّ</tajweed>َ رَبَّكَ لَهُوَ <tajweed class=ham_wasl>ٱ</tajweed>لْعَزِيزُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>رَّح<tajweed class=madda_permissible>ِي</tajweed>مُ <span class=end>١٢٢</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَإِ<tajweed class=ghunnah>نّ</tajweed>َ رَبَّكَ لَهُوَ <tajweed class=ham_wasl>ٱ</tajweed>لْعَزِيزُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>رَّح<tajweed class=madda_permissible>ِي</tajweed>مُ <span class=end>١٢٢</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3055,
+      "surah": 26,
+      "ayah": 123,
+      "verse_key": "26:123",
+      "text_ar": "كَذَّبَتْ عَادٌ ٱلْمُرْسَلِينَ",
+      "text_tajweed_html": "كَذَّبَتْ عَادٌ <tajweed class=ham_wasl>ٱ</tajweed>لْمُرْسَل<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٢٣</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "كَذَّبَتْ عَادٌ <tajweed class=ham_wasl>ٱ</tajweed>لْمُرْسَل<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٢٣</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3056,
+      "surah": 26,
+      "ayah": 124,
+      "verse_key": "26:124",
+      "text_ar": "إِذْ قَالَ لَهُمْ أَخُوهُمْ هُودٌ أَلَا تَتَّقُونَ",
+      "text_tajweed_html": "إِذْ قَالَ لَهُمْ أَخُوهُمْ هُودٌ أَلَا تَتَّق<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١٢٤</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "إِذْ قَالَ لَهُمْ أَخُوهُمْ هُودٌ أَلَا تَتَّق<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١٢٤</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3057,
+      "surah": 26,
+      "ayah": 125,
+      "verse_key": "26:125",
+      "text_ar": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌ",
+      "text_tajweed_html": "إِ<tajweed class=ghunnah>نّ</tajweed>ِى لَكُمْ رَسُولٌ أَم<tajweed class=madda_permissible>ِي</tajweed>نٌ <span class=end>١٢٥</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "إِ<tajweed class=ghunnah>نّ</tajweed>ِى لَكُمْ رَسُولٌ أَم<tajweed class=madda_permissible>ِي</tajweed>نٌ <span class=end>١٢٥</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3058,
+      "surah": 26,
+      "ayah": 126,
+      "verse_key": "26:126",
+      "text_ar": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "text_tajweed_html": "فَ<tajweed class=ham_wasl>ٱ</tajweed>تَّقُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed>للَّهَ وَأَطِيع<tajweed class=madda_permissible>ُو</tajweed>نِ <span class=end>١٢٦</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَ<tajweed class=ham_wasl>ٱ</tajweed>تَّقُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed>للَّهَ وَأَطِيع<tajweed class=madda_permissible>ُو</tajweed>نِ <span class=end>١٢٦</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3059,
+      "surah": 26,
+      "ayah": 127,
+      "verse_key": "26:127",
+      "text_ar": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِىَ إِلَّا عَلَىٰ رَبِّ ٱلْعَـٰلَمِينَ",
+      "text_tajweed_html": "وَم<tajweed class=madda_obligatory>َآ</tajweed> أَسْــَٔلُكُمْ عَلَيْهِ مِنْ أَ<tajweed class=qalaqah>جْ</tajweed>رٍ‌ۖ إِنْ أَ<tajweed class=qalaqah>جْ</tajweed>رِىَ إِلَّا عَلَىٰ رَبِّ <tajweed class=ham_wasl>ٱ</tajweed>لْعَ<tajweed class=madda_normal>ـٰ</tajweed>لَم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٢٧</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَم<tajweed class=madda_obligatory>َآ</tajweed> أَسْــَٔلُكُمْ عَلَيْهِ مِنْ أَ<tajweed class=qalaqah>جْ</tajweed>رٍ‌ۖ إِنْ أَ<tajweed class=qalaqah>جْ</tajweed>رِىَ إِلَّا عَلَىٰ رَبِّ <tajweed class=ham_wasl>ٱ</tajweed>لْعَ<tajweed class=madda_normal>ـٰ</tajweed>لَم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٢٧</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3060,
+      "surah": 26,
+      "ayah": 128,
+      "verse_key": "26:128",
+      "text_ar": "أَتَبْنُونَ بِكُلِّ رِيعٍ ءَايَةً تَعْبَثُونَ",
+      "text_tajweed_html": "أَتَ<tajweed class=qalaqah>بْ</tajweed>نُونَ بِكُلِّ رِيعٍ ءَايَ<tajweed class=ikhafa>ةً ت</tajweed>َعْبَث<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١٢٨</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "أَتَ<tajweed class=qalaqah>بْ</tajweed>نُونَ بِكُلِّ رِيعٍ ءَايَ<tajweed class=ikhafa>ةً ت</tajweed>َعْبَث<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١٢٨</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3061,
+      "surah": 26,
+      "ayah": 129,
+      "verse_key": "26:129",
+      "text_ar": "وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمْ تَخْلُدُونَ",
+      "text_tajweed_html": "وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمْ تَخْلُد<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١٢٩</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمْ تَخْلُد<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١٢٩</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3062,
+      "surah": 26,
+      "ayah": 130,
+      "verse_key": "26:130",
+      "text_ar": "وَإِذَا بَطَشْتُم بَطَشْتُمْ جَبَّارِينَ",
+      "text_tajweed_html": "وَإِذَا بَطَشْت<tajweed class=ikhafa_shafawi>ُم ب</tajweed>َطَشْتُمْ جَبَّار<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٣٠</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَإِذَا بَطَشْت<tajweed class=ikhafa_shafawi>ُم ب</tajweed>َطَشْتُمْ جَبَّار<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٣٠</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3063,
+      "surah": 26,
+      "ayah": 131,
+      "verse_key": "26:131",
+      "text_ar": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "text_tajweed_html": "فَ<tajweed class=ham_wasl>ٱ</tajweed>تَّقُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed>للَّهَ وَأَطِيع<tajweed class=madda_permissible>ُو</tajweed>نِ <span class=end>١٣١</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَ<tajweed class=ham_wasl>ٱ</tajweed>تَّقُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed>للَّهَ وَأَطِيع<tajweed class=madda_permissible>ُو</tajweed>نِ <span class=end>١٣١</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3064,
+      "surah": 26,
+      "ayah": 132,
+      "verse_key": "26:132",
+      "text_ar": "وَٱتَّقُوا۟ ٱلَّذِىٓ أَمَدَّكُم بِمَا تَعْلَمُونَ",
+      "text_tajweed_html": "وَ<tajweed class=ham_wasl>ٱ</tajweed>تَّقُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed>لَّذ<tajweed class=madda_obligatory>ِىٓ</tajweed> أَمَدَّك<tajweed class=ikhafa_shafawi>ُم ب</tajweed>ِمَا تَعْلَم<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١٣٢</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَ<tajweed class=ham_wasl>ٱ</tajweed>تَّقُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed>لَّذ<tajweed class=madda_obligatory>ِىٓ</tajweed> أَمَدَّك<tajweed class=ikhafa_shafawi>ُم ب</tajweed>ِمَا تَعْلَم<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١٣٢</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3065,
+      "surah": 26,
+      "ayah": 133,
+      "verse_key": "26:133",
+      "text_ar": "أَمَدَّكُم بِأَنْعَـٰمٍ وَبَنِينَ",
+      "text_tajweed_html": "أَمَدَّك<tajweed class=ikhafa_shafawi>ُم ب</tajweed>ِأَنْعَ<tajweed class=madda_normal>ـٰ</tajweed><tajweed class=idgham_ghunnah>مٍ و</tajweed>َبَن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٣٣</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "أَمَدَّك<tajweed class=ikhafa_shafawi>ُم ب</tajweed>ِأَنْعَ<tajweed class=madda_normal>ـٰ</tajweed><tajweed class=idgham_ghunnah>مٍ و</tajweed>َبَن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٣٣</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3066,
+      "surah": 26,
+      "ayah": 134,
+      "verse_key": "26:134",
+      "text_ar": "وَجَنَّـٰتٍ وَعُيُونٍ",
+      "text_tajweed_html": "وَجَ<tajweed class=ghunnah>نّ</tajweed>َ<tajweed class=madda_normal>ـٰ</tajweed><tajweed class=idgham_ghunnah>تٍ و</tajweed>َعُي<tajweed class=madda_permissible>ُو</tajweed>نٍ <span class=end>١٣٤</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَجَ<tajweed class=ghunnah>نّ</tajweed>َ<tajweed class=madda_normal>ـٰ</tajweed><tajweed class=idgham_ghunnah>تٍ و</tajweed>َعُي<tajweed class=madda_permissible>ُو</tajweed>نٍ <span class=end>١٣٤</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3067,
+      "surah": 26,
+      "ayah": 135,
+      "verse_key": "26:135",
+      "text_ar": "إِنِّىٓ أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظِيمٍ",
+      "text_tajweed_html": "إِ<tajweed class=ghunnah>نّ</tajweed><tajweed class=madda_obligatory>ِىٓ</tajweed> أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظ<tajweed class=madda_permissible>ِي</tajweed>مٍ <span class=end>١٣٥</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "إِ<tajweed class=ghunnah>نّ</tajweed><tajweed class=madda_obligatory>ِىٓ</tajweed> أَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظ<tajweed class=madda_permissible>ِي</tajweed>مٍ <span class=end>١٣٥</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3068,
+      "surah": 26,
+      "ayah": 136,
+      "verse_key": "26:136",
+      "text_ar": "قَالُوا۟ سَوَآءٌ عَلَيْنَآ أَوَعَظْتَ أَمْ لَمْ تَكُن مِّنَ ٱلْوَٰعِظِينَ",
+      "text_tajweed_html": "قَالُو<tajweed class=slnt>اْ</tajweed> سَو<tajweed class=madda_obligatory>َا</tajweed>ٓءٌ عَلَيْن<tajweed class=madda_obligatory>َآ</tajweed> أَوَعَظْتَ أَمْ لَمْ تَك<tajweed class=idgham_ghunnah>ُن م</tajweed>ِّنَ <tajweed class=ham_wasl>ٱ</tajweed>لْو<tajweed class=madda_normal>َٲ</tajweed>عِظ<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٣٦</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَالُو<tajweed class=slnt>اْ</tajweed> سَو<tajweed class=madda_obligatory>َا</tajweed>ٓءٌ عَلَيْن<tajweed class=madda_obligatory>َآ</tajweed> أَوَعَظْتَ أَمْ لَمْ تَك<tajweed class=idgham_ghunnah>ُن م</tajweed>ِّنَ <tajweed class=ham_wasl>ٱ</tajweed>لْو<tajweed class=madda_normal>َٲ</tajweed>عِظ<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٣٦</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3069,
+      "surah": 26,
+      "ayah": 137,
+      "verse_key": "26:137",
+      "text_ar": "إِنْ هَـٰذَآ إِلَّا خُلُقُ ٱلْأَوَّلِينَ",
+      "text_tajweed_html": "إِنْ هَ<tajweed class=madda_normal>ـٰ</tajweed>ذ<tajweed class=madda_obligatory>َآ</tajweed> إِلَّا خُلُقُ <tajweed class=ham_wasl>ٱ</tajweed>لْأَوَّل<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٣٧</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "إِنْ هَ<tajweed class=madda_normal>ـٰ</tajweed>ذ<tajweed class=madda_obligatory>َآ</tajweed> إِلَّا خُلُقُ <tajweed class=ham_wasl>ٱ</tajweed>لْأَوَّل<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٣٧</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3070,
+      "surah": 26,
+      "ayah": 138,
+      "verse_key": "26:138",
+      "text_ar": "وَمَا نَحْنُ بِمُعَذَّبِينَ",
+      "text_tajweed_html": "وَمَا نَحْنُ بِمُعَذَّب<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٣٨</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَمَا نَحْنُ بِمُعَذَّب<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٣٨</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3071,
+      "surah": 26,
+      "ayah": 139,
+      "verse_key": "26:139",
+      "text_ar": "فَكَذَّبُوهُ فَأَهْلَكْنَـٰهُمْ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+      "text_tajweed_html": "فَكَذَّبُوهُ فَأَهْلَكْنَ<tajweed class=madda_normal>ـٰ</tajweed>هُمْ‌ۗ إِ<tajweed class=ghunnah>نّ</tajweed>َ فِى ذ<tajweed class=madda_normal>َٲ</tajweed>لِكَ لَأَيَ<tajweed class=idgham_ghunnah>ةً‌ۖ و</tajweed>َمَا كَانَ أَكْثَرُه<tajweed class=idgham_shafawi>ُم م</tajweed>ُّؤْمِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٣٩</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَكَذَّبُوهُ فَأَهْلَكْنَ<tajweed class=madda_normal>ـٰ</tajweed>هُمْ‌ۗ إِ<tajweed class=ghunnah>نّ</tajweed>َ فِى ذ<tajweed class=madda_normal>َٲ</tajweed>لِكَ لَأَيَ<tajweed class=idgham_ghunnah>ةً‌ۖ و</tajweed>َمَا كَانَ أَكْثَرُه<tajweed class=idgham_shafawi>ُم م</tajweed>ُّؤْمِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٣٩</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3072,
+      "surah": 26,
+      "ayah": 140,
+      "verse_key": "26:140",
+      "text_ar": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+      "text_tajweed_html": "وَإِ<tajweed class=ghunnah>نّ</tajweed>َ رَبَّكَ لَهُوَ <tajweed class=ham_wasl>ٱ</tajweed>لْعَزِيزُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>رَّح<tajweed class=madda_permissible>ِي</tajweed>مُ <span class=end>١٤٠</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَإِ<tajweed class=ghunnah>نّ</tajweed>َ رَبَّكَ لَهُوَ <tajweed class=ham_wasl>ٱ</tajweed>لْعَزِيزُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>رَّح<tajweed class=madda_permissible>ِي</tajweed>مُ <span class=end>١٤٠</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3073,
+      "surah": 26,
+      "ayah": 141,
+      "verse_key": "26:141",
+      "text_ar": "كَذَّبَتْ ثَمُودُ ٱلْمُرْسَلِينَ",
+      "text_tajweed_html": "كَذَّبَتْ ثَمُودُ <tajweed class=ham_wasl>ٱ</tajweed>لْمُرْسَل<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٤١</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "كَذَّبَتْ ثَمُودُ <tajweed class=ham_wasl>ٱ</tajweed>لْمُرْسَل<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٤١</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3074,
+      "surah": 26,
+      "ayah": 142,
+      "verse_key": "26:142",
+      "text_ar": "إِذْ قَالَ لَهُمْ أَخُوهُمْ صَـٰلِحٌ أَلَا تَتَّقُونَ",
+      "text_tajweed_html": "إِذْ قَالَ لَهُمْ أَخُوهُمْ صَ<tajweed class=madda_normal>ـٰ</tajweed>لِحٌ أَلَا تَتَّق<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١٤٢</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "إِذْ قَالَ لَهُمْ أَخُوهُمْ صَ<tajweed class=madda_normal>ـٰ</tajweed>لِحٌ أَلَا تَتَّق<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١٤٢</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3075,
+      "surah": 26,
+      "ayah": 143,
+      "verse_key": "26:143",
+      "text_ar": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌ",
+      "text_tajweed_html": "إِ<tajweed class=ghunnah>نّ</tajweed>ِى لَكُمْ رَسُولٌ أَم<tajweed class=madda_permissible>ِي</tajweed>نٌ <span class=end>١٤٣</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "إِ<tajweed class=ghunnah>نّ</tajweed>ِى لَكُمْ رَسُولٌ أَم<tajweed class=madda_permissible>ِي</tajweed>نٌ <span class=end>١٤٣</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3076,
+      "surah": 26,
+      "ayah": 144,
+      "verse_key": "26:144",
+      "text_ar": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "text_tajweed_html": "فَ<tajweed class=ham_wasl>ٱ</tajweed>تَّقُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed>للَّهَ وَأَطِيع<tajweed class=madda_permissible>ُو</tajweed>نِ <span class=end>١٤٤</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَ<tajweed class=ham_wasl>ٱ</tajweed>تَّقُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed>للَّهَ وَأَطِيع<tajweed class=madda_permissible>ُو</tajweed>نِ <span class=end>١٤٤</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3077,
+      "surah": 26,
+      "ayah": 145,
+      "verse_key": "26:145",
+      "text_ar": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِىَ إِلَّا عَلَىٰ رَبِّ ٱلْعَـٰلَمِينَ",
+      "text_tajweed_html": "وَم<tajweed class=madda_obligatory>َآ</tajweed> أَسْــَٔلُكُمْ عَلَيْهِ مِنْ أَ<tajweed class=qalaqah>جْ</tajweed>رٍ‌ۖ إِنْ أَ<tajweed class=qalaqah>جْ</tajweed>رِىَ إِلَّا عَلَىٰ رَبِّ <tajweed class=ham_wasl>ٱ</tajweed>لْعَ<tajweed class=madda_normal>ـٰ</tajweed>لَم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٤٥</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَم<tajweed class=madda_obligatory>َآ</tajweed> أَسْــَٔلُكُمْ عَلَيْهِ مِنْ أَ<tajweed class=qalaqah>جْ</tajweed>رٍ‌ۖ إِنْ أَ<tajweed class=qalaqah>جْ</tajweed>رِىَ إِلَّا عَلَىٰ رَبِّ <tajweed class=ham_wasl>ٱ</tajweed>لْعَ<tajweed class=madda_normal>ـٰ</tajweed>لَم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٤٥</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3078,
+      "surah": 26,
+      "ayah": 146,
+      "verse_key": "26:146",
+      "text_ar": "أَتُتْرَكُونَ فِى مَا هَـٰهُنَآ ءَامِنِينَ",
+      "text_tajweed_html": "أَتُتْرَكُونَ فِى مَا هَ<tajweed class=madda_normal>ـٰ</tajweed>هُن<tajweed class=madda_obligatory>َآ</tajweed> ءَامِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٤٦</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "أَتُتْرَكُونَ فِى مَا هَ<tajweed class=madda_normal>ـٰ</tajweed>هُن<tajweed class=madda_obligatory>َآ</tajweed> ءَامِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٤٦</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3079,
+      "surah": 26,
+      "ayah": 147,
+      "verse_key": "26:147",
+      "text_ar": "فِى جَنَّـٰتٍ وَعُيُونٍ",
+      "text_tajweed_html": "فِى جَ<tajweed class=ghunnah>نّ</tajweed>َ<tajweed class=madda_normal>ـٰ</tajweed><tajweed class=idgham_ghunnah>تٍ و</tajweed>َعُي<tajweed class=madda_permissible>ُو</tajweed>نٍ <span class=end>١٤٧</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فِى جَ<tajweed class=ghunnah>نّ</tajweed>َ<tajweed class=madda_normal>ـٰ</tajweed><tajweed class=idgham_ghunnah>تٍ و</tajweed>َعُي<tajweed class=madda_permissible>ُو</tajweed>نٍ <span class=end>١٤٧</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3080,
+      "surah": 26,
+      "ayah": 148,
+      "verse_key": "26:148",
+      "text_ar": "وَزُرُوعٍ وَنَخْلٍ طَلْعُهَا هَضِيمٌ",
+      "text_tajweed_html": "وَزُرُو<tajweed class=idgham_ghunnah>عٍ و</tajweed>َنَخْ<tajweed class=ikhafa>لٍ ط</tajweed>َلْعُهَا هَض<tajweed class=madda_permissible>ِي</tajweed>مٌ <span class=end>١٤٨</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَزُرُو<tajweed class=idgham_ghunnah>عٍ و</tajweed>َنَخْ<tajweed class=ikhafa>لٍ ط</tajweed>َلْعُهَا هَض<tajweed class=madda_permissible>ِي</tajweed>مٌ <span class=end>١٤٨</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3081,
+      "surah": 26,
+      "ayah": 149,
+      "verse_key": "26:149",
+      "text_ar": "وَتَنْحِتُونَ مِنَ ٱلْجِبَالِ بُيُوتًا فَـٰرِهِينَ",
+      "text_tajweed_html": "وَتَنْحِتُونَ مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْجِبَالِ بُيُو<tajweed class=ikhafa>تًا ف</tajweed>َ<tajweed class=madda_normal>ـٰ</tajweed>رِه<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٤٩</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَتَنْحِتُونَ مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْجِبَالِ بُيُو<tajweed class=ikhafa>تًا ف</tajweed>َ<tajweed class=madda_normal>ـٰ</tajweed>رِه<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٤٩</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3082,
+      "surah": 26,
+      "ayah": 150,
+      "verse_key": "26:150",
+      "text_ar": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "text_tajweed_html": "فَ<tajweed class=ham_wasl>ٱ</tajweed>تَّقُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed>للَّهَ وَأَطِيع<tajweed class=madda_permissible>ُو</tajweed>نِ <span class=end>١٥٠</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَ<tajweed class=ham_wasl>ٱ</tajweed>تَّقُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed>للَّهَ وَأَطِيع<tajweed class=madda_permissible>ُو</tajweed>نِ <span class=end>١٥٠</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3083,
+      "surah": 26,
+      "ayah": 151,
+      "verse_key": "26:151",
+      "text_ar": "وَلَا تُطِيعُوٓا۟ أَمْرَ ٱلْمُسْرِفِينَ",
+      "text_tajweed_html": "وَلَا تُطِيع<tajweed class=madda_obligatory>ُوٓ</tajweed><tajweed class=slnt>اْ</tajweed> أَمْرَ <tajweed class=ham_wasl>ٱ</tajweed>لْمُسْرِف<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٥١</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَلَا تُطِيع<tajweed class=madda_obligatory>ُوٓ</tajweed><tajweed class=slnt>اْ</tajweed> أَمْرَ <tajweed class=ham_wasl>ٱ</tajweed>لْمُسْرِف<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٥١</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3084,
+      "surah": 26,
+      "ayah": 152,
+      "verse_key": "26:152",
+      "text_ar": "ٱلَّذِينَ يُفْسِدُونَ فِى ٱلْأَرْضِ وَلَا يُصْلِحُونَ",
+      "text_tajweed_html": "ٱلَّذِينَ يُفْسِدُونَ فِى <tajweed class=ham_wasl>ٱ</tajweed>لْأَرْضِ وَلَا يُصْلِح<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١٥٢</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "ٱلَّذِينَ يُفْسِدُونَ فِى <tajweed class=ham_wasl>ٱ</tajweed>لْأَرْضِ وَلَا يُصْلِح<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١٥٢</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3085,
+      "surah": 26,
+      "ayah": 153,
+      "verse_key": "26:153",
+      "text_ar": "قَالُوٓا۟ إِنَّمَآ أَنتَ مِنَ ٱلْمُسَحَّرِينَ",
+      "text_tajweed_html": "قَال<tajweed class=madda_obligatory>ُوٓ</tajweed><tajweed class=slnt>اْ</tajweed> إِ<tajweed class=ghunnah>نّ</tajweed>َم<tajweed class=madda_obligatory>َآ</tajweed> أَ<tajweed class=ikhafa>نت</tajweed>َ مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْمُسَحَّر<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٥٣</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَال<tajweed class=madda_obligatory>ُوٓ</tajweed><tajweed class=slnt>اْ</tajweed> إِ<tajweed class=ghunnah>نّ</tajweed>َم<tajweed class=madda_obligatory>َآ</tajweed> أَ<tajweed class=ikhafa>نت</tajweed>َ مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْمُسَحَّر<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٥٣</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3086,
+      "surah": 26,
+      "ayah": 154,
+      "verse_key": "26:154",
+      "text_ar": "مَآ أَنتَ إِلَّا بَشَرٌ مِّثْلُنَا فَأْتِ بِـَٔايَةٍ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+      "text_tajweed_html": "م<tajweed class=madda_obligatory>َآ</tajweed> أَ<tajweed class=ikhafa>نت</tajweed>َ إِلَّا بَشَ<tajweed class=idgham_ghunnah>رٌ م</tajweed>ِّثْلُنَا فَأْتِ بِـَٔـايَةٍ إِ<tajweed class=ikhafa>ن ك</tajweed>ُ<tajweed class=ikhafa>نت</tajweed>َ مِنَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>صَّ<tajweed class=madda_normal>ـٰ</tajweed>دِق<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٥٤</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "م<tajweed class=madda_obligatory>َآ</tajweed> أَ<tajweed class=ikhafa>نت</tajweed>َ إِلَّا بَشَ<tajweed class=idgham_ghunnah>رٌ م</tajweed>ِّثْلُنَا فَأْتِ بِـَٔـايَةٍ إِ<tajweed class=ikhafa>ن ك</tajweed>ُ<tajweed class=ikhafa>نت</tajweed>َ مِنَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>صَّ<tajweed class=madda_normal>ـٰ</tajweed>دِق<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٥٤</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3087,
+      "surah": 26,
+      "ayah": 155,
+      "verse_key": "26:155",
+      "text_ar": "قَالَ هَـٰذِهِۦ نَاقَةٌ لَّهَا شِرْبٌ وَلَكُمْ شِرْبُ يَوْمٍ مَّعْلُومٍ",
+      "text_tajweed_html": "قَالَ هَ<tajweed class=madda_normal>ـٰ</tajweed>ذِه<tajweed class=madda_normal>ِۦ</tajweed> نَاقَ<tajweed class=idgham_wo_ghunnah>ةٌ ل</tajweed>َّهَا شِرْ<tajweed class=idgham_ghunnah>بٌ و</tajweed>َلَكُمْ شِرْبُ يَوْ<tajweed class=idgham_ghunnah>مٍ م</tajweed>َّعْل<tajweed class=madda_permissible>ُو</tajweed>مٍ <span class=end>١٥٥</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَالَ هَ<tajweed class=madda_normal>ـٰ</tajweed>ذِه<tajweed class=madda_normal>ِۦ</tajweed> نَاقَ<tajweed class=idgham_wo_ghunnah>ةٌ ل</tajweed>َّهَا شِرْ<tajweed class=idgham_ghunnah>بٌ و</tajweed>َلَكُمْ شِرْبُ يَوْ<tajweed class=idgham_ghunnah>مٍ م</tajweed>َّعْل<tajweed class=madda_permissible>ُو</tajweed>مٍ <span class=end>١٥٥</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3088,
+      "surah": 26,
+      "ayah": 156,
+      "verse_key": "26:156",
+      "text_ar": "وَلَا تَمَسُّوهَا بِسُوٓءٍ فَيَأْخُذَكُمْ عَذَابُ يَوْمٍ عَظِيمٍ",
+      "text_tajweed_html": "وَلَا تَمَسُّوهَا بِس<tajweed class=madda_obligatory>ُو</tajweed>ٓ<tajweed class=ikhafa>ءٍ ف</tajweed>َيَأْخُذَكُمْ عَذَابُ يَوْمٍ عَظ<tajweed class=madda_permissible>ِي</tajweed>مٍ <span class=end>١٥٦</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَلَا تَمَسُّوهَا بِس<tajweed class=madda_obligatory>ُو</tajweed>ٓ<tajweed class=ikhafa>ءٍ ف</tajweed>َيَأْخُذَكُمْ عَذَابُ يَوْمٍ عَظ<tajweed class=madda_permissible>ِي</tajweed>مٍ <span class=end>١٥٦</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3089,
+      "surah": 26,
+      "ayah": 157,
+      "verse_key": "26:157",
+      "text_ar": "فَعَقَرُوهَا فَأَصْبَحُوا۟ نَـٰدِمِينَ",
+      "text_tajweed_html": "فَعَقَرُوهَا فَأَصْبَحُو<tajweed class=slnt>اْ</tajweed> نَ<tajweed class=madda_normal>ـٰ</tajweed>دِم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٥٧</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَعَقَرُوهَا فَأَصْبَحُو<tajweed class=slnt>اْ</tajweed> نَ<tajweed class=madda_normal>ـٰ</tajweed>دِم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٥٧</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3090,
+      "surah": 26,
+      "ayah": 158,
+      "verse_key": "26:158",
+      "text_ar": "فَأَخَذَهُمُ ٱلْعَذَابُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+      "text_tajweed_html": "فَأَخَذَهُمُ <tajweed class=ham_wasl>ٱ</tajweed>لْعَذَابُ‌ۗ إِ<tajweed class=ghunnah>نّ</tajweed>َ فِى ذ<tajweed class=madda_normal>َٲ</tajweed>لِكَ لَأَيَ<tajweed class=idgham_ghunnah>ةً‌ۖ و</tajweed>َمَا كَانَ أَكْثَرُه<tajweed class=idgham_shafawi>ُم م</tajweed>ُّؤْمِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٥٨</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَأَخَذَهُمُ <tajweed class=ham_wasl>ٱ</tajweed>لْعَذَابُ‌ۗ إِ<tajweed class=ghunnah>نّ</tajweed>َ فِى ذ<tajweed class=madda_normal>َٲ</tajweed>لِكَ لَأَيَ<tajweed class=idgham_ghunnah>ةً‌ۖ و</tajweed>َمَا كَانَ أَكْثَرُه<tajweed class=idgham_shafawi>ُم م</tajweed>ُّؤْمِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٥٨</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3091,
+      "surah": 26,
+      "ayah": 159,
+      "verse_key": "26:159",
+      "text_ar": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+      "text_tajweed_html": "وَإِ<tajweed class=ghunnah>نّ</tajweed>َ رَبَّكَ لَهُوَ <tajweed class=ham_wasl>ٱ</tajweed>لْعَزِيزُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>رَّح<tajweed class=madda_permissible>ِي</tajweed>مُ <span class=end>١٥٩</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَإِ<tajweed class=ghunnah>نّ</tajweed>َ رَبَّكَ لَهُوَ <tajweed class=ham_wasl>ٱ</tajweed>لْعَزِيزُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>رَّح<tajweed class=madda_permissible>ِي</tajweed>مُ <span class=end>١٥٩</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3092,
+      "surah": 26,
+      "ayah": 160,
+      "verse_key": "26:160",
+      "text_ar": "كَذَّبَتْ قَوْمُ لُوطٍ ٱلْمُرْسَلِينَ",
+      "text_tajweed_html": "كَذَّبَتْ قَوْمُ لُوطٍ <tajweed class=ham_wasl>ٱ</tajweed>لْمُرْسَل<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٦٠</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "كَذَّبَتْ قَوْمُ لُوطٍ <tajweed class=ham_wasl>ٱ</tajweed>لْمُرْسَل<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٦٠</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3093,
+      "surah": 26,
+      "ayah": 161,
+      "verse_key": "26:161",
+      "text_ar": "إِذْ قَالَ لَهُمْ أَخُوهُمْ لُوطٌ أَلَا تَتَّقُونَ",
+      "text_tajweed_html": "إِذْ قَالَ لَهُمْ أَخُوهُمْ لُوطٌ أَلَا تَتَّق<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١٦١</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "إِذْ قَالَ لَهُمْ أَخُوهُمْ لُوطٌ أَلَا تَتَّق<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١٦١</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3094,
+      "surah": 26,
+      "ayah": 162,
+      "verse_key": "26:162",
+      "text_ar": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌ",
+      "text_tajweed_html": "إِ<tajweed class=ghunnah>نّ</tajweed>ِى لَكُمْ رَسُولٌ أَم<tajweed class=madda_permissible>ِي</tajweed>نٌ <span class=end>١٦٢</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "إِ<tajweed class=ghunnah>نّ</tajweed>ِى لَكُمْ رَسُولٌ أَم<tajweed class=madda_permissible>ِي</tajweed>نٌ <span class=end>١٦٢</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3095,
+      "surah": 26,
+      "ayah": 163,
+      "verse_key": "26:163",
+      "text_ar": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "text_tajweed_html": "فَ<tajweed class=ham_wasl>ٱ</tajweed>تَّقُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed>للَّهَ وَأَطِيع<tajweed class=madda_permissible>ُو</tajweed>نِ <span class=end>١٦٣</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَ<tajweed class=ham_wasl>ٱ</tajweed>تَّقُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed>للَّهَ وَأَطِيع<tajweed class=madda_permissible>ُو</tajweed>نِ <span class=end>١٦٣</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3096,
+      "surah": 26,
+      "ayah": 164,
+      "verse_key": "26:164",
+      "text_ar": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِىَ إِلَّا عَلَىٰ رَبِّ ٱلْعَـٰلَمِينَ",
+      "text_tajweed_html": "وَم<tajweed class=madda_obligatory>َآ</tajweed> أَسْــَٔلُكُمْ عَلَيْهِ مِنْ أَ<tajweed class=qalaqah>جْ</tajweed>رٍ‌ۖ إِنْ أَ<tajweed class=qalaqah>جْ</tajweed>رِىَ إِلَّا عَلَىٰ رَبِّ <tajweed class=ham_wasl>ٱ</tajweed>لْعَ<tajweed class=madda_normal>ـٰ</tajweed>لَم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٦٤</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَم<tajweed class=madda_obligatory>َآ</tajweed> أَسْــَٔلُكُمْ عَلَيْهِ مِنْ أَ<tajweed class=qalaqah>جْ</tajweed>رٍ‌ۖ إِنْ أَ<tajweed class=qalaqah>جْ</tajweed>رِىَ إِلَّا عَلَىٰ رَبِّ <tajweed class=ham_wasl>ٱ</tajweed>لْعَ<tajweed class=madda_normal>ـٰ</tajweed>لَم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٦٤</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3097,
+      "surah": 26,
+      "ayah": 165,
+      "verse_key": "26:165",
+      "text_ar": "أَتَأْتُونَ ٱلذُّكْرَانَ مِنَ ٱلْعَـٰلَمِينَ",
+      "text_tajweed_html": "أَتَأْتُونَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>ذُّكْرَانَ مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْعَ<tajweed class=madda_normal>ـٰ</tajweed>لَم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٦٥</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "أَتَأْتُونَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>ذُّكْرَانَ مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْعَ<tajweed class=madda_normal>ـٰ</tajweed>لَم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٦٥</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3098,
+      "surah": 26,
+      "ayah": 166,
+      "verse_key": "26:166",
+      "text_ar": "وَتَذَرُونَ مَا خَلَقَ لَكُمْ رَبُّكُم مِّنْ أَزْوَٰجِكُم ۚ بَلْ أَنتُمْ قَوْمٌ عَادُونَ",
+      "text_tajweed_html": "وَتَذَرُونَ مَا خَلَقَ لَكُمْ رَبُّك<tajweed class=idgham_shafawi>ُم م</tajweed>ِّنْ أَزْو<tajweed class=madda_normal>َٲ</tajweed>جِك<tajweed class=ikhafa_shafawi>ُم‌ۚ ب</tajweed>َلْ أَ<tajweed class=ikhafa>نت</tajweed>ُمْ قَوْمٌ عَاد<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١٦٦</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَتَذَرُونَ مَا خَلَقَ لَكُمْ رَبُّك<tajweed class=idgham_shafawi>ُم م</tajweed>ِّنْ أَزْو<tajweed class=madda_normal>َٲ</tajweed>جِك<tajweed class=ikhafa_shafawi>ُم‌ۚ ب</tajweed>َلْ أَ<tajweed class=ikhafa>نت</tajweed>ُمْ قَوْمٌ عَاد<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١٦٦</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3099,
+      "surah": 26,
+      "ayah": 167,
+      "verse_key": "26:167",
+      "text_ar": "قَالُوا۟ لَئِن لَّمْ تَنتَهِ يَـٰلُوطُ لَتَكُونَنَّ مِنَ ٱلْمُخْرَجِينَ",
+      "text_tajweed_html": "قَالُو<tajweed class=slnt>اْ</tajweed> لَئ<tajweed class=idgham_wo_ghunnah>ِن ل</tajweed>َّمْ تَ<tajweed class=ikhafa>نت</tajweed>َهِ يَ<tajweed class=madda_normal>ـٰ</tajweed>لُوطُ لَتَكُونَ<tajweed class=ghunnah>نّ</tajweed>َ مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْمُخْرَج<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٦٧</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَالُو<tajweed class=slnt>اْ</tajweed> لَئ<tajweed class=idgham_wo_ghunnah>ِن ل</tajweed>َّمْ تَ<tajweed class=ikhafa>نت</tajweed>َهِ يَ<tajweed class=madda_normal>ـٰ</tajweed>لُوطُ لَتَكُونَ<tajweed class=ghunnah>نّ</tajweed>َ مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْمُخْرَج<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٦٧</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3100,
+      "surah": 26,
+      "ayah": 168,
+      "verse_key": "26:168",
+      "text_ar": "قَالَ إِنِّى لِعَمَلِكُم مِّنَ ٱلْقَالِينَ",
+      "text_tajweed_html": "قَالَ إِ<tajweed class=ghunnah>نّ</tajweed>ِى لِعَمَلِك<tajweed class=idgham_shafawi>ُم م</tajweed>ِّنَ <tajweed class=ham_wasl>ٱ</tajweed>لْقَال<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٦٨</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَالَ إِ<tajweed class=ghunnah>نّ</tajweed>ِى لِعَمَلِك<tajweed class=idgham_shafawi>ُم م</tajweed>ِّنَ <tajweed class=ham_wasl>ٱ</tajweed>لْقَال<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٦٨</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3101,
+      "surah": 26,
+      "ayah": 169,
+      "verse_key": "26:169",
+      "text_ar": "رَبِّ نَجِّنِى وَأَهْلِى مِمَّا يَعْمَلُونَ",
+      "text_tajweed_html": "رَبِّ نَجِّنِى وَأَهْلِى مِ<tajweed class=ghunnah>مّ</tajweed>َا يَعْمَل<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١٦٩</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "رَبِّ نَجِّنِى وَأَهْلِى مِ<tajweed class=ghunnah>مّ</tajweed>َا يَعْمَل<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١٦٩</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3102,
+      "surah": 26,
+      "ayah": 170,
+      "verse_key": "26:170",
+      "text_ar": "فَنَجَّيْنَـٰهُ وَأَهْلَهُۥٓ أَجْمَعِينَ",
+      "text_tajweed_html": "فَنَجَّيْنَ<tajweed class=madda_normal>ـٰ</tajweed>هُ وَأَهْلَهُ<tajweed class=madda_obligatory>ۥٓ</tajweed> أَ<tajweed class=qalaqah>جْ</tajweed>مَع<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٧٠</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَنَجَّيْنَ<tajweed class=madda_normal>ـٰ</tajweed>هُ وَأَهْلَهُ<tajweed class=madda_obligatory>ۥٓ</tajweed> أَ<tajweed class=qalaqah>جْ</tajweed>مَع<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٧٠</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3103,
+      "surah": 26,
+      "ayah": 171,
+      "verse_key": "26:171",
+      "text_ar": "إِلَّا عَجُوزًا فِى ٱلْغَـٰبِرِينَ",
+      "text_tajweed_html": "إِلَّا عَجُو<tajweed class=ikhafa>زًا ف</tajweed>ِى <tajweed class=ham_wasl>ٱ</tajweed>لْغَ<tajweed class=madda_normal>ـٰ</tajweed>بِر<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٧١</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "إِلَّا عَجُو<tajweed class=ikhafa>زًا ف</tajweed>ِى <tajweed class=ham_wasl>ٱ</tajweed>لْغَ<tajweed class=madda_normal>ـٰ</tajweed>بِر<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٧١</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3104,
+      "surah": 26,
+      "ayah": 172,
+      "verse_key": "26:172",
+      "text_ar": "ثُمَّ دَمَّرْنَا ٱلْـَٔاخَرِينَ",
+      "text_tajweed_html": "ثُ<tajweed class=ghunnah>مّ</tajweed>َ دَ<tajweed class=ghunnah>مّ</tajweed>َرْنَا <tajweed class=ham_wasl>ٱ</tajweed>لْأَخَر<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٧٢</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "ثُ<tajweed class=ghunnah>مّ</tajweed>َ دَ<tajweed class=ghunnah>مّ</tajweed>َرْنَا <tajweed class=ham_wasl>ٱ</tajweed>لْأَخَر<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٧٢</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3105,
+      "surah": 26,
+      "ayah": 173,
+      "verse_key": "26:173",
+      "text_ar": "وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا ۖ فَسَآءَ مَطَرُ ٱلْمُنذَرِينَ",
+      "text_tajweed_html": "وَأَمْطَرْنَا عَلَيْه<tajweed class=idgham_shafawi>ِم م</tajweed>َّطَ<tajweed class=ikhafa>رًا‌ۖ ف</tajweed>َس<tajweed class=madda_obligatory>َا</tajweed>ٓءَ مَطَرُ <tajweed class=ham_wasl>ٱ</tajweed>لْمُ<tajweed class=ikhafa>نذ</tajweed>َر<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٧٣</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَأَمْطَرْنَا عَلَيْه<tajweed class=idgham_shafawi>ِم م</tajweed>َّطَ<tajweed class=ikhafa>رًا‌ۖ ف</tajweed>َس<tajweed class=madda_obligatory>َا</tajweed>ٓءَ مَطَرُ <tajweed class=ham_wasl>ٱ</tajweed>لْمُ<tajweed class=ikhafa>نذ</tajweed>َر<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٧٣</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3106,
+      "surah": 26,
+      "ayah": 174,
+      "verse_key": "26:174",
+      "text_ar": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+      "text_tajweed_html": "إِ<tajweed class=ghunnah>نّ</tajweed>َ فِى ذ<tajweed class=madda_normal>َٲ</tajweed>لِكَ لَأَيَ<tajweed class=idgham_ghunnah>ةً‌ۖ و</tajweed>َمَا كَانَ أَكْثَرُه<tajweed class=idgham_shafawi>ُم م</tajweed>ُّؤْمِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٧٤</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "إِ<tajweed class=ghunnah>نّ</tajweed>َ فِى ذ<tajweed class=madda_normal>َٲ</tajweed>لِكَ لَأَيَ<tajweed class=idgham_ghunnah>ةً‌ۖ و</tajweed>َمَا كَانَ أَكْثَرُه<tajweed class=idgham_shafawi>ُم م</tajweed>ُّؤْمِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٧٤</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3107,
+      "surah": 26,
+      "ayah": 175,
+      "verse_key": "26:175",
+      "text_ar": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+      "text_tajweed_html": "وَإِ<tajweed class=ghunnah>نّ</tajweed>َ رَبَّكَ لَهُوَ <tajweed class=ham_wasl>ٱ</tajweed>لْعَزِيزُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>رَّح<tajweed class=madda_permissible>ِي</tajweed>مُ <span class=end>١٧٥</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَإِ<tajweed class=ghunnah>نّ</tajweed>َ رَبَّكَ لَهُوَ <tajweed class=ham_wasl>ٱ</tajweed>لْعَزِيزُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>رَّح<tajweed class=madda_permissible>ِي</tajweed>مُ <span class=end>١٧٥</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3108,
+      "surah": 26,
+      "ayah": 176,
+      "verse_key": "26:176",
+      "text_ar": "كَذَّبَ أَصْحَـٰبُ لْـَٔيْكَةِ ٱلْمُرْسَلِينَ",
+      "text_tajweed_html": "كَذَّبَ أَصْحَ<tajweed class=madda_normal>ـٰ</tajweed>بُ لْــَٔيْكَةِ <tajweed class=ham_wasl>ٱ</tajweed>لْمُرْسَل<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٧٦</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "كَذَّبَ أَصْحَ<tajweed class=madda_normal>ـٰ</tajweed>بُ لْــَٔيْكَةِ <tajweed class=ham_wasl>ٱ</tajweed>لْمُرْسَل<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٧٦</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3109,
+      "surah": 26,
+      "ayah": 177,
+      "verse_key": "26:177",
+      "text_ar": "إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ",
+      "text_tajweed_html": "إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّق<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١٧٧</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّق<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١٧٧</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3110,
+      "surah": 26,
+      "ayah": 178,
+      "verse_key": "26:178",
+      "text_ar": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌ",
+      "text_tajweed_html": "إِ<tajweed class=ghunnah>نّ</tajweed>ِى لَكُمْ رَسُولٌ أَم<tajweed class=madda_permissible>ِي</tajweed>نٌ <span class=end>١٧٨</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "إِ<tajweed class=ghunnah>نّ</tajweed>ِى لَكُمْ رَسُولٌ أَم<tajweed class=madda_permissible>ِي</tajweed>نٌ <span class=end>١٧٨</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3111,
+      "surah": 26,
+      "ayah": 179,
+      "verse_key": "26:179",
+      "text_ar": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "text_tajweed_html": "فَ<tajweed class=ham_wasl>ٱ</tajweed>تَّقُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed>للَّهَ وَأَطِيع<tajweed class=madda_permissible>ُو</tajweed>نِ <span class=end>١٧٩</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَ<tajweed class=ham_wasl>ٱ</tajweed>تَّقُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed>للَّهَ وَأَطِيع<tajweed class=madda_permissible>ُو</tajweed>نِ <span class=end>١٧٩</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3112,
+      "surah": 26,
+      "ayah": 180,
+      "verse_key": "26:180",
+      "text_ar": "وَمَآ أَسْـَٔلُكُمْ عَلَيْهِ مِنْ أَجْرٍ ۖ إِنْ أَجْرِىَ إِلَّا عَلَىٰ رَبِّ ٱلْعَـٰلَمِينَ",
+      "text_tajweed_html": "وَم<tajweed class=madda_obligatory>َآ</tajweed> أَسْــَٔلُكُمْ عَلَيْهِ مِنْ أَ<tajweed class=qalaqah>جْ</tajweed>رٍ‌ۖ إِنْ أَ<tajweed class=qalaqah>جْ</tajweed>رِىَ إِلَّا عَلَىٰ رَبِّ <tajweed class=ham_wasl>ٱ</tajweed>لْعَ<tajweed class=madda_normal>ـٰ</tajweed>لَم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٨٠</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَم<tajweed class=madda_obligatory>َآ</tajweed> أَسْــَٔلُكُمْ عَلَيْهِ مِنْ أَ<tajweed class=qalaqah>جْ</tajweed>رٍ‌ۖ إِنْ أَ<tajweed class=qalaqah>جْ</tajweed>رِىَ إِلَّا عَلَىٰ رَبِّ <tajweed class=ham_wasl>ٱ</tajweed>لْعَ<tajweed class=madda_normal>ـٰ</tajweed>لَم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٨٠</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3113,
+      "surah": 26,
+      "ayah": 181,
+      "verse_key": "26:181",
+      "text_ar": "۞ أَوْفُوا۟ ٱلْكَيْلَ وَلَا تَكُونُوا۟ مِنَ ٱلْمُخْسِرِينَ",
+      "text_tajweed_html": "۞ أَوْفُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed>لْكَيْلَ وَلَا تَكُونُو<tajweed class=slnt>اْ</tajweed> مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْمُخْسِر<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٨١</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "۞ أَوْفُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed>لْكَيْلَ وَلَا تَكُونُو<tajweed class=slnt>اْ</tajweed> مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْمُخْسِر<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٨١</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3114,
+      "surah": 26,
+      "ayah": 182,
+      "verse_key": "26:182",
+      "text_ar": "وَزِنُوا۟ بِٱلْقِسْطَاسِ ٱلْمُسْتَقِيمِ",
+      "text_tajweed_html": "وَزِنُو<tajweed class=slnt>اْ</tajweed> بِ<tajweed class=ham_wasl>ٱ</tajweed>لْقِسْطَاسِ <tajweed class=ham_wasl>ٱ</tajweed>لْمُسْتَق<tajweed class=madda_permissible>ِي</tajweed>مِ <span class=end>١٨٢</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَزِنُو<tajweed class=slnt>اْ</tajweed> بِ<tajweed class=ham_wasl>ٱ</tajweed>لْقِسْطَاسِ <tajweed class=ham_wasl>ٱ</tajweed>لْمُسْتَق<tajweed class=madda_permissible>ِي</tajweed>مِ <span class=end>١٨٢</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3115,
+      "surah": 26,
+      "ayah": 183,
+      "verse_key": "26:183",
+      "text_ar": "وَلَا تَبْخَسُوا۟ ٱلنَّاسَ أَشْيَآءَهُمْ وَلَا تَعْثَوْا۟ فِى ٱلْأَرْضِ مُفْسِدِينَ",
+      "text_tajweed_html": "وَلَا تَ<tajweed class=qalaqah>بْ</tajweed>خَسُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed>َاسَ أَشْي<tajweed class=madda_obligatory>َا</tajweed>ٓءَهُمْ وَلَا تَعْثَوْ<tajweed class=slnt>اْ</tajweed> فِى <tajweed class=ham_wasl>ٱ</tajweed>لْأَرْضِ مُفْسِد<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٨٣</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَلَا تَ<tajweed class=qalaqah>بْ</tajweed>خَسُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed>َاسَ أَشْي<tajweed class=madda_obligatory>َا</tajweed>ٓءَهُمْ وَلَا تَعْثَوْ<tajweed class=slnt>اْ</tajweed> فِى <tajweed class=ham_wasl>ٱ</tajweed>لْأَرْضِ مُفْسِد<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٨٣</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3116,
+      "surah": 26,
+      "ayah": 184,
+      "verse_key": "26:184",
+      "text_ar": "وَٱتَّقُوا۟ ٱلَّذِى خَلَقَكُمْ وَٱلْجِبِلَّةَ ٱلْأَوَّلِينَ",
+      "text_tajweed_html": "وَ<tajweed class=ham_wasl>ٱ</tajweed>تَّقُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed>لَّذِى خَلَقَكُمْ وَ<tajweed class=ham_wasl>ٱ</tajweed>لْجِبِلَّةَ <tajweed class=ham_wasl>ٱ</tajweed>لْأَوَّل<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٨٤</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَ<tajweed class=ham_wasl>ٱ</tajweed>تَّقُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed>لَّذِى خَلَقَكُمْ وَ<tajweed class=ham_wasl>ٱ</tajweed>لْجِبِلَّةَ <tajweed class=ham_wasl>ٱ</tajweed>لْأَوَّل<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٨٤</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3117,
+      "surah": 26,
+      "ayah": 185,
+      "verse_key": "26:185",
+      "text_ar": "قَالُوٓا۟ إِنَّمَآ أَنتَ مِنَ ٱلْمُسَحَّرِينَ",
+      "text_tajweed_html": "قَال<tajweed class=madda_obligatory>ُوٓ</tajweed><tajweed class=slnt>اْ</tajweed> إِ<tajweed class=ghunnah>نّ</tajweed>َم<tajweed class=madda_obligatory>َآ</tajweed> أَ<tajweed class=ikhafa>نت</tajweed>َ مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْمُسَحَّر<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٨٥</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَال<tajweed class=madda_obligatory>ُوٓ</tajweed><tajweed class=slnt>اْ</tajweed> إِ<tajweed class=ghunnah>نّ</tajweed>َم<tajweed class=madda_obligatory>َآ</tajweed> أَ<tajweed class=ikhafa>نت</tajweed>َ مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْمُسَحَّر<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٨٥</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3118,
+      "surah": 26,
+      "ayah": 186,
+      "verse_key": "26:186",
+      "text_ar": "وَمَآ أَنتَ إِلَّا بَشَرٌ مِّثْلُنَا وَإِن نَّظُنُّكَ لَمِنَ ٱلْكَـٰذِبِينَ",
+      "text_tajweed_html": "وَم<tajweed class=madda_obligatory>َآ</tajweed> أَ<tajweed class=ikhafa>نت</tajweed>َ إِلَّا بَشَ<tajweed class=idgham_ghunnah>رٌ م</tajweed>ِّثْلُنَا وَإ<tajweed class=idgham_ghunnah>ِن ن</tajweed>َّظُ<tajweed class=ghunnah>نّ</tajweed>ُكَ لَمِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْكَ<tajweed class=madda_normal>ـٰ</tajweed>ذِب<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٨٦</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَم<tajweed class=madda_obligatory>َآ</tajweed> أَ<tajweed class=ikhafa>نت</tajweed>َ إِلَّا بَشَ<tajweed class=idgham_ghunnah>رٌ م</tajweed>ِّثْلُنَا وَإ<tajweed class=idgham_ghunnah>ِن ن</tajweed>َّظُ<tajweed class=ghunnah>نّ</tajweed>ُكَ لَمِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْكَ<tajweed class=madda_normal>ـٰ</tajweed>ذِب<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٨٦</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3119,
+      "surah": 26,
+      "ayah": 187,
+      "verse_key": "26:187",
+      "text_ar": "فَأَسْقِطْ عَلَيْنَا كِسَفًا مِّنَ ٱلسَّمَآءِ إِن كُنتَ مِنَ ٱلصَّـٰدِقِينَ",
+      "text_tajweed_html": "فَأَسْقِ<tajweed class=qalaqah>طْ</tajweed> عَلَيْنَا كِسَ<tajweed class=idgham_ghunnah>فًا م</tajweed>ِّنَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سَّم<tajweed class=madda_obligatory>َا</tajweed>ٓءِ إِ<tajweed class=ikhafa>ن ك</tajweed>ُ<tajweed class=ikhafa>نت</tajweed>َ مِنَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>صَّ<tajweed class=madda_normal>ـٰ</tajweed>دِق<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٨٧</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَأَسْقِ<tajweed class=qalaqah>طْ</tajweed> عَلَيْنَا كِسَ<tajweed class=idgham_ghunnah>فًا م</tajweed>ِّنَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سَّم<tajweed class=madda_obligatory>َا</tajweed>ٓءِ إِ<tajweed class=ikhafa>ن ك</tajweed>ُ<tajweed class=ikhafa>نت</tajweed>َ مِنَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>صَّ<tajweed class=madda_normal>ـٰ</tajweed>دِق<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٨٧</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3120,
+      "surah": 26,
+      "ayah": 188,
+      "verse_key": "26:188",
+      "text_ar": "قَالَ رَبِّىٓ أَعْلَمُ بِمَا تَعْمَلُونَ",
+      "text_tajweed_html": "قَالَ رَبّ<tajweed class=madda_obligatory>ِىٓ</tajweed> أَعْلَمُ بِمَا تَعْمَل<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١٨٨</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قَالَ رَبّ<tajweed class=madda_obligatory>ِىٓ</tajweed> أَعْلَمُ بِمَا تَعْمَل<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>١٨٨</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3121,
+      "surah": 26,
+      "ayah": 189,
+      "verse_key": "26:189",
+      "text_ar": "فَكَذَّبُوهُ فَأَخَذَهُمْ عَذَابُ يَوْمِ ٱلظُّلَّةِ ۚ إِنَّهُۥ كَانَ عَذَابَ يَوْمٍ عَظِيمٍ",
+      "text_tajweed_html": "فَكَذَّبُوهُ فَأَخَذَهُمْ عَذَابُ يَوْمِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>ظُّلَّةِ‌ۚ إِ<tajweed class=ghunnah>نّ</tajweed>َهُ<tajweed class=madda_normal>ۥ</tajweed> كَانَ عَذَابَ يَوْمٍ عَظ<tajweed class=madda_permissible>ِي</tajweed>مٍ <span class=end>١٨٩</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَكَذَّبُوهُ فَأَخَذَهُمْ عَذَابُ يَوْمِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>ظُّلَّةِ‌ۚ إِ<tajweed class=ghunnah>نّ</tajweed>َهُ<tajweed class=madda_normal>ۥ</tajweed> كَانَ عَذَابَ يَوْمٍ عَظ<tajweed class=madda_permissible>ِي</tajweed>مٍ <span class=end>١٨٩</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3122,
+      "surah": 26,
+      "ayah": 190,
+      "verse_key": "26:190",
+      "text_ar": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةً ۖ وَمَا كَانَ أَكْثَرُهُم مُّؤْمِنِينَ",
+      "text_tajweed_html": "إِ<tajweed class=ghunnah>نّ</tajweed>َ فِى ذ<tajweed class=madda_normal>َٲ</tajweed>لِكَ لَأَيَ<tajweed class=idgham_ghunnah>ةً‌ۖ و</tajweed>َمَا كَانَ أَكْثَرُه<tajweed class=idgham_shafawi>ُم م</tajweed>ُّؤْمِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٩٠</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "إِ<tajweed class=ghunnah>نّ</tajweed>َ فِى ذ<tajweed class=madda_normal>َٲ</tajweed>لِكَ لَأَيَ<tajweed class=idgham_ghunnah>ةً‌ۖ و</tajweed>َمَا كَانَ أَكْثَرُه<tajweed class=idgham_shafawi>ُم م</tajweed>ُّؤْمِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٩٠</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3123,
+      "surah": 26,
+      "ayah": 191,
+      "verse_key": "26:191",
+      "text_ar": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+      "text_tajweed_html": "وَإِ<tajweed class=ghunnah>نّ</tajweed>َ رَبَّكَ لَهُوَ <tajweed class=ham_wasl>ٱ</tajweed>لْعَزِيزُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>رَّح<tajweed class=madda_permissible>ِي</tajweed>مُ <span class=end>١٩١</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَإِ<tajweed class=ghunnah>نّ</tajweed>َ رَبَّكَ لَهُوَ <tajweed class=ham_wasl>ٱ</tajweed>لْعَزِيزُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>رَّح<tajweed class=madda_permissible>ِي</tajweed>مُ <span class=end>١٩١</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3124,
+      "surah": 26,
+      "ayah": 192,
+      "verse_key": "26:192",
+      "text_ar": "وَإِنَّهُۥ لَتَنزِيلُ رَبِّ ٱلْعَـٰلَمِينَ",
+      "text_tajweed_html": "وَإِ<tajweed class=ghunnah>نّ</tajweed>َهُ<tajweed class=madda_normal>ۥ</tajweed> لَتَ<tajweed class=ikhafa>نز</tajweed>ِيلُ رَبِّ <tajweed class=ham_wasl>ٱ</tajweed>لْعَ<tajweed class=madda_normal>ـٰ</tajweed>لَم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٩٢</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَإِ<tajweed class=ghunnah>نّ</tajweed>َهُ<tajweed class=madda_normal>ۥ</tajweed> لَتَ<tajweed class=ikhafa>نز</tajweed>ِيلُ رَبِّ <tajweed class=ham_wasl>ٱ</tajweed>لْعَ<tajweed class=madda_normal>ـٰ</tajweed>لَم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٩٢</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3125,
+      "surah": 26,
+      "ayah": 193,
+      "verse_key": "26:193",
+      "text_ar": "نَزَلَ بِهِ ٱلرُّوحُ ٱلْأَمِينُ",
+      "text_tajweed_html": "نَزَلَ بِهِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>رُّوحُ <tajweed class=ham_wasl>ٱ</tajweed>لْأَم<tajweed class=madda_permissible>ِي</tajweed>نُ <span class=end>١٩٣</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "نَزَلَ بِهِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>رُّوحُ <tajweed class=ham_wasl>ٱ</tajweed>لْأَم<tajweed class=madda_permissible>ِي</tajweed>نُ <span class=end>١٩٣</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3126,
+      "surah": 26,
+      "ayah": 194,
+      "verse_key": "26:194",
+      "text_ar": "عَلَىٰ قَلْبِكَ لِتَكُونَ مِنَ ٱلْمُنذِرِينَ",
+      "text_tajweed_html": "عَلَىٰ قَلْبِكَ لِتَكُونَ مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْمُ<tajweed class=ikhafa>نذ</tajweed>ِر<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٩٤</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "عَلَىٰ قَلْبِكَ لِتَكُونَ مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْمُ<tajweed class=ikhafa>نذ</tajweed>ِر<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٩٤</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3127,
+      "surah": 26,
+      "ayah": 195,
+      "verse_key": "26:195",
+      "text_ar": "بِلِسَانٍ عَرَبِىٍّ مُّبِينٍ",
+      "text_tajweed_html": "بِلِسَانٍ عَرَبِ<tajweed class=idgham_ghunnah>ىٍّ م</tajweed>ُّب<tajweed class=madda_permissible>ِي</tajweed>نٍ <span class=end>١٩٥</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "بِلِسَانٍ عَرَبِ<tajweed class=idgham_ghunnah>ىٍّ م</tajweed>ُّب<tajweed class=madda_permissible>ِي</tajweed>نٍ <span class=end>١٩٥</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3128,
+      "surah": 26,
+      "ayah": 196,
+      "verse_key": "26:196",
+      "text_ar": "وَإِنَّهُۥ لَفِى زُبُرِ ٱلْأَوَّلِينَ",
+      "text_tajweed_html": "وَإِ<tajweed class=ghunnah>نّ</tajweed>َهُ<tajweed class=madda_normal>ۥ</tajweed> لَفِى زُبُرِ <tajweed class=ham_wasl>ٱ</tajweed>لْأَوَّل<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٩٦</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَإِ<tajweed class=ghunnah>نّ</tajweed>َهُ<tajweed class=madda_normal>ۥ</tajweed> لَفِى زُبُرِ <tajweed class=ham_wasl>ٱ</tajweed>لْأَوَّل<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٩٦</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3129,
+      "surah": 26,
+      "ayah": 197,
+      "verse_key": "26:197",
+      "text_ar": "أَوَلَمْ يَكُن لَّهُمْ ءَايَةً أَن يَعْلَمَهُۥ عُلَمَـٰٓؤُا۟ بَنِىٓ إِسْرَٰٓءِيلَ",
+      "text_tajweed_html": "أَوَلَمْ يَك<tajweed class=idgham_wo_ghunnah>ُن ل</tajweed>َّهُمْ ءَايَةً أ<tajweed class=idgham_ghunnah>َن ي</tajweed>َعْلَمَهُ<tajweed class=madda_normal>ۥ</tajweed> عُلَمَ<tajweed class=madda_obligatory>ـٰٓ</tajweed>ؤُ<tajweed class=slnt>اْ</tajweed> بَن<tajweed class=madda_obligatory>ِىٓ</tajweed> إِسْر<tajweed class=madda_obligatory>َٲ</tajweed>ٓء<tajweed class=madda_permissible>ِي</tajweed>لَ <span class=end>١٩٧</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "أَوَلَمْ يَك<tajweed class=idgham_wo_ghunnah>ُن ل</tajweed>َّهُمْ ءَايَةً أ<tajweed class=idgham_ghunnah>َن ي</tajweed>َعْلَمَهُ<tajweed class=madda_normal>ۥ</tajweed> عُلَمَ<tajweed class=madda_obligatory>ـٰٓ</tajweed>ؤُ<tajweed class=slnt>اْ</tajweed> بَن<tajweed class=madda_obligatory>ِىٓ</tajweed> إِسْر<tajweed class=madda_obligatory>َٲ</tajweed>ٓء<tajweed class=madda_permissible>ِي</tajweed>لَ <span class=end>١٩٧</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3130,
+      "surah": 26,
+      "ayah": 198,
+      "verse_key": "26:198",
+      "text_ar": "وَلَوْ نَزَّلْنَـٰهُ عَلَىٰ بَعْضِ ٱلْأَعْجَمِينَ",
+      "text_tajweed_html": "وَلَوْ نَزَّلْنَ<tajweed class=madda_normal>ـٰ</tajweed>هُ عَلَىٰ بَعْضِ <tajweed class=ham_wasl>ٱ</tajweed>لْأَعْجَم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٩٨</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَلَوْ نَزَّلْنَ<tajweed class=madda_normal>ـٰ</tajweed>هُ عَلَىٰ بَعْضِ <tajweed class=ham_wasl>ٱ</tajweed>لْأَعْجَم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٩٨</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3131,
+      "surah": 26,
+      "ayah": 199,
+      "verse_key": "26:199",
+      "text_ar": "فَقَرَأَهُۥ عَلَيْهِم مَّا كَانُوا۟ بِهِۦ مُؤْمِنِينَ",
+      "text_tajweed_html": "فَقَرَأَهُ<tajweed class=madda_normal>ۥ</tajweed> عَلَيْه<tajweed class=idgham_shafawi>ِم م</tajweed>َّا كَانُو<tajweed class=slnt>اْ</tajweed> بِه<tajweed class=madda_normal>ِۦ</tajweed> مُؤْمِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٩٩</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَقَرَأَهُ<tajweed class=madda_normal>ۥ</tajweed> عَلَيْه<tajweed class=idgham_shafawi>ِم م</tajweed>َّا كَانُو<tajweed class=slnt>اْ</tajweed> بِه<tajweed class=madda_normal>ِۦ</tajweed> مُؤْمِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>١٩٩</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3132,
+      "surah": 26,
+      "ayah": 200,
+      "verse_key": "26:200",
+      "text_ar": "كَذَٰلِكَ سَلَكْنَـٰهُ فِى قُلُوبِ ٱلْمُجْرِمِينَ",
+      "text_tajweed_html": "كَذ<tajweed class=madda_normal>َٲ</tajweed>لِكَ سَلَكْنَ<tajweed class=madda_normal>ـٰ</tajweed>هُ فِى قُلُوبِ <tajweed class=ham_wasl>ٱ</tajweed>لْمُ<tajweed class=qalaqah>جْ</tajweed>رِم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٢٠٠</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "كَذ<tajweed class=madda_normal>َٲ</tajweed>لِكَ سَلَكْنَ<tajweed class=madda_normal>ـٰ</tajweed>هُ فِى قُلُوبِ <tajweed class=ham_wasl>ٱ</tajweed>لْمُ<tajweed class=qalaqah>جْ</tajweed>رِم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٢٠٠</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3133,
+      "surah": 26,
+      "ayah": 201,
+      "verse_key": "26:201",
+      "text_ar": "لَا يُؤْمِنُونَ بِهِۦ حَتَّىٰ يَرَوُا۟ ٱلْعَذَابَ ٱلْأَلِيمَ",
+      "text_tajweed_html": "لَا يُؤْمِنُونَ بِه<tajweed class=madda_normal>ِۦ</tajweed> حَتَّىٰ يَرَوُ<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed>لْعَذَابَ <tajweed class=ham_wasl>ٱ</tajweed>لْأَل<tajweed class=madda_permissible>ِي</tajweed>مَ <span class=end>٢٠١</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "لَا يُؤْمِنُونَ بِه<tajweed class=madda_normal>ِۦ</tajweed> حَتَّىٰ يَرَوُ<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed>لْعَذَابَ <tajweed class=ham_wasl>ٱ</tajweed>لْأَل<tajweed class=madda_permissible>ِي</tajweed>مَ <span class=end>٢٠١</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3134,
+      "surah": 26,
+      "ayah": 202,
+      "verse_key": "26:202",
+      "text_ar": "فَيَأْتِيَهُم بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
+      "text_tajweed_html": "فَيَأْتِيَه<tajweed class=ikhafa_shafawi>ُم ب</tajweed>َغْتَ<tajweed class=idgham_ghunnah>ةً و</tajweed>َهُمْ لَا يَشْعُر<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢٠٢</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَيَأْتِيَه<tajweed class=ikhafa_shafawi>ُم ب</tajweed>َغْتَ<tajweed class=idgham_ghunnah>ةً و</tajweed>َهُمْ لَا يَشْعُر<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢٠٢</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3135,
+      "surah": 26,
+      "ayah": 203,
+      "verse_key": "26:203",
+      "text_ar": "فَيَقُولُوا۟ هَلْ نَحْنُ مُنظَرُونَ",
+      "text_tajweed_html": "فَيَقُولُو<tajweed class=slnt>اْ</tajweed> هَلْ نَحْنُ مُ<tajweed class=ikhafa>نظ</tajweed>َر<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢٠٣</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَيَقُولُو<tajweed class=slnt>اْ</tajweed> هَلْ نَحْنُ مُ<tajweed class=ikhafa>نظ</tajweed>َر<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢٠٣</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3136,
+      "surah": 26,
+      "ayah": 204,
+      "verse_key": "26:204",
+      "text_ar": "أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ",
+      "text_tajweed_html": "أَفَبِعَذَابِنَا يَسْتَعْجِل<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢٠٤</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "أَفَبِعَذَابِنَا يَسْتَعْجِل<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢٠٤</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3137,
+      "surah": 26,
+      "ayah": 205,
+      "verse_key": "26:205",
+      "text_ar": "أَفَرَءَيْتَ إِن مَّتَّعْنَـٰهُمْ سِنِينَ",
+      "text_tajweed_html": "أَفَرَءَيْتَ إ<tajweed class=idgham_ghunnah>ِن م</tajweed>َّتَّعْنَ<tajweed class=madda_normal>ـٰ</tajweed>هُمْ سِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٢٠٥</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "أَفَرَءَيْتَ إ<tajweed class=idgham_ghunnah>ِن م</tajweed>َّتَّعْنَ<tajweed class=madda_normal>ـٰ</tajweed>هُمْ سِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٢٠٥</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3138,
+      "surah": 26,
+      "ayah": 206,
+      "verse_key": "26:206",
+      "text_ar": "ثُمَّ جَآءَهُم مَّا كَانُوا۟ يُوعَدُونَ",
+      "text_tajweed_html": "ثُ<tajweed class=ghunnah>مّ</tajweed>َ ج<tajweed class=madda_obligatory>َا</tajweed>ٓءَه<tajweed class=idgham_shafawi>ُم م</tajweed>َّا كَانُو<tajweed class=slnt>اْ</tajweed> يُوعَد<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢٠٦</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "ثُ<tajweed class=ghunnah>مّ</tajweed>َ ج<tajweed class=madda_obligatory>َا</tajweed>ٓءَه<tajweed class=idgham_shafawi>ُم م</tajweed>َّا كَانُو<tajweed class=slnt>اْ</tajweed> يُوعَد<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢٠٦</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3139,
+      "surah": 26,
+      "ayah": 207,
+      "verse_key": "26:207",
+      "text_ar": "مَآ أَغْنَىٰ عَنْهُم مَّا كَانُوا۟ يُمَتَّعُونَ",
+      "text_tajweed_html": "م<tajweed class=madda_obligatory>َآ</tajweed> أَغْنَىٰ عَنْه<tajweed class=idgham_shafawi>ُم م</tajweed>َّا كَانُو<tajweed class=slnt>اْ</tajweed> يُمَتَّع<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢٠٧</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "م<tajweed class=madda_obligatory>َآ</tajweed> أَغْنَىٰ عَنْه<tajweed class=idgham_shafawi>ُم م</tajweed>َّا كَانُو<tajweed class=slnt>اْ</tajweed> يُمَتَّع<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢٠٧</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3140,
+      "surah": 26,
+      "ayah": 208,
+      "verse_key": "26:208",
+      "text_ar": "وَمَآ أَهْلَكْنَا مِن قَرْيَةٍ إِلَّا لَهَا مُنذِرُونَ",
+      "text_tajweed_html": "وَم<tajweed class=madda_obligatory>َآ</tajweed> أَهْلَكْنَا مِ<tajweed class=ikhafa>ن ق</tajweed>َرْيَةٍ إِلَّا لَهَا مُ<tajweed class=ikhafa>نذ</tajweed>ِر<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢٠٨</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَم<tajweed class=madda_obligatory>َآ</tajweed> أَهْلَكْنَا مِ<tajweed class=ikhafa>ن ق</tajweed>َرْيَةٍ إِلَّا لَهَا مُ<tajweed class=ikhafa>نذ</tajweed>ِر<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢٠٨</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3141,
+      "surah": 26,
+      "ayah": 209,
+      "verse_key": "26:209",
+      "text_ar": "ذِكْرَىٰ وَمَا كُنَّا ظَـٰلِمِينَ",
+      "text_tajweed_html": "ذِكْرَىٰ وَمَا كُ<tajweed class=ghunnah>نّ</tajweed>َا ظَ<tajweed class=madda_normal>ـٰ</tajweed>لِم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٢٠٩</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "ذِكْرَىٰ وَمَا كُ<tajweed class=ghunnah>نّ</tajweed>َا ظَ<tajweed class=madda_normal>ـٰ</tajweed>لِم<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٢٠٩</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3142,
+      "surah": 26,
+      "ayah": 210,
+      "verse_key": "26:210",
+      "text_ar": "وَمَا تَنَزَّلَتْ بِهِ ٱلشَّيَـٰطِينُ",
+      "text_tajweed_html": "وَمَا تَنَزَّلَتْ بِهِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>شَّيَ<tajweed class=madda_normal>ـٰ</tajweed>ط<tajweed class=madda_permissible>ِي</tajweed>نُ <span class=end>٢١٠</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَمَا تَنَزَّلَتْ بِهِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>شَّيَ<tajweed class=madda_normal>ـٰ</tajweed>ط<tajweed class=madda_permissible>ِي</tajweed>نُ <span class=end>٢١٠</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3143,
+      "surah": 26,
+      "ayah": 211,
+      "verse_key": "26:211",
+      "text_ar": "وَمَا يَنۢبَغِى لَهُمْ وَمَا يَسْتَطِيعُونَ",
+      "text_tajweed_html": "وَمَا يَ<tajweed class=iqlab>نۢب</tajweed>َغِى لَهُمْ وَمَا يَسْتَطِيع<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢١١</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَمَا يَ<tajweed class=iqlab>نۢب</tajweed>َغِى لَهُمْ وَمَا يَسْتَطِيع<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢١١</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3144,
+      "surah": 26,
+      "ayah": 212,
+      "verse_key": "26:212",
+      "text_ar": "إِنَّهُمْ عَنِ ٱلسَّمْعِ لَمَعْزُولُونَ",
+      "text_tajweed_html": "إِ<tajweed class=ghunnah>نّ</tajweed>َهُمْ عَنِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سَّمْعِ لَمَعْزُول<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢١٢</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "إِ<tajweed class=ghunnah>نّ</tajweed>َهُمْ عَنِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سَّمْعِ لَمَعْزُول<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢١٢</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3145,
+      "surah": 26,
+      "ayah": 213,
+      "verse_key": "26:213",
+      "text_ar": "فَلَا تَدْعُ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ فَتَكُونَ مِنَ ٱلْمُعَذَّبِينَ",
+      "text_tajweed_html": "فَلَا تَ<tajweed class=qalaqah>دْ</tajweed>عُ مَعَ <tajweed class=ham_wasl>ٱ</tajweed>للَّهِ إِلَ<tajweed class=madda_normal>ـٰ</tajweed>هًا ءَاخَرَ فَتَكُونَ مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْمُعَذَّب<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٢١٣</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَلَا تَ<tajweed class=qalaqah>دْ</tajweed>عُ مَعَ <tajweed class=ham_wasl>ٱ</tajweed>للَّهِ إِلَ<tajweed class=madda_normal>ـٰ</tajweed>هًا ءَاخَرَ فَتَكُونَ مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْمُعَذَّب<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٢١٣</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3146,
+      "surah": 26,
+      "ayah": 214,
+      "verse_key": "26:214",
+      "text_ar": "وَأَنذِرْ عَشِيرَتَكَ ٱلْأَقْرَبِينَ",
+      "text_tajweed_html": "وَأَ<tajweed class=ikhafa>نذ</tajweed>ِرْ عَشِيرَتَكَ <tajweed class=ham_wasl>ٱ</tajweed>لْأَ<tajweed class=qalaqah>قْ</tajweed>رَب<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٢١٤</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَأَ<tajweed class=ikhafa>نذ</tajweed>ِرْ عَشِيرَتَكَ <tajweed class=ham_wasl>ٱ</tajweed>لْأَ<tajweed class=qalaqah>قْ</tajweed>رَب<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٢١٤</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3147,
+      "surah": 26,
+      "ayah": 215,
+      "verse_key": "26:215",
+      "text_ar": "وَٱخْفِضْ جَنَاحَكَ لِمَنِ ٱتَّبَعَكَ مِنَ ٱلْمُؤْمِنِينَ",
+      "text_tajweed_html": "وَ<tajweed class=ham_wasl>ٱ</tajweed>خْفِضْ جَنَاحَكَ لِمَنِ <tajweed class=ham_wasl>ٱ</tajweed>تَّبَعَكَ مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْمُؤْمِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٢١٥</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَ<tajweed class=ham_wasl>ٱ</tajweed>خْفِضْ جَنَاحَكَ لِمَنِ <tajweed class=ham_wasl>ٱ</tajweed>تَّبَعَكَ مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْمُؤْمِن<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٢١٥</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3148,
+      "surah": 26,
+      "ayah": 216,
+      "verse_key": "26:216",
+      "text_ar": "فَإِنْ عَصَوْكَ فَقُلْ إِنِّى بَرِىٓءٌ مِّمَّا تَعْمَلُونَ",
+      "text_tajweed_html": "فَإِنْ عَصَوْكَ فَقُلْ إِ<tajweed class=ghunnah>نّ</tajweed>ِى بَر<tajweed class=madda_obligatory>ِى</tajweed>ٓ<tajweed class=idgham_ghunnah>ءٌ م</tajweed>ِّ<tajweed class=ghunnah>مّ</tajweed>َا تَعْمَل<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢١٦</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَإِنْ عَصَوْكَ فَقُلْ إِ<tajweed class=ghunnah>نّ</tajweed>ِى بَر<tajweed class=madda_obligatory>ِى</tajweed>ٓ<tajweed class=idgham_ghunnah>ءٌ م</tajweed>ِّ<tajweed class=ghunnah>مّ</tajweed>َا تَعْمَل<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢١٦</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3149,
+      "surah": 26,
+      "ayah": 217,
+      "verse_key": "26:217",
+      "text_ar": "وَتَوَكَّلْ عَلَى ٱلْعَزِيزِ ٱلرَّحِيمِ",
+      "text_tajweed_html": "وَتَوَكَّلْ عَلَى <tajweed class=ham_wasl>ٱ</tajweed>لْعَزِيزِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>رَّح<tajweed class=madda_permissible>ِي</tajweed>مِ <span class=end>٢١٧</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَتَوَكَّلْ عَلَى <tajweed class=ham_wasl>ٱ</tajweed>لْعَزِيزِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>رَّح<tajweed class=madda_permissible>ِي</tajweed>مِ <span class=end>٢١٧</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3150,
+      "surah": 26,
+      "ayah": 218,
+      "verse_key": "26:218",
+      "text_ar": "ٱلَّذِى يَرَىٰكَ حِينَ تَقُومُ",
+      "text_tajweed_html": "ٱلَّذِى يَرَ<tajweed class=madda_normal>ٮٰ</tajweed>كَ حِينَ تَق<tajweed class=madda_permissible>ُو</tajweed>مُ <span class=end>٢١٨</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "ٱلَّذِى يَرَ<tajweed class=madda_normal>ٮٰ</tajweed>كَ حِينَ تَق<tajweed class=madda_permissible>ُو</tajweed>مُ <span class=end>٢١٨</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3151,
+      "surah": 26,
+      "ayah": 219,
+      "verse_key": "26:219",
+      "text_ar": "وَتَقَلُّبَكَ فِى ٱلسَّـٰجِدِينَ",
+      "text_tajweed_html": "وَتَقَلُّبَكَ فِى <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سَّ<tajweed class=madda_normal>ـٰ</tajweed>جِد<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٢١٩</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَتَقَلُّبَكَ فِى <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سَّ<tajweed class=madda_normal>ـٰ</tajweed>جِد<tajweed class=madda_permissible>ِي</tajweed>نَ <span class=end>٢١٩</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3152,
+      "surah": 26,
+      "ayah": 220,
+      "verse_key": "26:220",
+      "text_ar": "إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+      "text_tajweed_html": "إِ<tajweed class=ghunnah>نّ</tajweed>َهُ<tajweed class=madda_normal>ۥ</tajweed> هُوَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سَّمِيعُ <tajweed class=ham_wasl>ٱ</tajweed>لْعَل<tajweed class=madda_permissible>ِي</tajweed>مُ <span class=end>٢٢٠</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "إِ<tajweed class=ghunnah>نّ</tajweed>َهُ<tajweed class=madda_normal>ۥ</tajweed> هُوَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سَّمِيعُ <tajweed class=ham_wasl>ٱ</tajweed>لْعَل<tajweed class=madda_permissible>ِي</tajweed>مُ <span class=end>٢٢٠</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3153,
+      "surah": 26,
+      "ayah": 221,
+      "verse_key": "26:221",
+      "text_ar": "هَلْ أُنَبِّئُكُمْ عَلَىٰ مَن تَنَزَّلُ ٱلشَّيَـٰطِينُ",
+      "text_tajweed_html": "هَلْ أُنَبِّئُكُمْ عَلَىٰ مَ<tajweed class=ikhafa>ن ت</tajweed>َنَزَّلُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>شَّيَ<tajweed class=madda_normal>ـٰ</tajweed>ط<tajweed class=madda_permissible>ِي</tajweed>نُ <span class=end>٢٢١</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "هَلْ أُنَبِّئُكُمْ عَلَىٰ مَ<tajweed class=ikhafa>ن ت</tajweed>َنَزَّلُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>شَّيَ<tajweed class=madda_normal>ـٰ</tajweed>ط<tajweed class=madda_permissible>ِي</tajweed>نُ <span class=end>٢٢١</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3154,
+      "surah": 26,
+      "ayah": 222,
+      "verse_key": "26:222",
+      "text_ar": "تَنَزَّلُ عَلَىٰ كُلِّ أَفَّاكٍ أَثِيمٍ",
+      "text_tajweed_html": "تَنَزَّلُ عَلَىٰ كُلِّ أَفَّاكٍ أَث<tajweed class=madda_permissible>ِي</tajweed>مٍ <span class=end>٢٢٢</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "تَنَزَّلُ عَلَىٰ كُلِّ أَفَّاكٍ أَث<tajweed class=madda_permissible>ِي</tajweed>مٍ <span class=end>٢٢٢</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3155,
+      "surah": 26,
+      "ayah": 223,
+      "verse_key": "26:223",
+      "text_ar": "يُلْقُونَ ٱلسَّمْعَ وَأَكْثَرُهُمْ كَـٰذِبُونَ",
+      "text_tajweed_html": "يُلْقُونَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سَّمْعَ وَأَكْثَرُهُمْ كَ<tajweed class=madda_normal>ـٰ</tajweed>ذِب<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢٢٣</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "يُلْقُونَ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سَّمْعَ وَأَكْثَرُهُمْ كَ<tajweed class=madda_normal>ـٰ</tajweed>ذِب<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢٢٣</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3156,
+      "surah": 26,
+      "ayah": 224,
+      "verse_key": "26:224",
+      "text_ar": "وَٱلشُّعَرَآءُ يَتَّبِعُهُمُ ٱلْغَاوُۥنَ",
+      "text_tajweed_html": "وَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>شُّعَر<tajweed class=madda_obligatory>َا</tajweed>ٓءُ يَتَّبِعُهُمُ <tajweed class=ham_wasl>ٱ</tajweed>لْغَاوُ<tajweed class=madda_permissible>ۥ</tajweed>نَ <span class=end>٢٢٤</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>شُّعَر<tajweed class=madda_obligatory>َا</tajweed>ٓءُ يَتَّبِعُهُمُ <tajweed class=ham_wasl>ٱ</tajweed>لْغَاوُ<tajweed class=madda_permissible>ۥ</tajweed>نَ <span class=end>٢٢٤</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3157,
+      "surah": 26,
+      "ayah": 225,
+      "verse_key": "26:225",
+      "text_ar": "أَلَمْ تَرَ أَنَّهُمْ فِى كُلِّ وَادٍ يَهِيمُونَ",
+      "text_tajweed_html": "أَلَمْ تَرَ أَ<tajweed class=ghunnah>نّ</tajweed>َهُمْ فِى كُلِّ وَا<tajweed class=idgham_ghunnah>دٍ ي</tajweed>َهِيم<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢٢٥</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "أَلَمْ تَرَ أَ<tajweed class=ghunnah>نّ</tajweed>َهُمْ فِى كُلِّ وَا<tajweed class=idgham_ghunnah>دٍ ي</tajweed>َهِيم<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢٢٥</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3158,
+      "surah": 26,
+      "ayah": 226,
+      "verse_key": "26:226",
+      "text_ar": "وَأَنَّهُمْ يَقُولُونَ مَا لَا يَفْعَلُونَ",
+      "text_tajweed_html": "وَأَ<tajweed class=ghunnah>نّ</tajweed>َهُمْ يَقُولُونَ مَا لَا يَفْعَل<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢٢٦</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَأَ<tajweed class=ghunnah>نّ</tajweed>َهُمْ يَقُولُونَ مَا لَا يَفْعَل<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢٢٦</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 3159,
+      "surah": 26,
+      "ayah": 227,
+      "verse_key": "26:227",
+      "text_ar": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَذَكَرُوا۟ ٱللَّهَ كَثِيرًا وَٱنتَصَرُوا۟ مِنۢ بَعْدِ مَا ظُلِمُوا۟ ۗ وَسَيَعْلَمُ ٱلَّذِينَ ظَلَمُوٓا۟ أَىَّ مُنقَلَبٍ يَنقَلِبُونَ",
+      "text_tajweed_html": "إِلَّا <tajweed class=ham_wasl>ٱ</tajweed>لَّذِينَ ءَامَنُو<tajweed class=slnt>اْ</tajweed> وَعَمِلُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>صَّ<tajweed class=madda_normal>ـٰ</tajweed>لِحَ<tajweed class=madda_normal>ـٰ</tajweed>تِ وَذَكَرُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed>للَّهَ كَثِي<tajweed class=idgham_ghunnah>رًا و</tajweed>َ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=ikhafa>نت</tajweed>َصَرُو<tajweed class=slnt>اْ</tajweed> م<tajweed class=iqlab>ِنۢ ب</tajweed>َعْدِ مَا ظُلِمُو<tajweed class=slnt>اْ‌ۗ</tajweed> وَسَيَعْلَمُ <tajweed class=ham_wasl>ٱ</tajweed>لَّذِينَ ظَلَم<tajweed class=madda_obligatory>ُوٓ</tajweed><tajweed class=slnt>اْ</tajweed> أَىَّ مُ<tajweed class=ikhafa>نق</tajweed>َلَ<tajweed class=idgham_ghunnah>بٍ ي</tajweed>َ<tajweed class=ikhafa>نق</tajweed>َلِب<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢٢٧</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "إِلَّا <tajweed class=ham_wasl>ٱ</tajweed>لَّذِينَ ءَامَنُو<tajweed class=slnt>اْ</tajweed> وَعَمِلُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>صَّ<tajweed class=madda_normal>ـٰ</tajweed>لِحَ<tajweed class=madda_normal>ـٰ</tajweed>تِ وَذَكَرُو<tajweed class=slnt>اْ</tajweed> <tajweed class=ham_wasl>ٱ</tajweed>للَّهَ كَثِي<tajweed class=idgham_ghunnah>رًا و</tajweed>َ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=ikhafa>نت</tajweed>َصَرُو<tajweed class=slnt>اْ</tajweed> م<tajweed class=iqlab>ِنۢ ب</tajweed>َعْدِ مَا ظُلِمُو<tajweed class=slnt>اْ‌ۗ</tajweed> وَسَيَعْلَمُ <tajweed class=ham_wasl>ٱ</tajweed>لَّذِينَ ظَلَم<tajweed class=madda_obligatory>ُوٓ</tajweed><tajweed class=slnt>اْ</tajweed> أَىَّ مُ<tajweed class=ikhafa>نق</tajweed>َلَ<tajweed class=idgham_ghunnah>بٍ ي</tajweed>َ<tajweed class=ikhafa>نق</tajweed>َلِب<tajweed class=madda_permissible>ُو</tajweed>نَ <span class=end>٢٢٧</span>"
+        }
+      ]
+    }
+  ]
+}

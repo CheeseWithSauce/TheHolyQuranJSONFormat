@@ -1,0 +1,93 @@
+{
+  "surah_number": 114,
+  "name_en": "An-Nas",
+  "name_ar": "الناس",
+  "verses_count": 6,
+  "revelation_place": "makkah",
+  "verses": [
+    {
+      "global_id": 6231,
+      "surah": 114,
+      "ayah": 1,
+      "verse_key": "114:1",
+      "text_ar": " قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+      "text_tajweed_html": "قُلْ أَعُوذُ بِرَبِّ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed><tajweed class=madda_permissible>َا</tajweed>سِ <span class=end>١</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قُلْ أَعُوذُ بِرَبِّ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed><tajweed class=madda_permissible>َا</tajweed>سِ <span class=end>١</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 6232,
+      "surah": 114,
+      "ayah": 2,
+      "verse_key": "114:2",
+      "text_ar": "مَلِكِ ٱلنَّاسِ",
+      "text_tajweed_html": "مَلِكِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed><tajweed class=madda_permissible>َا</tajweed>سِ <span class=end>٢</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "مَلِكِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed><tajweed class=madda_permissible>َا</tajweed>سِ <span class=end>٢</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 6233,
+      "surah": 114,
+      "ayah": 3,
+      "verse_key": "114:3",
+      "text_ar": "إِلَـٰهِ ٱلنَّاسِ",
+      "text_tajweed_html": "إِلَ<tajweed class=madda_normal>ـٰ</tajweed>هِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed><tajweed class=madda_permissible>َا</tajweed>سِ <span class=end>٣</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "إِلَ<tajweed class=madda_normal>ـٰ</tajweed>هِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed><tajweed class=madda_permissible>َا</tajweed>سِ <span class=end>٣</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 6234,
+      "surah": 114,
+      "ayah": 4,
+      "verse_key": "114:4",
+      "text_ar": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+      "text_tajweed_html": "مِ<tajweed class=ikhafa>ن ش</tajweed>َرِّ <tajweed class=ham_wasl>ٱ</tajweed>لْوَسْوَاسِ <tajweed class=ham_wasl>ٱ</tajweed>لْخَ<tajweed class=ghunnah>نّ</tajweed><tajweed class=madda_permissible>َا</tajweed>سِ <span class=end>٤</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "مِ<tajweed class=ikhafa>ن ش</tajweed>َرِّ <tajweed class=ham_wasl>ٱ</tajweed>لْوَسْوَاسِ <tajweed class=ham_wasl>ٱ</tajweed>لْخَ<tajweed class=ghunnah>نّ</tajweed><tajweed class=madda_permissible>َا</tajweed>سِ <span class=end>٤</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 6235,
+      "surah": 114,
+      "ayah": 5,
+      "verse_key": "114:5",
+      "text_ar": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+      "text_tajweed_html": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed><tajweed class=madda_permissible>َا</tajweed>سِ <span class=end>٥</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed><tajweed class=madda_permissible>َا</tajweed>سِ <span class=end>٥</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 6236,
+      "surah": 114,
+      "ayah": 6,
+      "verse_key": "114:6",
+      "text_ar": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+      "text_tajweed_html": "مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْجِ<tajweed class=ghunnah>نّ</tajweed>َةِ وَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed><tajweed class=madda_permissible>َا</tajweed>سِ <span class=end>٦</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْجِ<tajweed class=ghunnah>نّ</tajweed>َةِ وَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed><tajweed class=ghunnah>نّ</tajweed><tajweed class=madda_permissible>َا</tajweed>سِ <span class=end>٦</span>"
+        }
+      ]
+    }
+  ]
+}

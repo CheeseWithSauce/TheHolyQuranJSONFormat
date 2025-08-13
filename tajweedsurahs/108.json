@@ -1,0 +1,51 @@
+{
+  "surah_number": 108,
+  "name_en": "Al-Kawthar",
+  "name_ar": "الكوثر",
+  "verses_count": 3,
+  "revelation_place": "makkah",
+  "verses": [
+    {
+      "global_id": 6205,
+      "surah": 108,
+      "ayah": 1,
+      "verse_key": "108:1",
+      "text_ar": " إِنَّآ أَعْطَيْنَـٰكَ ٱلْكَوْثَرَ",
+      "text_tajweed_html": "إِ<tajweed class=ghunnah>نّ</tajweed><tajweed class=madda_obligatory>َآ</tajweed> أَعْطَيْنَ<tajweed class=madda_normal>ـٰ</tajweed>كَ <tajweed class=ham_wasl>ٱ</tajweed>لْكَوْثَرَ <span class=end>١</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "إِ<tajweed class=ghunnah>نّ</tajweed><tajweed class=madda_obligatory>َآ</tajweed> أَعْطَيْنَ<tajweed class=madda_normal>ـٰ</tajweed>كَ <tajweed class=ham_wasl>ٱ</tajweed>لْكَوْثَرَ <span class=end>١</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 6206,
+      "surah": 108,
+      "ayah": 2,
+      "verse_key": "108:2",
+      "text_ar": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+      "text_tajweed_html": "فَصَلِّ لِرَبِّكَ وَ<tajweed class=ham_wasl>ٱ</tajweed>نْحَرْ <span class=end>٢</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَصَلِّ لِرَبِّكَ وَ<tajweed class=ham_wasl>ٱ</tajweed>نْحَرْ <span class=end>٢</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 6207,
+      "surah": 108,
+      "ayah": 3,
+      "verse_key": "108:3",
+      "text_ar": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
+      "text_tajweed_html": "إِ<tajweed class=ghunnah>نّ</tajweed>َ شَانِئَكَ هُوَ <tajweed class=ham_wasl>ٱ</tajweed>لْأَ<tajweed class=qalaqah>بْ</tajweed>تَرُ <span class=end>٣</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "إِ<tajweed class=ghunnah>نّ</tajweed>َ شَانِئَكَ هُوَ <tajweed class=ham_wasl>ٱ</tajweed>لْأَ<tajweed class=qalaqah>بْ</tajweed>تَرُ <span class=end>٣</span>"
+        }
+      ]
+    }
+  ]
+}

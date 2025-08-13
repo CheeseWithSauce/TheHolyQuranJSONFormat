@@ -1,0 +1,65 @@
+{
+  "surah_number": 112,
+  "name_en": "Al-Ikhlas",
+  "name_ar": "الإخلاص",
+  "verses_count": 4,
+  "revelation_place": "makkah",
+  "verses": [
+    {
+      "global_id": 6222,
+      "surah": 112,
+      "ayah": 1,
+      "verse_key": "112:1",
+      "text_ar": " قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+      "text_tajweed_html": "قُلْ هُوَ <tajweed class=ham_wasl>ٱ</tajweed>للَّهُ أَحَ<tajweed class=qalaqah>د</tajweed>ٌ <span class=end>١</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "قُلْ هُوَ <tajweed class=ham_wasl>ٱ</tajweed>للَّهُ أَحَ<tajweed class=qalaqah>د</tajweed>ٌ <span class=end>١</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 6223,
+      "surah": 112,
+      "ayah": 2,
+      "verse_key": "112:2",
+      "text_ar": "ٱللَّهُ ٱلصَّمَدُ",
+      "text_tajweed_html": "ٱللَّهُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>صَّمَ<tajweed class=qalaqah>د</tajweed>ُ <span class=end>٢</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "ٱللَّهُ <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>صَّمَ<tajweed class=qalaqah>د</tajweed>ُ <span class=end>٢</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 6224,
+      "surah": 112,
+      "ayah": 3,
+      "verse_key": "112:3",
+      "text_ar": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+      "text_tajweed_html": "لَمْ يَلِ<tajweed class=qalaqah>دْ</tajweed> وَلَمْ يُولَ<tajweed class=qalaqah>دْ</tajweed> <span class=end>٣</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "لَمْ يَلِ<tajweed class=qalaqah>دْ</tajweed> وَلَمْ يُولَ<tajweed class=qalaqah>دْ</tajweed> <span class=end>٣</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 6225,
+      "surah": 112,
+      "ayah": 4,
+      "verse_key": "112:4",
+      "text_ar": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+      "text_tajweed_html": "وَلَمْ يَك<tajweed class=idgham_wo_ghunnah>ُن ل</tajweed>َّهُ<tajweed class=madda_normal>ۥ</tajweed> كُفُوًا أَحَ<tajweed class=qalaqah>د</tajweed>ُۢ <span class=end>٤</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَلَمْ يَك<tajweed class=idgham_wo_ghunnah>ُن ل</tajweed>َّهُ<tajweed class=madda_normal>ۥ</tajweed> كُفُوًا أَحَ<tajweed class=qalaqah>د</tajweed>ُۢ <span class=end>٤</span>"
+        }
+      ]
+    }
+  ]
+}

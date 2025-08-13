@@ -1,0 +1,163 @@
+{
+  "surah_number": 93,
+  "name_en": "Ad-Duhaa",
+  "name_ar": "الضحى",
+  "verses_count": 11,
+  "revelation_place": "makkah",
+  "verses": [
+    {
+      "global_id": 6080,
+      "surah": 93,
+      "ayah": 1,
+      "verse_key": "93:1",
+      "text_ar": " وَٱلضُّحَىٰ",
+      "text_tajweed_html": "وَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>ضُّحَىٰ <span class=end>١</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَ<tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>ضُّحَىٰ <span class=end>١</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 6081,
+      "surah": 93,
+      "ayah": 2,
+      "verse_key": "93:2",
+      "text_ar": "وَٱلَّيْلِ إِذَا سَجَىٰ",
+      "text_tajweed_html": "وَ<tajweed class=ham_wasl>ٱ</tajweed>لَّيْلِ إِذَا سَجَىٰ <span class=end>٢</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَ<tajweed class=ham_wasl>ٱ</tajweed>لَّيْلِ إِذَا سَجَىٰ <span class=end>٢</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 6082,
+      "surah": 93,
+      "ayah": 3,
+      "verse_key": "93:3",
+      "text_ar": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+      "text_tajweed_html": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ <span class=end>٣</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ <span class=end>٣</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 6083,
+      "surah": 93,
+      "ayah": 4,
+      "verse_key": "93:4",
+      "text_ar": "وَلَلْـَٔاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ",
+      "text_tajweed_html": "وَلَلْأَخِرَةُ خَيْ<tajweed class=idgham_wo_ghunnah>رٌ ل</tajweed>َّكَ مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْأُولَىٰ <span class=end>٤</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَلَلْأَخِرَةُ خَيْ<tajweed class=idgham_wo_ghunnah>رٌ ل</tajweed>َّكَ مِنَ <tajweed class=ham_wasl>ٱ</tajweed>لْأُولَىٰ <span class=end>٤</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 6084,
+      "surah": 93,
+      "ayah": 5,
+      "verse_key": "93:5",
+      "text_ar": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ",
+      "text_tajweed_html": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ <span class=end>٥</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ <span class=end>٥</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 6085,
+      "surah": 93,
+      "ayah": 6,
+      "verse_key": "93:6",
+      "text_ar": "أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ",
+      "text_tajweed_html": "أَلَمْ يَجِ<tajweed class=qalaqah>دْ</tajweed>كَ يَتِي<tajweed class=ikhafa>مًا ف</tajweed>َـَٔـاوَىٰ <span class=end>٦</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "أَلَمْ يَجِ<tajweed class=qalaqah>دْ</tajweed>كَ يَتِي<tajweed class=ikhafa>مًا ف</tajweed>َـَٔـاوَىٰ <span class=end>٦</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 6086,
+      "surah": 93,
+      "ayah": 7,
+      "verse_key": "93:7",
+      "text_ar": "وَوَجَدَكَ ضَآلًّا فَهَدَىٰ",
+      "text_tajweed_html": "وَوَجَدَكَ ضَآل<tajweed class=ikhafa>اًّ ف</tajweed>َهَدَىٰ <span class=end>٧</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَوَجَدَكَ ضَآل<tajweed class=ikhafa>اًّ ف</tajweed>َهَدَىٰ <span class=end>٧</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 6087,
+      "surah": 93,
+      "ayah": 8,
+      "verse_key": "93:8",
+      "text_ar": "وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ",
+      "text_tajweed_html": "وَوَجَدَكَ ع<tajweed class=madda_obligatory>َا</tajweed>ٓئِل<tajweed class=ikhafa>اً ف</tajweed>َأَغْنَىٰ <span class=end>٨</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَوَجَدَكَ ع<tajweed class=madda_obligatory>َا</tajweed>ٓئِل<tajweed class=ikhafa>اً ف</tajweed>َأَغْنَىٰ <span class=end>٨</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 6088,
+      "surah": 93,
+      "ayah": 9,
+      "verse_key": "93:9",
+      "text_ar": "فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ",
+      "text_tajweed_html": "فَأَ<tajweed class=ghunnah>مّ</tajweed>َا <tajweed class=ham_wasl>ٱ</tajweed>لْيَتِيمَ فَلَا تَ<tajweed class=qalaqah>قْ</tajweed>هَرْ <span class=end>٩</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "فَأَ<tajweed class=ghunnah>مّ</tajweed>َا <tajweed class=ham_wasl>ٱ</tajweed>لْيَتِيمَ فَلَا تَ<tajweed class=qalaqah>قْ</tajweed>هَرْ <span class=end>٩</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 6089,
+      "surah": 93,
+      "ayah": 10,
+      "verse_key": "93:10",
+      "text_ar": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ",
+      "text_tajweed_html": "وَأَ<tajweed class=ghunnah>مّ</tajweed>َا <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سّ<tajweed class=madda_obligatory>َا</tajweed>ٓئِلَ فَلَا تَنْهَرْ <span class=end>١٠</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَأَ<tajweed class=ghunnah>مّ</tajweed>َا <tajweed class=ham_wasl>ٱ</tajweed><tajweed class=laam_shamsiyah>ل</tajweed>سّ<tajweed class=madda_obligatory>َا</tajweed>ٓئِلَ فَلَا تَنْهَرْ <span class=end>١٠</span>"
+        }
+      ]
+    },
+    {
+      "global_id": 6090,
+      "surah": 93,
+      "ayah": 11,
+      "verse_key": "93:11",
+      "text_ar": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+      "text_tajweed_html": "وَأَ<tajweed class=ghunnah>مّ</tajweed>َا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ <span class=end>١١</span>",
+      "tajweed_segments": [
+        {
+          "rule": null,
+          "text": "وَأَ<tajweed class=ghunnah>مّ</tajweed>َا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ <span class=end>١١</span>"
+        }
+      ]
+    }
+  ]
+}
