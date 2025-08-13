@@ -1,0 +1,86 @@
+{
+  "surah_number": 101,
+  "name_en": "Al-Qari'ah",
+  "name_ar": "القارعة",
+  "verses_count": 11,
+  "revelation_place": "makkah",
+  "verses": [
+    {
+      "global_id": 6158,
+      "surah": 101,
+      "ayah": 1,
+      "verse_key": "101:1",
+      "text_ar": " ٱلْقَارِعَةُ"
+    },
+    {
+      "global_id": 6159,
+      "surah": 101,
+      "ayah": 2,
+      "verse_key": "101:2",
+      "text_ar": "مَا ٱلْقَارِعَةُ"
+    },
+    {
+      "global_id": 6160,
+      "surah": 101,
+      "ayah": 3,
+      "verse_key": "101:3",
+      "text_ar": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ"
+    },
+    {
+      "global_id": 6161,
+      "surah": 101,
+      "ayah": 4,
+      "verse_key": "101:4",
+      "text_ar": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ"
+    },
+    {
+      "global_id": 6162,
+      "surah": 101,
+      "ayah": 5,
+      "verse_key": "101:5",
+      "text_ar": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ"
+    },
+    {
+      "global_id": 6163,
+      "surah": 101,
+      "ayah": 6,
+      "verse_key": "101:6",
+      "text_ar": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ"
+    },
+    {
+      "global_id": 6164,
+      "surah": 101,
+      "ayah": 7,
+      "verse_key": "101:7",
+      "text_ar": "فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ"
+    },
+    {
+      "global_id": 6165,
+      "surah": 101,
+      "ayah": 8,
+      "verse_key": "101:8",
+      "text_ar": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ"
+    },
+    {
+      "global_id": 6166,
+      "surah": 101,
+      "ayah": 9,
+      "verse_key": "101:9",
+      "text_ar": "فَأُمُّهُۥ هَاوِيَةٌ"
+    },
+    {
+      "global_id": 6167,
+      "surah": 101,
+      "ayah": 10,
+      "verse_key": "101:10",
+      "text_ar": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ"
+    },
+    {
+      "global_id": 6168,
+      "surah": 101,
+      "ayah": 11,
+      "verse_key": "101:11",
+      "text_ar": "نَارٌ حَامِيَةٌۢ"
+    }
+  ]
+}

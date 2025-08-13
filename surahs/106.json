@@ -1,0 +1,37 @@
+{
+  "surah_number": 106,
+  "name_en": "Quraysh",
+  "name_ar": "قريش",
+  "verses_count": 4,
+  "revelation_place": "makkah",
+  "verses": [
+    {
+      "global_id": 6194,
+      "surah": 106,
+      "ayah": 1,
+      "verse_key": "106:1",
+      "text_ar": " لِإِيلَـٰفِ قُرَيْشٍ"
+    },
+    {
+      "global_id": 6195,
+      "surah": 106,
+      "ayah": 2,
+      "verse_key": "106:2",
+      "text_ar": "إِۦلَـٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ"
+    },
+    {
+      "global_id": 6196,
+      "surah": 106,
+      "ayah": 3,
+      "verse_key": "106:3",
+      "text_ar": "فَلْيَعْبُدُوا۟ رَبَّ هَـٰذَا ٱلْبَيْتِ"
+    },
+    {
+      "global_id": 6197,
+      "surah": 106,
+      "ayah": 4,
+      "verse_key": "106:4",
+      "text_ar": "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ"
+    }
+  ]
+}

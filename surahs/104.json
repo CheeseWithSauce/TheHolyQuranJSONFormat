@@ -1,0 +1,72 @@
+{
+  "surah_number": 104,
+  "name_en": "Al-Humazah",
+  "name_ar": "الهمزة",
+  "verses_count": 9,
+  "revelation_place": "makkah",
+  "verses": [
+    {
+      "global_id": 6180,
+      "surah": 104,
+      "ayah": 1,
+      "verse_key": "104:1",
+      "text_ar": " وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ"
+    },
+    {
+      "global_id": 6181,
+      "surah": 104,
+      "ayah": 2,
+      "verse_key": "104:2",
+      "text_ar": "ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ"
+    },
+    {
+      "global_id": 6182,
+      "surah": 104,
+      "ayah": 3,
+      "verse_key": "104:3",
+      "text_ar": "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ"
+    },
+    {
+      "global_id": 6183,
+      "surah": 104,
+      "ayah": 4,
+      "verse_key": "104:4",
+      "text_ar": "كَلَّا ۖ لَيُنۢبَذَنَّ فِى ٱلْحُطَمَةِ"
+    },
+    {
+      "global_id": 6184,
+      "surah": 104,
+      "ayah": 5,
+      "verse_key": "104:5",
+      "text_ar": "وَمَآ أَدْرَىٰكَ مَا ٱلْحُطَمَةُ"
+    },
+    {
+      "global_id": 6185,
+      "surah": 104,
+      "ayah": 6,
+      "verse_key": "104:6",
+      "text_ar": "نَارُ ٱللَّهِ ٱلْمُوقَدَةُ"
+    },
+    {
+      "global_id": 6186,
+      "surah": 104,
+      "ayah": 7,
+      "verse_key": "104:7",
+      "text_ar": "ٱلَّتِى تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ"
+    },
+    {
+      "global_id": 6187,
+      "surah": 104,
+      "ayah": 8,
+      "verse_key": "104:8",
+      "text_ar": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ"
+    },
+    {
+      "global_id": 6188,
+      "surah": 104,
+      "ayah": 9,
+      "verse_key": "104:9",
+      "text_ar": "فِى عَمَدٍ مُّمَدَّدَةٍۭ"
+    }
+  ]
+}

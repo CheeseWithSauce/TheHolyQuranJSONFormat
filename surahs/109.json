@@ -1,0 +1,51 @@
+{
+  "surah_number": 109,
+  "name_en": "Al-Kafirun",
+  "name_ar": "الكافرون",
+  "verses_count": 6,
+  "revelation_place": "makkah",
+  "verses": [
+    {
+      "global_id": 6208,
+      "surah": 109,
+      "ayah": 1,
+      "verse_key": "109:1",
+      "text_ar": " قُلْ يَـٰٓأَيُّهَا ٱلْكَـٰفِرُونَ"
+    },
+    {
+      "global_id": 6209,
+      "surah": 109,
+      "ayah": 2,
+      "verse_key": "109:2",
+      "text_ar": "لَآ أَعْبُدُ مَا تَعْبُدُونَ"
+    },
+    {
+      "global_id": 6210,
+      "surah": 109,
+      "ayah": 3,
+      "verse_key": "109:3",
+      "text_ar": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ"
+    },
+    {
+      "global_id": 6211,
+      "surah": 109,
+      "ayah": 4,
+      "verse_key": "109:4",
+      "text_ar": "وَلَآ أَنَا۠ عَابِدٌ مَّا عَبَدتُّمْ"
+    },
+    {
+      "global_id": 6212,
+      "surah": 109,
+      "ayah": 5,
+      "verse_key": "109:5",
+      "text_ar": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ"
+    },
+    {
+      "global_id": 6213,
+      "surah": 109,
+      "ayah": 6,
+      "verse_key": "109:6",
+      "text_ar": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ"
+    }
+  ]
+}

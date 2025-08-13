@@ -1,0 +1,37 @@
+{
+  "surah_number": 112,
+  "name_en": "Al-Ikhlas",
+  "name_ar": "الإخلاص",
+  "verses_count": 4,
+  "revelation_place": "makkah",
+  "verses": [
+    {
+      "global_id": 6222,
+      "surah": 112,
+      "ayah": 1,
+      "verse_key": "112:1",
+      "text_ar": " قُلْ هُوَ ٱللَّهُ أَحَدٌ"
+    },
+    {
+      "global_id": 6223,
+      "surah": 112,
+      "ayah": 2,
+      "verse_key": "112:2",
+      "text_ar": "ٱللَّهُ ٱلصَّمَدُ"
+    },
+    {
+      "global_id": 6224,
+      "surah": 112,
+      "ayah": 3,
+      "verse_key": "112:3",
+      "text_ar": "لَمْ يَلِدْ وَلَمْ يُولَدْ"
+    },
+    {
+      "global_id": 6225,
+      "surah": 112,
+      "ayah": 4,
+      "verse_key": "112:4",
+      "text_ar": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ"
+    }
+  ]
+}

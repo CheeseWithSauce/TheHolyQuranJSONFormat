@@ -1,0 +1,44 @@
+{
+  "surah_number": 105,
+  "name_en": "Al-Fil",
+  "name_ar": "الفيل",
+  "verses_count": 5,
+  "revelation_place": "makkah",
+  "verses": [
+    {
+      "global_id": 6189,
+      "surah": 105,
+      "ayah": 1,
+      "verse_key": "105:1",
+      "text_ar": " أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَـٰبِ ٱلْفِيلِ"
+    },
+    {
+      "global_id": 6190,
+      "surah": 105,
+      "ayah": 2,
+      "verse_key": "105:2",
+      "text_ar": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍ"
+    },
+    {
+      "global_id": 6191,
+      "surah": 105,
+      "ayah": 3,
+      "verse_key": "105:3",
+      "text_ar": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ"
+    },
+    {
+      "global_id": 6192,
+      "surah": 105,
+      "ayah": 4,
+      "verse_key": "105:4",
+      "text_ar": "تَرْمِيهِم بِحِجَارَةٍ مِّن سِجِّيلٍ"
+    },
+    {
+      "global_id": 6193,
+      "surah": 105,
+      "ayah": 5,
+      "verse_key": "105:5",
+      "text_ar": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُولٍۭ"
+    }
+  ]
+}

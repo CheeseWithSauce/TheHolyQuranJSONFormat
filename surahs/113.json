@@ -1,0 +1,44 @@
+{
+  "surah_number": 113,
+  "name_en": "Al-Falaq",
+  "name_ar": "الفلق",
+  "verses_count": 5,
+  "revelation_place": "makkah",
+  "verses": [
+    {
+      "global_id": 6226,
+      "surah": 113,
+      "ayah": 1,
+      "verse_key": "113:1",
+      "text_ar": " قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ"
+    },
+    {
+      "global_id": 6227,
+      "surah": 113,
+      "ayah": 2,
+      "verse_key": "113:2",
+      "text_ar": "مِن شَرِّ مَا خَلَقَ"
+    },
+    {
+      "global_id": 6228,
+      "surah": 113,
+      "ayah": 3,
+      "verse_key": "113:3",
+      "text_ar": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ"
+    },
+    {
+      "global_id": 6229,
+      "surah": 113,
+      "ayah": 4,
+      "verse_key": "113:4",
+      "text_ar": "وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ"
+    },
+    {
+      "global_id": 6230,
+      "surah": 113,
+      "ayah": 5,
+      "verse_key": "113:5",
+      "text_ar": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ"
+    }
+  ]
+}

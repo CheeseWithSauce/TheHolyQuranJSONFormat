@@ -1,0 +1,44 @@
+{
+  "surah_number": 111,
+  "name_en": "Al-Masad",
+  "name_ar": "المسد",
+  "verses_count": 5,
+  "revelation_place": "makkah",
+  "verses": [
+    {
+      "global_id": 6217,
+      "surah": 111,
+      "ayah": 1,
+      "verse_key": "111:1",
+      "text_ar": " تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ"
+    },
+    {
+      "global_id": 6218,
+      "surah": 111,
+      "ayah": 2,
+      "verse_key": "111:2",
+      "text_ar": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ"
+    },
+    {
+      "global_id": 6219,
+      "surah": 111,
+      "ayah": 3,
+      "verse_key": "111:3",
+      "text_ar": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ"
+    },
+    {
+      "global_id": 6220,
+      "surah": 111,
+      "ayah": 4,
+      "verse_key": "111:4",
+      "text_ar": "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ"
+    },
+    {
+      "global_id": 6221,
+      "surah": 111,
+      "ayah": 5,
+      "verse_key": "111:5",
+      "text_ar": "فِى جِيدِهَا حَبْلٌ مِّن مَّسَدٍۭ"
+    }
+  ]
+}

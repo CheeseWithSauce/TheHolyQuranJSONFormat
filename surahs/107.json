@@ -1,0 +1,58 @@
+{
+  "surah_number": 107,
+  "name_en": "Al-Ma'un",
+  "name_ar": "الماعون",
+  "verses_count": 7,
+  "revelation_place": "makkah",
+  "verses": [
+    {
+      "global_id": 6198,
+      "surah": 107,
+      "ayah": 1,
+      "verse_key": "107:1",
+      "text_ar": " أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ"
+    },
+    {
+      "global_id": 6199,
+      "surah": 107,
+      "ayah": 2,
+      "verse_key": "107:2",
+      "text_ar": "فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ"
+    },
+    {
+      "global_id": 6200,
+      "surah": 107,
+      "ayah": 3,
+      "verse_key": "107:3",
+      "text_ar": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ"
+    },
+    {
+      "global_id": 6201,
+      "surah": 107,
+      "ayah": 4,
+      "verse_key": "107:4",
+      "text_ar": "فَوَيْلٌ لِّلْمُصَلِّينَ"
+    },
+    {
+      "global_id": 6202,
+      "surah": 107,
+      "ayah": 5,
+      "verse_key": "107:5",
+      "text_ar": "ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ"
+    },
+    {
+      "global_id": 6203,
+      "surah": 107,
+      "ayah": 6,
+      "verse_key": "107:6",
+      "text_ar": "ٱلَّذِينَ هُمْ يُرَآءُونَ"
+    },
+    {
+      "global_id": 6204,
+      "surah": 107,
+      "ayah": 7,
+      "verse_key": "107:7",
+      "text_ar": "وَيَمْنَعُونَ ٱلْمَاعُونَ"
+    }
+  ]
+}

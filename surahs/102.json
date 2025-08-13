@@ -1,0 +1,65 @@
+{
+  "surah_number": 102,
+  "name_en": "At-Takathur",
+  "name_ar": "التكاثر",
+  "verses_count": 8,
+  "revelation_place": "makkah",
+  "verses": [
+    {
+      "global_id": 6169,
+      "surah": 102,
+      "ayah": 1,
+      "verse_key": "102:1",
+      "text_ar": " أَلْهَىٰكُمُ ٱلتَّكَاثُرُ"
+    },
+    {
+      "global_id": 6170,
+      "surah": 102,
+      "ayah": 2,
+      "verse_key": "102:2",
+      "text_ar": "حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ"
+    },
+    {
+      "global_id": 6171,
+      "surah": 102,
+      "ayah": 3,
+      "verse_key": "102:3",
+      "text_ar": "كَلَّا سَوْفَ تَعْلَمُونَ"
+    },
+    {
+      "global_id": 6172,
+      "surah": 102,
+      "ayah": 4,
+      "verse_key": "102:4",
+      "text_ar": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ"
+    },
+    {
+      "global_id": 6173,
+      "surah": 102,
+      "ayah": 5,
+      "verse_key": "102:5",
+      "text_ar": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ"
+    },
+    {
+      "global_id": 6174,
+      "surah": 102,
+      "ayah": 6,
+      "verse_key": "102:6",
+      "text_ar": "لَتَرَوُنَّ ٱلْجَحِيمَ"
+    },
+    {
+      "global_id": 6175,
+      "surah": 102,
+      "ayah": 7,
+      "verse_key": "102:7",
+      "text_ar": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ"
+    },
+    {
+      "global_id": 6176,
+      "surah": 102,
+      "ayah": 8,
+      "verse_key": "102:8",
+      "text_ar": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ"
+    }
+  ]
+}

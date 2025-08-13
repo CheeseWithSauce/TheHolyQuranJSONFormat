@@ -1,0 +1,30 @@
+{
+  "surah_number": 108,
+  "name_en": "Al-Kawthar",
+  "name_ar": "الكوثر",
+  "verses_count": 3,
+  "revelation_place": "makkah",
+  "verses": [
+    {
+      "global_id": 6205,
+      "surah": 108,
+      "ayah": 1,
+      "verse_key": "108:1",
+      "text_ar": " إِنَّآ أَعْطَيْنَـٰكَ ٱلْكَوْثَرَ"
+    },
+    {
+      "global_id": 6206,
+      "surah": 108,
+      "ayah": 2,
+      "verse_key": "108:2",
+      "text_ar": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ"
+    },
+    {
+      "global_id": 6207,
+      "surah": 108,
+      "ayah": 3,
+      "verse_key": "108:3",
+      "text_ar": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ"
+    }
+  ]
+}

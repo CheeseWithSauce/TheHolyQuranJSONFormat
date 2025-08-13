@@ -1,0 +1,58 @@
+{
+  "surah_number": 1,
+  "name_en": "Al-Fatihah",
+  "name_ar": "الفاتحة",
+  "verses_count": 7,
+  "revelation_place": "makkah",
+  "verses": [
+    {
+      "global_id": 1,
+      "surah": 1,
+      "ayah": 1,
+      "verse_key": "1:1",
+      "text_ar": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "global_id": 2,
+      "surah": 1,
+      "ayah": 2,
+      "verse_key": "1:2",
+      "text_ar": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ"
+    },
+    {
+      "global_id": 3,
+      "surah": 1,
+      "ayah": 3,
+      "verse_key": "1:3",
+      "text_ar": "ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ"
+    },
+    {
+      "global_id": 4,
+      "surah": 1,
+      "ayah": 4,
+      "verse_key": "1:4",
+      "text_ar": "مَـٰلِكِ يَوْمِ ٱلدِّينِ"
+    },
+    {
+      "global_id": 5,
+      "surah": 1,
+      "ayah": 5,
+      "verse_key": "1:5",
+      "text_ar": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ"
+    },
+    {
+      "global_id": 6,
+      "surah": 1,
+      "ayah": 6,
+      "verse_key": "1:6",
+      "text_ar": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ"
+    },
+    {
+      "global_id": 7,
+      "surah": 1,
+      "ayah": 7,
+      "verse_key": "1:7",
+      "text_ar": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ"
+    }
+  ]
+}

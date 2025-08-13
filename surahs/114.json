@@ -1,0 +1,51 @@
+{
+  "surah_number": 114,
+  "name_en": "An-Nas",
+  "name_ar": "الناس",
+  "verses_count": 6,
+  "revelation_place": "makkah",
+  "verses": [
+    {
+      "global_id": 6231,
+      "surah": 114,
+      "ayah": 1,
+      "verse_key": "114:1",
+      "text_ar": " قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ"
+    },
+    {
+      "global_id": 6232,
+      "surah": 114,
+      "ayah": 2,
+      "verse_key": "114:2",
+      "text_ar": "مَلِكِ ٱلنَّاسِ"
+    },
+    {
+      "global_id": 6233,
+      "surah": 114,
+      "ayah": 3,
+      "verse_key": "114:3",
+      "text_ar": "إِلَـٰهِ ٱلنَّاسِ"
+    },
+    {
+      "global_id": 6234,
+      "surah": 114,
+      "ayah": 4,
+      "verse_key": "114:4",
+      "text_ar": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ"
+    },
+    {
+      "global_id": 6235,
+      "surah": 114,
+      "ayah": 5,
+      "verse_key": "114:5",
+      "text_ar": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ"
+    },
+    {
+      "global_id": 6236,
+      "surah": 114,
+      "ayah": 6,
+      "verse_key": "114:6",
+      "text_ar": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ"
+    }
+  ]
+}

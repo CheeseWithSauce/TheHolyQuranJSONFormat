@@ -1,0 +1,86 @@
+{
+  "surah_number": 93,
+  "name_en": "Ad-Duhaa",
+  "name_ar": "الضحى",
+  "verses_count": 11,
+  "revelation_place": "makkah",
+  "verses": [
+    {
+      "global_id": 6080,
+      "surah": 93,
+      "ayah": 1,
+      "verse_key": "93:1",
+      "text_ar": " وَٱلضُّحَىٰ"
+    },
+    {
+      "global_id": 6081,
+      "surah": 93,
+      "ayah": 2,
+      "verse_key": "93:2",
+      "text_ar": "وَٱلَّيْلِ إِذَا سَجَىٰ"
+    },
+    {
+      "global_id": 6082,
+      "surah": 93,
+      "ayah": 3,
+      "verse_key": "93:3",
+      "text_ar": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ"
+    },
+    {
+      "global_id": 6083,
+      "surah": 93,
+      "ayah": 4,
+      "verse_key": "93:4",
+      "text_ar": "وَلَلْـَٔاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ"
+    },
+    {
+      "global_id": 6084,
+      "surah": 93,
+      "ayah": 5,
+      "verse_key": "93:5",
+      "text_ar": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ"
+    },
+    {
+      "global_id": 6085,
+      "surah": 93,
+      "ayah": 6,
+      "verse_key": "93:6",
+      "text_ar": "أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ"
+    },
+    {
+      "global_id": 6086,
+      "surah": 93,
+      "ayah": 7,
+      "verse_key": "93:7",
+      "text_ar": "وَوَجَدَكَ ضَآلًّا فَهَدَىٰ"
+    },
+    {
+      "global_id": 6087,
+      "surah": 93,
+      "ayah": 8,
+      "verse_key": "93:8",
+      "text_ar": "وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ"
+    },
+    {
+      "global_id": 6088,
+      "surah": 93,
+      "ayah": 9,
+      "verse_key": "93:9",
+      "text_ar": "فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ"
+    },
+    {
+      "global_id": 6089,
+      "surah": 93,
+      "ayah": 10,
+      "verse_key": "93:10",
+      "text_ar": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ"
+    },
+    {
+      "global_id": 6090,
+      "surah": 93,
+      "ayah": 11,
+      "verse_key": "93:11",
+      "text_ar": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ"
+    }
+  ]
+}

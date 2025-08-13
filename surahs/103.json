@@ -1,0 +1,30 @@
+{
+  "surah_number": 103,
+  "name_en": "Al-'Asr",
+  "name_ar": "العصر",
+  "verses_count": 3,
+  "revelation_place": "makkah",
+  "verses": [
+    {
+      "global_id": 6177,
+      "surah": 103,
+      "ayah": 1,
+      "verse_key": "103:1",
+      "text_ar": " وَٱلْعَصْرِ"
+    },
+    {
+      "global_id": 6178,
+      "surah": 103,
+      "ayah": 2,
+      "verse_key": "103:2",
+      "text_ar": "إِنَّ ٱلْإِنسَـٰنَ لَفِى خُسْرٍ"
+    },
+    {
+      "global_id": 6179,
+      "surah": 103,
+      "ayah": 3,
+      "verse_key": "103:3",
+      "text_ar": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ"
+    }
+  ]
+}

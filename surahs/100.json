@@ -1,0 +1,86 @@
+{
+  "surah_number": 100,
+  "name_en": "Al-'Adiyat",
+  "name_ar": "العاديات",
+  "verses_count": 11,
+  "revelation_place": "makkah",
+  "verses": [
+    {
+      "global_id": 6147,
+      "surah": 100,
+      "ayah": 1,
+      "verse_key": "100:1",
+      "text_ar": " وَٱلْعَـٰدِيَـٰتِ ضَبْحًا"
+    },
+    {
+      "global_id": 6148,
+      "surah": 100,
+      "ayah": 2,
+      "verse_key": "100:2",
+      "text_ar": "فَٱلْمُورِيَـٰتِ قَدْحًا"
+    },
+    {
+      "global_id": 6149,
+      "surah": 100,
+      "ayah": 3,
+      "verse_key": "100:3",
+      "text_ar": "فَٱلْمُغِيرَٰتِ صُبْحًا"
+    },
+    {
+      "global_id": 6150,
+      "surah": 100,
+      "ayah": 4,
+      "verse_key": "100:4",
+      "text_ar": "فَأَثَرْنَ بِهِۦ نَقْعًا"
+    },
+    {
+      "global_id": 6151,
+      "surah": 100,
+      "ayah": 5,
+      "verse_key": "100:5",
+      "text_ar": "فَوَسَطْنَ بِهِۦ جَمْعًا"
+    },
+    {
+      "global_id": 6152,
+      "surah": 100,
+      "ayah": 6,
+      "verse_key": "100:6",
+      "text_ar": "إِنَّ ٱلْإِنسَـٰنَ لِرَبِّهِۦ لَكَنُودٌ"
+    },
+    {
+      "global_id": 6153,
+      "surah": 100,
+      "ayah": 7,
+      "verse_key": "100:7",
+      "text_ar": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ"
+    },
+    {
+      "global_id": 6154,
+      "surah": 100,
+      "ayah": 8,
+      "verse_key": "100:8",
+      "text_ar": "وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ"
+    },
+    {
+      "global_id": 6155,
+      "surah": 100,
+      "ayah": 9,
+      "verse_key": "100:9",
+      "text_ar": "۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ"
+    },
+    {
+      "global_id": 6156,
+      "surah": 100,
+      "ayah": 10,
+      "verse_key": "100:10",
+      "text_ar": "وَحُصِّلَ مَا فِى ٱلصُّدُورِ"
+    },
+    {
+      "global_id": 6157,
+      "surah": 100,
+      "ayah": 11,
+      "verse_key": "100:11",
+      "text_ar": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌۢ"
+    }
+  ]
+}
