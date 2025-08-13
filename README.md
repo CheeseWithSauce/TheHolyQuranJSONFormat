@@ -1,5 +1,5 @@
 # TheHolyQuranJSONFormat
-A complete Quran dataset in JSON format,available in both standard Uthmani script and Tajweed colored versions.
+A complete Quran dataset in JSON format,available in both standard Uthmani script and Tajweed colored versions. (EVERYTHING IS FREE TO USE, NO CREDITS NEEDED)
 Includes 114 separate Surah files and one full quran.json file containing every verse.
 Each verse is given a continuous global ID plus Surah/Ayah info.
 Built specially for Muslim developers creating Quran apps etc
@@ -92,6 +92,7 @@ NOTES
 The text is fully Uthmani script.
 
 Surah and Ayah numbers follow standard Quranic numbering
+
 
 The Tajweed colors follow international Mushaf Tajweed standards.
 
